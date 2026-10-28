@@ -9,17 +9,17 @@ jobs:
   # Default mode: tables are Parquet folders and the Delta writes are replaced by their
   # plain-Spark equivalents (no Delta Lake needed).
   pytest:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v6
         with:
           distribution: temurin
           java-version: "17"
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.11"
           cache: pip
@@ -37,19 +37,19 @@ jobs:
   # Delta mode: tables are Delta tables and the real Delta writes run (replaceWhere, MERGE).
   # Also checks that each Delta MERGE gives exactly the same table as its plain-Spark equivalent.
   pytest-delta:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     env:
       HR_TESTS_DELTA: "1"
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v6
         with:
           distribution: temurin
           java-version: "17"
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.11"
           cache: pip
