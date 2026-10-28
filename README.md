@@ -1,5 +1,7 @@
 # HR People Analytics Pipeline (Databricks · PySpark · Medallion)
 
+[![tests](https://github.com/gastonjrodriguez/hr-people-analytics-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/gastonjrodriguez/hr-people-analytics-pipeline/actions/workflows/tests.yml)
+
 End-to-end data pipeline that turns raw HR system extracts into analytics-ready tables for three People Analytics use cases:
 
 - **Turnover & retention** – monthly headcount, gross turnover and early turnover per department.
@@ -35,7 +37,7 @@ flowchart LR
     B --> Q["Silver<br/>quarantine tables per batch<br/>(rejected rows + reason)"]
     C --> D["Gold<br/>star schema<br/>dims + facts"]
     D --> E["Gold<br/>KPI tables<br/>+ data quality tables"]
-    E --> F["Power BI"]
+    E -.-> F["BI tool (e.g. Power BI)<br/>not included"]
     B -.-> L[("monitoring.pipeline_logs<br/>monitoring.batch_control")]
     C -.-> L
     E -.-> L
@@ -62,7 +64,7 @@ Full source model (17 tables): [`docs/erd_source_full.svg`](docs/erd_source_full
 
 ## Gold data model
 
-Gold is a **star schema**: dimensions (`gold_dim_*`) and facts (`gold_fact_*`), plus aggregated tables built from them for Power BI.
+Gold is a **star schema**: dimensions (`gold_dim_*`) and facts (`gold_fact_*`), plus aggregated tables built from them for a BI tool such as Power BI.
 
 ![Gold star schema](docs/gold_star_schema.svg)
 
