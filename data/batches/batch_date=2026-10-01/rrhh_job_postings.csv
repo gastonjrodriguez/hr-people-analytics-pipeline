@@ -1,0 +1,15 @@
+posting_id,position_id,department_id,title,description,requirements,salary_min,salary_max,location,posted_date,closing_date,status,hiring_manager_id
+1,13,3,Sales Representative,,"3+ years experience, relevant skills",41003,99467,  Mendoza  ,"Feb 02, 2024",2024-08-01,,100008
+2,100007,5,Operations Coordinator,We are looking for a talented professional to join our team.,,67540,95000,Mendoza,2024-01-03,2024-10-23,closed,15
+3,12,4,,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",56159,119013,Buenos Aires,2024-02-24,2024/11/02,closed,13
+4,,7,Legal Counsel,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",73089,127636,Mendoza,2024-05-04,2024-07-01,filled,7
+5,4,6,Support Agent,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",71507,128349,Mendoza,2024-03-28,2024-06-30,Filled,13
+6,19,5,Financial Analyst,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",45455,106352,Rosario,2024-03-16,,closed,
+7,1,10,Support Lead,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",,142278,,2024-03-08,2024-07-15,open,12
+8,7,1,Legal Counsel,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",,114406,Rosario,2024-05-02,2024-09-06,filled,5
+9,20,8,Operations Coordinator,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",78246,-110464,Buenos Aires,2024-03-30,2024-12-10,open,6
+100009,4,5,Data Analyst,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",56200,128127,Rosario,18 Mar 2024,2024-08-07,closed,5
+11,9,9,Legal Counsel,We are looking for a talented professional to join our team.,"  3+ years experience, relevant skills  ",,149078,Buenos Aires,2024-04-17,2024-09-07,,2
+12,7,8,,,"3+ years experience, relevant skills",46183,126142,Mendoza,2024-01-20,2024-10-08,filled,14
+3,12,4,,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",56159,119013,Buenos Aires,2024-02-24,2024-11-02,closed,13
+13,6,10,Data Analyst,We are looking for a talented professional to join our team.,"3+ years experience, relevant skills",40000,70000,Mendoza,2026-08-10,2026-09-25,filled,2

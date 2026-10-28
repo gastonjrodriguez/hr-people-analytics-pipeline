@@ -1,0 +1,13 @@
+department_id,department_name,department_code,budget,location,head_count_limit,cost_center,created_at
+1,Ingeniería,ING,6956064,Córdoba,30,CC-001,2015-03-17
+2,Ventas,VEN,907875,,37,CC-002,2015-11-23
+3,Marketing,MAR,1893248,Mendoza,37,CC-003,2017-03-22
+4,recursos humanos,REC,,,46,CC-004,2018-01-26
+5,Finanzas,FIN,5860560,Rosario,15,CC-005,
+6,Operaciones,"OPE
+",4421925,Córdoba,19,CC-006,2017-01-22
+7,Legal,LEG,9959972,Buenos Aires,39,CC-007,
+8,Soporte,,5396625,Buenos Aires,39,CC-008,2019-10-28
+9,Product,,3008575,CóRDOBA,20,CC-009,2018-10-10
+10,Data,DAT,1429446,Mendoza,20,CC-010,2018-08-27
+9,Product,,3008575,Córdoba,20,CC-009,2018-10-10

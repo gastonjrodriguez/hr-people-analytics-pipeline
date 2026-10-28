@@ -1,0 +1,157 @@
+interview_id,candidate_id,interviewer_id,interview_type,scheduled_date,duration_minutes,rating,feedback,recommendation,status
+1,42,458,technical,28 May 2024,45,3,Interview feedback and notes,strong_hire,no_show
+2,85,267,technical,2024-05-20 16:10:15,60,0,Interview feedback and notes,strong_hire,no_show
+3,23,314,,2024-01-13 18:51:16,27180,1,Interview feedback and notes,no_hire,cancelled
+4,26,483,behaviroal,2024-02-24 19:52:09,30,3,Interview feedback and notes,no_hire,scheduled
+5,97,126,final,2024-05-25 06:25:47,30,3,Interview feedback and notes,undecided,scheduled
+6,,379,technical,2024-05-01 22:53:22,90,2,Interview feedback and notes,hire,no_show
+7,90,392,behavioral,2024-05-12 00:37:35,60,1,Interview feedback and notes,no_hire,no_show
+8,100096,491,Phone_screen,2024-01-21 18:59:19,30,5,Interview feedback and notes,no_hire,completed
+9,16,419,final,2024-01-13 02:38:04,60,1,Interview feedback and notes,strong_hire,completed
+10,85,,behavioral,2024-04-13 00:54:36,,,,undecided,cancelled
+11,99,66,behavioral,2024-04-28 07:25:46,90,2,Interview feedback and notes,hire,cancelled
+12,21,124,phone_screen,2024-05-15 09:27:34,45,3,Interview feedback and notes,strong_hire,scheduled
+13,59,464,culture_fit,,30,3,Interview feedback and notes,hire,cancelled
+14,56,112,culture_fit,2024-05-15 17:50:22,N/A,3,Interview feedback and notes,hire,cancelled
+15,31,194,final,2024-02-28 12:44:23,90,3,"Interview feedback and notes
+",strong_hire,completed
+16,92,141,behavioral,2024-02-12 02:45:46,,5,Interview feedback and notes,no_hire,completed
+17,18,194,final,2024-01-18 20:03:26,45,3,Interview feedback and notes,hire,no_show
+18,88,29,phone_screen_v2,2027-05-07,30,3,Interview feedback and notes,no_hire,completed
+19,77,475,culture_fit,2024-04-05 03:16:42,45,4,Interview feedback and notes,no_hire,no_show
+20,23,114,culture_fit,2024-03-28 19:12:39,90,,Interview feedback and notes,hire,no_show
+21,1,277,technical,2024-04-10 16:34:24,60,1,Interview feedback and notes,hire,no_show
+22,6,307,culture_fit,2024-04-01 18:47:54,60,1,Interview feedback and notes,hire,completed
+23,22,,final,2024-03-24 05:42:48,90,2,Interview feedback and notes,no_hire,scheduled
+24,28,400,culture_fit,2024-03-15 15:53:34,45,2,Interview feedback and notes,no_hire,scheduled
+25,100091,203,culture_fit,2024-01-24 09:16:43,45,1,Interview feedback and notes,no_hire,scheduled
+26,9,327,final,2024-02-08 19:21:04,,2,Interview feedback and notes,strong_hire,completed
+27,67,192,culture_fit,2024-01-19 08:21:44,35760,5,Interview feedback and notes,no_hire,completed
+28,84,,,2024-04-03 13:59:02,30,5,Interview feedback and notes,hire,no_show
+29,100025,100468,final,2024-04-11 05:10:01,30,0,Interview feedback and notes,no_hire,scheduled
+30,12,331,behavioral,,45,1,Interview feedback and notes,no_hire,completed
+31,9,340,behavioral,2024-05-25 20:52:34,90,4,Interview feedback and notes,undecided,scheduled
+32,69,248,behavioral,2024-01-11 10:17:46,45,2,Interview feedback and notes,,completed
+33,41,187,behavioral,2024-01-21 16:50:21,60,1,,undecided,scheduled
+34,23,100057,technical,2024-05-01 21:00:51,60,2,Interview feedback and notes,strong_hire,no_show
+35,5,60,final,2024-01-20 06:43:25,30,3,Interview feedback and notes,no_hire,no_show
+36,29,,phone_screen,2024-04-06 01:32:28,60,,Interview feedback and notes,hire,cancelled
+37,82,136,behavioral,2024-05-06 00:14:33,60,2,Interview feedback and notes,"hire
+",completed
+38,55,237,phone_screen,2024-04-26 17:40:27,90,4,Interview feedback and notes,hire,completed
+39,53,497,culture_fit,2024-05-14 00:40:24,-45,4,Interview feedback and notes,no_hire,completed
+40,58,106,behavioral,2024-02-03 09:16:32,90,5,Interview feedback and notes,strong_hire,cancelled
+41,60,276,technical,,60,1,Interview feedback and notes,undecided,completed
+42,63,28,behavioral,2024-05-09 10:59:07,30,-4,,no_hire,completed
+43,30,349,culture_fit,2024-02-18 08:18:17,90,2,Interview feedback and notes,no_hire,scheduled
+44,81,212,final,2024-02-08 23:42:00,45,,Interview feedback and notes,undecided,no_show
+45,25,153,Culture_fit,2024-02-03 09:32:04,90,5,Interview feedback and notes,no_hire,no_show
+46,75,476,technical,2024-05-31 16:54:59,90,1,Interview feedback and notes,no_hire,cancelled
+47,32,,,2024-05-12 11:34:52,30,4,Interview feedback and notes,strong_hire,Cancelled
+48,25,100034,behavioral,,45,5,Interview feedback and notes,strong_hire,completed
+49,51,125,final,2024-02-03 14:24:33,0,5,Interview feedback and notes,strong_hire,cancelled
+50,63,110,phone_screen,2024-04-01 14:12:56,30,1,interview feedback and notes,hire,no_show
+51,8,262,culture_fit,2026-11-03,30,1,Interview feedback and notes,no_hire,completed
+52,84,358,technical,2024-02-04 04:49:07,45,4,Interview feedback and notes,no_hire,scheduled
+53,94,229,behavioral,2024-04-06 15:05:12,90,,Interview feedback and notes,strong_hire,no_show
+54,94,,behavioral,2024-04-19 14:30:13,60,1,Interview feedback and notes,undecided,no_show
+55,10,42,final,2024-04-27 10:02:35,60,2,,strong_hire,no_show
+56,,130,culture_fit,2024-04-26 07:52:26,90,3,,strong_hire,no_show
+57,92,40,technical,2024-05-09 15:59:01,90,1,INTERVIEW FEEDBACK AND NOTES,no_hire,completed
+58,39,317,culture_fit,2024-03-03 23:38:30,60,-4,Interview feedback and notes,undecided,scheduled
+59,100016,260,technical,2024-03-17 01:57:25,30,1,  Interview feedback and notes  ,  strong_hire  ,no_show
+60,76,,final,2026-12-16,45,3,,,cancelled
+61,42,479,technical,2024-03-11 18:09:27,30,-5,Interview feedback and notes,strong_hire,no_show
+62,40,197,behavioral,2024-03-08 05:12:46,45,,Interview feedback and notes,strong_hire,cancelled
+63,30,189,final,2024-01-18 17:06:45,60,1,Interview feedback and notes,no_hire,scheduled
+64,81,485,behavioral,2024-02-15 02:37:55,,3,Interview feedback and notes,strong_hire,cancelled
+65,22,258,phone_screen,2024-01-28 13:07:11,90,4,Interview feedback and notes,hire,scheduled
+66,22,431,culture_fit,2024-01-02 23:08:54,90,3,Interview feedback and notes,undecided,scheduled
+67,57,369,phone_screen,2024-05-06 13:37:28,45,4,Interview feedback and notes,strong_hire,
+68,95,,behavioral,2024-05-23 20:49:05,45,2,Interview feedback and notes,strong_hire,no_show
+69,71,,final,2027-02-09,60,2,Interview feedback and notes,undecided,completed
+70,89,106,final,2024-02-29 13:16:18,30,5,Interview feedback and notes,no_hire,completed
+71,91,24,Behavioral,2024-01-08 21:21:40,60,4,Interview feedback and notes,undecided,
+72,93,215,behavioral,2024-02-12 21:30:51,60,1,Interview feedback and notes,hire,cancelled
+73,87,,culture_fit,2024-04-04 23:37:52,30,1,Interview feedback and notes,strong_hire,completed
+74,17,50,phone_screen,2024-03-16 02:22:37,30,5,Interview feedback and notes,,no_show
+75,100,423,final_v2,2024-03-29 06:37:20,45,4,Interview feedback and notes,no_hire,
+76,57,240,final,2024-05-15 06:48:56,45,,Interview feedback and notes,no_hire,completed
+77,46,53,final,2024/04/08,30,1,Interview feedback and notes,,scheduled_v2
+78,100065,295,technical,2024-04-14 15:27:33,60,1,Interview feedback and notes,,no_show
+79,43,350,phone_screen,2024-01-13 23:56:09,30,5,Interview feedback and notes,no_hire,scheduled
+80,77,71,behavioral,2024-04-15 16:08:02,60,1,Interview feedback and notes,hire,completed
+81,61,168,phone_screen,2024-04-03 01:28:42,90,,Interview feedback and notes,no_hire,no_show
+82,45,,behavioral,2024-05-10 04:14:48,45,2,Interview feedback and notes,strong_hire,cancelled
+83,18,,culture_fit,2024-05-16 19:20:53,60,1,Interview feedback and notes,hire,no_show
+84,16,216,,2024-03-10 09:04:12,45,5,Interview feedback and notes,strong_hire,no_show
+85,,350,,2024-04-25 02:02:26,90,2,Interview feedback and notes,no_hire,completed
+86,100000,414,culture_fit,2024-01-10 15:19:22,30,2,Interview feedback and notes,hire,no_show
+87,34,,final,27-05-2024,45,,,undecided,completed
+88,100,420,culture_fit,2024-02-29 00:16:36,0,4,Interview feedback and notes,no_hire,completed
+89,1,391,behavioral,2024-03-31 11:56:01,90,1,Interview feedback and notes,hire,compleetd
+90,23,70,behavioral,2024-04-07 18:44:35,60,4,Interview feedback and notes,undecided,scheduled
+91,40,32,behavioral,2024-03-10 05:14:33,60,3,Interview feedback and notes,undecided,cancelled
+92,6,430,phone_screen,2024-02-19 09:45:24,30,5,Interview feedback and notes,hire,cancelled
+93,64,,behavioral,2024-01-14 21:27:29,30,1,Interview feedback and notes,undecided,
+94,72,431,technical,2024-01-25 19:35:55,60,4,,strong_hire,cancelled
+95,78,,culture_fit,,45,5,Interview feedback and notes,no_hire,Completed
+96,100065,317,phone_screen,,45,1,Interview feedback and notes,no_hire,scheduled
+97,99,,phone_screen,2024-04-12 06:55:31,30,2,Interview feedback and notes,undecided,scheduled
+98,24,458,culture_fit,2024-02-08 12:32:35,90,2,Interview feedback and notes,undecided,
+99,28,329,behavioral,2024-02-16 14:50:18,90,717,Interview feedback and notes,undecided,scheduled
+100,14,126,culture_fit,2024-03-03 18:00:58,45,1,Interview feedback and notes,strong_hire,
+101,85,469,phone_screen,2024-02-14 14:20:09,30,3,,strong_hire,no_show
+102,84,313,technical,2024-05-19 16:28:06,90,2,Interview feedback and notes,,cancelled
+103,20,262,technical,2024/01/25,30,1,Interview feedback and notes,hire,
+104,72,162,final,2024-02-19 17:32:39,90,5,Interview feedback and notes,strong_hire,cancelled
+105,21,100078,culture_fit,2024-04-03 17:44:38,90,1,Interview feedback and notes,no_hire,completed
+106,70,159,behavioral,2024-04-29 12:17:46,45,,Interview feedback and notes,undecided,scheduled
+107,51,407,phone_screen,,30,5,Interview feedback and notes,no_hire,completed
+108,36,484,phone_screen,2024-03-25 12:53:22,30,2,,no_hire,
+109,55,114,technical,2024-02-10 02:34:17,45,2,Interview feedback and notes,strong_hire,scheduled
+110,,125,behavioral,2024-02-22 00:54:41,90,4,INTERVIEW FEEDBACK AND NOTES,undecided,no_show
+111,,128,,2024-03-10 19:14:48,,,Interview feedback and notes,strong_hire,no_show
+112,90,279,,2024-05-22 20:31:03,30,3,Interview feedback and notes,  no_hire  ,n_oshow
+113,96,143,final,2024-01-16 05:14:00,45,2,INTERVIEW FEEDBACK AND NOTES,undecided,cancelled
+114,41,476,phone_screen,2024-05-21 19:45:51,60,1,Interview feedback and notes,strong_hire,scheduled
+115,63,452,technical,2024-04-02 11:24:04,45,4,Interview feedback and notes,hire,scheduled
+116,41,8,final,2024-04-02 05:00:34,60,,Interview feedback and notes,strong_hire,no_show
+117,100075,100279,phone_screen,2024-05-16 08:58:44,45,1,Interview feedback and notes,no_hire,scheduled
+118,60,97,culture_fit,2024-03-15 21:02:14,45,,Interview feedback and notes,no_hire,no_show
+119,7,112,culture_fit,2024-05-06 21:05:47,60,3,Interview feedback and notes,no_hire,completed
+120,54,119,technical,2024-04-14 20:16:58,51480,1,Interview feedback and notes,strong_hire,
+121,,335,phone_screen,2024-03-05 09:57:03,-60,2,Interview feedback and notes,hire,cancelled
+122,10,247,behavioral,2024-01-31 01:23:49,90,5,Interview feedback and notes,strong_hire,scheduled
+123,,100037,final,2024-05-19 19:05:44,45,4,Interview feedback and notes,strong_hire,scheduled
+124,29,397,technical,2024-01-19 19:56:38,60,3,Interview feedback and notes,undecided,completed
+125,,,technical,2024-04-23 00:18:10,45,2,Interview feedback and notes,  no_hire  ,
+126,17,460,technical,2024-02-03 11:08:26,60,5,,no_hire,scheduled
+127,100009,292,culture_fit,2024-01-27 05:17:20,90,4,Interview feedback and notes,no_hire,cancelled
+128,90,457,technical,2024-01-28 23:48:51,45,3,Interview feedback and notes,no_hire,scheduled
+129,5,215,culture_fit,23-04-2024,45,4,,no_hire,completed
+130,33,38,technical,2024-01-09 19:46:13,90,1,Interview feedback and notes,,scheduled
+131,49,260,technical,2024-04-01 11:24:30,45,3,Interview feedback and notes,hire,cancelled
+132,13,158,,2024-02-20 23:47:15,60,3,Interview feedback and notes,no_hire,cancelled
+133,89,23,behavioral,2024-01-16 13:45:32,30,3,Interview feedback and notes,hire,
+134,89,,culture_fit,2024-01-27 13:34:26,45,4,Interview feedback and notes,undecided,no_show
+135,74,58,phone_screen,,30,3,Interview feedback and notes,hire,cancelled
+136,67,411,behavioral,2024-02-27 21:46:59,90,5,Interview feedback and notes,hire,no_show
+137,73,303,phone_screen,2024-03-29 15:04:49,60,-1,,hire,completed
+138,47,303,behavioral,2024-02-25 14:55:11,30,4,Interview feedback and notes,hire,no_show
+139,21,76,culture_fit,2024-03-12 09:13:41,45,1,Interview feedback and notes,hire,cancelled
+140,11,168,phone_screen,2024-05-27 12:16:03,45,2,Interview feedback and notes,,no_show
+141,,306,final,2024-02-15 12:03:19,,3,Interview feedback and notes,hire,completed
+142,15,346,behavioral,2024-05-21 08:54:29,90,3,Interview feedback and notes,,no_show
+143,82,457,phone_screen,,30,5,INTERVIEW FEEDBACK AND NOTES,undecided,
+144,77,446,culture_fit,,30,2,Interview feedback and notes,no_hire,no_show
+145,41,13,behavioral,2024-03-16 03:37:39,60,5,Interview feedback and notes,no_hire,
+146,46,297,phone_screen,2024-02-16 08:45:39,30,3,Interview feedback and notes,undecided,cancelled
+147,44,234,culture_fit,2024-01-06 13:47:54,60,5,Interview feedback and notes,undecided,no_show
+148,72,62,,2024-04-30 00:20:07,90,4,Interview feedback and notes,UNDECIDED,scheduled
+149,2,208,behavioral,2024-04-29 09:48:12,45,2,Interview feedback and notes,no_hire,cancelled
+150,87,,technical,2024-03-02 02:10:58,30,3,Interview feedback and notes,undecided,scheduled
+108,36,484,phone_screen,2024-03-25 13:39:25,30,2,,no_hire,
+87,34,,final,2024-05-27 22:51:38,45,,,undecided,completed
+6,,379,technical,2024-05-01 22:53:22,90,2,Interview feedback and notes,hire,no_show
+105,21,79,culture_fit,2024-04-03 17:44:38,90,1,Interview feedback and notes,no_hire,completed

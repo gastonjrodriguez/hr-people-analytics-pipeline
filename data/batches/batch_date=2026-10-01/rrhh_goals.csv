@@ -1,0 +1,543 @@
+goal_id,employee_id,goal_title,description,target_date,progress_percentage,status,created_at
+1,1,Increase sales by 20%,Goal description and success criteria,2024-09-10,61,not_started,2024-01-08
+2,1,Increase sales by 20%,Goal description and success criteria,2024-06-09,34,cancelled,2024-01-14
+3,100001,Lead new project,Goal description and success criteria,30 Sep 2024,13,cancelled,2024-01-29
+4,2,Improve code quality,Goal description and success criteria,2024-11-06,76,in_progress,2024-02-26
+5,2,Lead new project,Goal description and success criteria,2024-06-29,,cancelled,2024-01-01
+6,2,Improve code quality,Goal description and success criteria,2024-08-28,87,not_started,2024-02-03
+7,3,Lead new project,Goal description and success criteria,2024-07-28,41,cancelled,2024-02-01
+8,3,Mentor junior team member,,2024-06-09,29,completed,
+9,4,Complete certification,Goal description and success criteria,2024-09-26,65,in_progress,
+10,4,Mentor junior team member,Goal description and success criteria,2024-12-16,5,in_progress,
+11,4,Lead new project,Goal description and success criteria,2024-12-05,26,completed,
+12,4,Increase sales by 20%,Goal description and success criteria,2024-12-25,2,in_progress,2024-02-29
+13,5,Complete certification,Goal description and success criteria,2024-06-15,41,completed,2024-01-27
+14,5,Lead new project,Goal description and success criteria,2024-12-10,96,not_started,2024-01-13
+15,5,Increase sales by 20%,Goal description and success criteria,2024-06-14,0,not_started,2024-01-31
+16,5,Increase sales by 20%,Goal description and success criteria,2024-10-16,69,completed,2024-02-11
+17,6,"Increase sales by 20%
+",Goal description and success criteria,2024-12-23,41,completed,2024-01-05
+18,6,Mentor junior team member,Goal description and success criteria,2024-06-07,90,completed,2024-02-10
+19,6,Mentor junior team member,Goal description and success criteria,2024-06-13,14,cancelled,2024-01-28
+20,7,Improve code quality,Goal description and success criteria,2024-12-17,14,cancelled,2024-02-21
+21,,Complete certification,Goal description and success criteria,2024-10-05,56,not_started,2024-02-05
+22,8,Improve code quality,Goal description and success criteria,2024-07-08,25,in_progress,2024-02-15
+23,8,Complete certification,Goal description and success criteria,2024-10-28,4,not_started,2024-01-15
+24,8,,  Goal description and success criteria  ,2024-08-22,,completed,2024-01-30
+25,9,Mentor junior team member,Goal description and success criteria,2024-07-20,,in_progress,2024-02-27
+26,9,,Goal description and success criteria,2024-08-12,27,completed,2024-01-01
+27,100008,Lead new project,Goal description and success criteria,2024-08-02,96,completed,2024-01-27
+28,9,Increase sales by 20%,Goal description and success criteria,,83,not_started,2024-02-10
+29,9,Mentor junior team member,Goal description and success criteria,2024-09-23,2,completed,2024-02-19
+30,10,Lead new project,Goal description and success criteria,2024-06-22,76,completed,2024-01-21
+31,10,Increase sales by 20%,Goal description and success criteria,2024-06-28,65,cancelled,2024-02-28
+32,10,Mentor junior team member,Goal description and success criteria,2024-12-03,25,in_progress,2024-01-09
+33,10,Mentor junior team member,Goal description and success criteria,2024-08-30,35,cancelled,2024-01-20
+34,10,Mentor junior team member,Goal description and success criteria,2024-09-07,74,in_progress,2024-01-31
+35,11,Mentor junior team member,Goal description and success criteria,2024-10-15,20,completed,2024-01-27
+36,11,Complete certification,Goal description and success criteria,2024-11-25,18,completed,2024-01-30
+37,12,Lead new project,Goal description and success criteria,2024-08-07,46,completed,2024-02-20
+38,12,Increase sales by 20%,Goal description and success criteria,2024-08-04,23,in_progress,2024-02-25
+39,,Mentor junior team member,Goal description and success criteria,2024-10-09,91,cancelled,2024-02-17
+40,,Mentor junior team member,Goal description and success criteria,2024-07-10,92,not_started,2024-02-26
+41,13,Increase sales by 20%,Goal description and success criteria,2024-10-18,59,Cancelled,2024-01-02
+42,13,INCREASE SALES BY 20%,Goal description and success criteria,2024-08-03,12,in_progress,2024-02-23
+43,13,Improve code quality,Goal description and success criteria,2024-12-20,42,completed,
+44,13,Increase sales by 20%,Goal description and success criteria,2024-06-04,98,completed,2024-02-03
+45,13,Improve code quality,Goal description and success criteria,2024-12-09,91,Cancelled,2024-02-22
+46,14,Lead new project,,2024-07-03,N/A,completed,2024-02-10
+47,14,,Goal description and success criteria,2024-07-29,90,cancelled,
+48,14,Lead new project,Goal description and success criteria,2024-12-12,23,cancelled,2024-02-20
+49,14,Complete certification,Goal description and success criteria,2024-08-02,13,not_started,2024-01-11
+50,15,Lead new project,Goal description and success criteria,2024-09-04,69,in_progress,2024-02-17
+51,15,,Goal description and success criteria,2024-08-02,86,cancelled,2024-01-04
+52,16,Increase sales by 20%,Goal description and success criteria,2024-06-20,13,not_started,2024-01-17
+53,16,Mentor junior team member,Goal description and success criteria,2024-11-22,74,not_started,2024-02-10
+54,16,Lead new project,Goal description and success criteria,2024-06-01,62,in_progress,2026-10-07
+55,16,Lead new project,Goal description and success criteria,2024-09-01,71,not_started,2024-01-21
+56,17,Increase sales by 20%,Goal description and success criteria,2024-08-11,75,completed,2024-01-30
+57,17,Mentor junior team member,Goal description and success criteria,2024-12-25,34,In_progress,
+58,17,Lead new project,Goal description and success criteria,2024-07-11,24,completed,2024-02-08
+59,18,Lead new project,,2024-11-18,58,completed,2024-01-17
+60,18,,Goal description and success criteria,2024-09-07,54,,2024-02-07
+61,18,Improve code quality,,2024-12-29,25,in_progress,2024-02-09
+62,18,Lead new project,Goal description and success criteria,2024-10-02,63,in_progress,2024-01-21
+63,18,Lead new project,Goal description and success criteria,2024-09-24,37,completed,02/27/2024
+64,19,,Goal description and success criteria,2024-09-10,6,cnacelled,2024-02-26
+65,19,,Goal description and success criteria,2024-11-23,49,in_progress,2024-02-12
+66,19,Increase sales by 20%,Goal description and success criteria,2024-07-20,93,in_progress,2024-01-11
+67,20,Complete certification,Goal description and success criteria,2027-07-05,32,in_progress,2024-01-09
+68,20,Mentor junior team member,Goal description and success criteria,2024-11-08,,in_progress,27-01-2024
+69,,Complete certification,Goal description and success criteria,2024-08-30,27,cancelled,2024-01-26
+70,20,Lead new project,Goal description and success criteria,2024-09-12,38,cancelled,2024-01-19
+71,20,Lead new project,Goal description and success criteria,2024-12-18,85,completed,2024-01-09
+72,21,Increase sales by 20%,Goal description and success criteria,2024-06-11,97,completed,2024-02-15
+73,21,Increase sales by 20%,,2024-10-06,48,cancelled,2024-01-18
+74,21,Increase sales by 20%,Goal description and success criteria,2024-07-31,,in_progress,2024-01-18
+75,22,Increase sales by 20%,Goal description and success criteria,2024-06-04,79,completed,2024-02-13
+76,22,,Goal description and success criteria,2024-07-15,97,not_started,2024-02-11
+77,22,Improve code quality,Goal description and success criteria,2024-09-10,,completed,2024-01-30
+78,22,Lead new project,Goal description and success criteria,,23,,2024-02-19
+79,23,Mentor junior team member,Goal description and success criteria,10 Sep 2024,24,completed,30-01-2024
+80,23,Improve code quality,Goal description and success criteria,2024-09-14,58,cancelled,2024-02-29
+81,23,Mentor junior team member,Goal description and success criteria,2024-06-11,,in_progress,2024-02-23
+82,24,Improve code quality,"Goal description and success criteria
+",2024-07-02,15,cancelled,2024-02-18
+83,24,Complete certification,Goal description and success criteria,2024-08-27,55,completed,2024-01-07
+84,25,Complete certification,Goal description and success criteria,2024-07-14,96,cancelled,2024-01-23
+85,100024,Lead new project,Goal description and success criteria,2024-11-09,14,completed,2024-02-02
+86,26,Lead new project,Goal description and success criteria,2024-07-02,3,not_started,2024-02-20
+87,26,Lead new project,GOAL DESCRIPTION AND SUCCESS CRITERIA,2024-07-01,,in_progress,
+88,26,Increase sales by 20%,Goal description and success criteria,2024-10-10,29,cancelled,2024-02-19
+89,100025,Increase sales by 20%,Goal description and success criteria,2024-07-31,13,not_started,2024-02-12
+90,100025,Lead new project,Goal description and success criteria,2024-12-18,95,in_progress,2024-01-18
+91,27,Lead new project,,2024-11-30,46,in_progress,2024-02-15
+92,100026,Improve code quality,Goal description and success criteria,2024-12-09,22,not_started,
+93,28,Mentor junior team member,Goal description and success criteria,2024-08-09,24,not_started,2024-02-07
+94,,Lead new project,,2024/12/26,81,cancelled,2024-01-30
+95,28,Complete certification,Goal description and success criteria,2024-12-02,88,not_started,"Feb 02, 2024"
+96,28,Increase sales by 20%,Goal description and success criteria,2024-07-03,17,completed,2024-01-08
+97,28,Mentor junior team member,Goal description and success criteria,2024-10-09,1,not_started,02/19/2024
+98,29,Mentor junior team member,Goal description and success criteria,2024-10-22,45,completed,
+99,100028,Mentor junior team member,Goal description and success criteria,2024-09-15,,not_started,2024-01-11
+100,30,Improve code quality,Goal description and success criteria,2024-09-15,6,completed,2024-02-27
+101,30,Improve code quality,Goal description and success criteria,2024-11-16,10,not_started,2024-01-17
+102,100030,Increase sales by 20%,Goal description and success criteria,2024-09-02,48807,completed,2024-01-04
+103,31,Increase sales by 20%,Goal description and success criteria,2024-08-18,12,in_progress,2024-01-03
+104,31,,Goal description and success criteria,2024-09-12,50,not_started,2024-01-29
+105,,Mentor junior team member,Goal description and success criteria,2024-07-22,28,completed,2024-02-08
+106,32,Improve code quality,Goal description and success criteria,,82,cancelled,2024-02-08
+107,33,Mentor junior team member,Goal description and success criteria,,49,,2024-02-29
+108,33,Lead new project,Goal description and success criteria,2024-12-30,90,cancelled,2024-01-07
+109,33,Increase sales by 20%,,2024-10-20,39,,2024-02-14
+110,,Complete certification,,2024-07-24,32,not_started,2024-01-08
+111,34,Increase sales by 20%,Goal description and success criteria,2024-10-31,81,not_started,2024-02-04
+112,34,Increase sales by 20%,Goal description and success criteria,2024-07-20,58,,2024-02-04
+113,34,Complete certification,  Goal description and success criteria  ,2024-08-31,79,in_progress,2024-02-23
+114,34,,Goal description and success criteria,2024-12-19,35,,2024-01-17
+115,34,Increase sales by 20%,Goal description and success criteria,15 Sep 2024,45,in_progress,2024-01-03
+116,35,Mentor junior team member,Goal description and success criteria,2024-06-14,54,completed,2024-01-16
+117,35,Complete certification,Goal description and success criteria,2024-06-01,91,completed,2024-01-18
+118,35,,Goal description and success criteria,2024-11-01,47,,2024-01-16
+119,35,Increase sales by 20%,Goal description and success criteria,2024-06-20,77,in_progress,2024-02-19
+120,35,Mentor junior team member,,2024-12-27,50,in_progress,2024-01-15
+121,36,Improve code quality,Goal description and success criteria,,94,,2024-01-28
+122,36,Improve code quality,,2024-08-21,51,completed,2024-01-16
+123,37,Increase sales by 20%,Goal description and success criteria,,97,in_progress,2024-02-28
+124,37,"Complete certification
+",Goal description and success criteria,,50,not_started,2024-02-14
+125,37,Complete certification,Goal description and success criteria,2024-07-23,49,cancelled,2024-01-08
+126,38,Complete certification,Goal description and success criteria,2024-07-03,98,completed,2024-01-18
+127,38,Improve code quality,Goal description and success criteria,2024-11-13,35,not_started,2024-01-21
+128,100037,,Goal description and success criteria,2024-12-20,78,in_progress,2024-01-03
+129,39,Mentor junior team member,Goal description and success criteria,2024-10-11,11,completed,2024-02-19
+130,39,Mentor junior team member,Goal description and success criteria,2024/08/27,26,not_started,
+131,39,Mentor junior team member,Goal description and success criteria,,98,in_progress,
+132,39,Improve code quality,Goal description and success criteria,2026-10-02,97,cancelled,2024-01-23
+133,,Improve code quality,Goal description and success criteria,2024-07-07,50,in_progress,2024-01-13
+134,40,Mentor junior team member,Goal description and success criteria,2024-08-15,87,cancelled,2024-01-08
+135,,Increase sales by 20%,,28 Aug 2024,5,Not_started,2024-02-15
+136,40,Lead new project,Goal description and success criteria,2024-08-21,70,in_progress,2024-02-20
+137,40,,Goal description and success criteria,2024-12-21,100,not_started,2024-02-07
+138,,Improve code quality,Goal description and success criteria,2024-09-25,6,completed,2024-01-11
+139,,Mentor junior team member,Goal description and success criteria,2027-04-24,,,2024-02-04
+140,41,Mentor junior team member,Goal description and success criteria,2024/11/05,13,not_started,2024-02-20
+141,41,Increase sales by 20%,Goal description and success criteria,2024-10-08,94,Cancelled,2024-02-12
+142,42,Complete certification,Goal description and success criteria,12/13/2024,53,Completed,17 Feb 2024
+143,42,Complete certification,Goal description and success criteria,2024-10-14,25,completed_v2,2024-01-31
+144,100041,,Goal description and success criteria,2024-08-12,,in_progress,2024-01-17
+145,42,Mentor junior team member,Goal description and success criteria,2024-12-03,0,cancelled,2024-02-09
+146,43,Improve code quality,Goal description and success criteria,2024-09-30,99,cancelled,2024-02-24
+147,43,Increase sales by 20%,Goal description and success criteria,2024-10-04,99,cancelled,2024-01-01
+148,43,Improve code quality,Goal description and success criteria,,92,cancelled,2024-02-17
+149,43,,Goal description and success criteria,2024-11-30,73,not_started,2024-02-20
+150,44,  Improve code quality  ,GOAL DESCRIPTION AND SUCCESS CRITERIA,2024-07-31,68,not_statred,2024-02-12
+151,44,Mentor junior team member,Goal description and success criteria,2024-10-04,49,cancelled,2024-01-18
+152,44,Increase sales by 20%,Goal description and success criteria,2024-06-09,89,in_progress,2024-01-31
+153,45,Lead new project,,2024-06-18,36,in_progress,
+154,45,Increase sales by 20%,Goal description and success criteria,2024-07-28,95,in_progress,2024-01-10
+155,46,complete certification,Goal description and success criteria,2024-07-17,41,in_progress,
+156,46,Lead new project,Goal description and success criteria,2024-11-06,92,in_progress,2024-02-14
+157,46,Improve code quality,Goal description and success criteria,2024-07-13,,completed,01/08/2024
+158,46,Mentor junior team member,Goal description and success criteria,2024-06-27,93,in_progress,2024-02-23
+159,,Improve code quality,Goal description and success criteria,2024-11-27,62,not_started,2024-02-02
+160,47,Mentor junior team member,Goal description and success criteria,2024-08-07,99,,2024-01-18
+161,47,Lead new project,Goal description and success criteria,2024-07-25,43,in_progress,2024-01-15
+162,47,Lead new project,,2024-10-04,6,in_progress,2024-02-28
+163,48,,,2024-06-11,68,in_progress,2024-01-29
+164,,Improve code quality,Goal description and success criteria,2024-06-14,3,cancelled,2024-01-07
+165,,Lead new project,Goal description and success criteria,2024-07-22,22,not_started,2024-02-18
+166,48,,Goal description and success criteria,2024-06-07,48,not_started,2024-01-25
+167,49,Mentor junior team member,Goal description and success criteria,2024-07-19,53,not_started,2024-02-28
+168,49,Complete certification,Goal description and success criteria,2024-11-13,14,not_started,2024/01/09
+169,49,Mentor junior team member,  Goal description and success criteria  ,2024-12-25,,completed,"Feb 21, 2024"
+170,49,LEAD NEW PROJECT,,2024-12-02,47,cancelled,2024-02-25
+171,49,Complete certification,Goal description and success criteria,2024-11-03,50,in_progress,2024-02-14
+172,50,Lead new project,Goal description and success criteria,2027-04-09,58,in_progress,2024-02-16
+173,50,Improve code quality,Goal description and success criteria,2024-06-08,63,completed,2024-02-02
+174,50,Complete certification,,2024-08-31,25,completed,2024-01-11
+175,50,,Goal description and success criteria,2024-12-20,79,,2024-02-13
+176,51,Lead new project,Goal description and success criteria,,8,not_started,2024-01-16
+177,51,Improve code quality,Goal description and success criteria,2024-10-15,74,in_progress,2024-02-17
+178,51,Lead new project,Goal description and success criteria,2024-06-13,93,cancelled,2024-01-13
+179,51,Improve code quality,Goal description and success criteria,2024-09-01,9,not_started,2024-01-10
+180,51,Mentor junior team member,Goal description and success criteria,2024-07-31,9,in_progress,2024-01-09
+181,52,Mentor junior team member,Goal description and success criteria,2024-08-24,55,cancelled,2024-01-07
+182,52,MENTOR JUNIOR TEAM MEMBER,Goal description and success criteria,2024-12-09,35,in_progrses,2024-02-13
+183,52,Lead new project,goal description and success criteria,2024-06-30,52,cancelled,2024-01-25
+184,52,Lead new project,goal description and success criteria,2024-11-11,39,not_started,2024-01-18
+185,53,Lead new project,Goal description and success criteria,2024-09-09,48,in_progress,2024-01-01
+186,53,Mentor junior team member,Goal description and success criteria,2024-07-12,80,in_progress,2024-02-04
+187,53,Increase sales by 20%,Goal description and success criteria,2024-12-03,73,not_started,2024-02-06
+188,54,Improve code quality,,2024-11-08,,cancelled,2024-01-28
+189,54,Increase sales by 20%,Goal description and success criteria,2024-09-24,61,not_started,2024-01-01
+190,54,Lead new project,Goal description and success criteria,,48,completed,2024-01-27
+191,54,Mentor junior team member,Goal description and success criteria,2024-11-08,4,in_progress,2026-12-14
+192,,Mentor junior team member,Goal description and success criteria,2024-12-10,39,complteed,2024-02-22
+193,55,Increase sales by 20%,,2024-12-29,66,not_started,2024-01-22
+194,55,,Goal description and success criteria,2024-09-08,18,,2024-02-05
+195,55,Lead new project,Goal description and success criteria,2024-06-02,60,Not_started,"Jan 09, 2024"
+196,100054,Complete certification,,,51,completed,2024-01-24
+197,56,Lead new project,Goal description and success criteria,2024-11-24,67,in_progress,2024-02-08
+198,56,Mentor junior team member,Goal description and success criteria,2024-06-28,27,completed,2024-02-15
+199,56,Improve code quality,Goal description and success criteria,"Jul 08, 2024",88,,"Feb 19, 2024"
+200,57,Increase sales by 20%,Goal description and success criteria,2024-10-23,19,cancelled,2024-02-13
+201,57,Complete certification,Goal description and success criteria,,41,in_progress,2024-01-25
+202,58,Lead new project,Goal description and success criteria,2024-08-14,2,cancelled_v2,2024-02-06
+203,58,Mentor junior team member,,2024-10-22,64,cancelled,
+204,58,,Goal description and success criteria,2024-11-20,45,not_started,2024-02-04
+205,59,Lead new project,Goal description and success criteria,2024-09-09,72,completed,2024-02-18
+206,59,Increase sales by 20%,Goal description and success criteria,2024-11-13,67,not_started,2024-01-22
+207,59,  Lead new project  ,Goal description and success criteria,2024-09-10,55,completed,2024-01-13
+208,59,COMPLETE CERTIFICATION,Goal description and success criteria,2024-07-31,,in_progress,2026-08-03
+209,60,Complete certification,Goal description and success criteria,2024-06-16,30,in_progress,2024-01-20
+210,60,Mentor junior team member,,2024-09-23,89,cancelled,
+211,60,Increase sales by 20%,Goal description and success criteria,11-09-2024,69,cancelled,2024-01-10
+212,61,Mentor junior team member,Goal description and success criteria,2024-12-28,3,in_progress,2024-01-25
+213,61,Complete certification,Goal description and success criteria,2024-08-26,3,cancelled,2024-01-09
+214,62,Increase sales by 20%,Goal description and success criteria,2024-11-17,75,cancelled,2024-02-03
+215,62,Increase sales by 20%,Goal description and success criteria,2024-12-15,44,not_started,2024-01-31
+216,62,Improve code quality,Goal description and success criteria,2024-10-25,20,not_started,2024-02-19
+217,62,  Increase sales by 20%  ,Goal description and success criteria,2024-08-04,69,in_progerss,2024/02/29
+218,63,Improve code quality,Goal description and success criteria,2024-12-12,52,not_started,2024-02-15
+219,63,,,2024-08-10,60,Cancelled,2024-01-25
+220,63,Mentor junior team member,Goal description and success criteria,,26,completed,2024-01-05
+221,63,Lead new project,Goal description and success criteria,2024-11-28,30,completed,2024-01-17
+222,63,Mentor junior team member,Goal description and success criteria,07 Oct 2024,,cancelled,2024-01-22
+223,64,Mentor junior team member,Goal description and success criteria,2024-11-14,56,completed,2024-02-22
+224,64,Lead new project,Goal description and success criteria,2024-06-28,39,cancelled,2024-01-09
+225,65,,Goal description and success criteria,2024-08-03,81,not_started,2024-02-17
+226,100064,Increase sales by 20%,Goal description and success criteria,2024-10-28,9,completed,2024-01-14
+227,100064,Mentor junior team member,Goal description and success criteria,2024-08-09,64,in_progress,2024-02-19
+228,65,Mentor junior team member,Goal description and success criteria,2024-10-28,65,in_progress,2024-01-22
+229,100064,Improve code quality,Goal description and success criteria,2024-07-28,1,in_progress,2024-01-19
+230,66,Complete certification,Goal description and success criteria,2024-09-16,69,in_progress,"Feb 05, 2024"
+231,66,Lead new project,Goal description and success criteria,2024-10-19,32,not_started,2026-08-09
+232,66,INCREASE SALES BY 20%,Goal description and success criteria,2024-08-22,60,not_started,2024-02-03
+233,66,Improve code quality,Goal description and success criteria,2024-06-12,42,cancelled,2024-01-10
+234,66,Improve code quality,Goal description and success criteria,2024-07-08,46,cancelled,
+235,67,Mentor junior team member,Goal description and success criteria,2024-09-01,54,completed,2024-02-20
+236,67,Increase sales by 20%,Goal description and success criteria,2024-11-06,96,cancelled,2024-01-08
+237,,Complete certification,Goal description and success criteria,2024-12-11,61,in_progress,
+238,67,Complete certification,Goal description and success criteria,2024-12-15,17,cancelled,2024-02-27
+239,67,Lead new project,Goal description and success criteria,2024-09-26,83,cancelled,2024-01-19
+240,68,Improve code quality,Goal description and success criteria,2024-08-17,53,in_progress,2024-02-09
+241,68,Mentor junior team member,Goal description and success criteria,2024-07-03,49,in_progress,
+242,68,"Complete certification
+",Goal description and success criteria,2024-07-04,45,completed,2024-02-05
+243,69,Complete certification,Goal description and success criteria,2024-12-29,98,cancelled,2024-01-26
+244,69,Increase sales by 20%,Goal description and success criteria,,86,not_started,
+245,69,Lead new project,  Goal description and success criteria  ,13 Dec 2024,3,completed,29 Jan 2024
+246,69,Lead new project,Goal description and success criteria,2024-09-06,52,cancelled,2024-01-31
+247,,Improve code quality,Goal description and success criteria,,94,In_progress,2024-01-15
+248,70,Complete certification,Goal description and success criteria,2024-06-22,2,not_started,2024-01-01
+249,70,Complete certification,Goal description and success criteria,2024-07-29,76,not_started,2024-01-13
+250,70,Increase sales by 20%,Goal description and success criteria,2026-09-03,68,cancelled,2024-02-12
+251,71,Mentor junior team member,Goal description and success criteria,2024-10-13,83,cancelled,2024-01-01
+252,71,Complete certification,Goal description and success criteria,2024-11-21,52,cancelled,2024-02-24
+253,71,Complete certification,Goal description and success criteria,2024-07-04,45,not_started,2024-02-07
+254,71,Improve code quality,Goal description and success criteria,,83,completed,2024-02-16
+255,72,Increase sales by 20%,Goal description and success criteria,2024-10-20,74,in_progress,2024-02-25
+256,100071,Complete certification,Goal description and success criteria,,8,in_progress,2024-01-01
+257,,Improve code quality,,2024-06-27,8,cancelled,2024-01-02
+258,73,Complete certification,Goal description and success criteria,2024-11-01,16,in_progress,2024-02-25
+259,73,Mentor junior team member,Goal description and success criteria,2024-12-21,59,completed,2024-02-20
+260,73,Lead new project,Goal description and success criteria,2024-12-17,49,not_started,2024-01-15
+261,74,Complete certification,Goal description and success criteria,2026-11-18,25,not_started,2024-01-14
+262,74,Mentor junior team member,Goal description and success criteria,2024-07-13,61,not_started,2024-02-01
+263,74,Increase sales by 20%,Goal description and success criteria,2024-07-31,89,not_started,2024-02-06
+264,74,Increase sales by 20%,Goal description and success criteria,2024-10-23,7,cancelled,2024-01-21
+265,75,Increase sales by 20%,Goal description and success criteria,,31,cancelled,2024-02-15
+266,,Lead new project,Goal description and success criteria,2024-12-05,94,in_progress,2024-02-12
+267,,Increase sales by 20%,Goal description and success criteria,2024-12-24,59,completed,2027-04-26
+268,76,Mentor junior team member,Goal description and success criteria,2024-11-29,44,not_started,
+269,,Improve code quality,Goal description and success criteria,2024-07-07,93,completed,2024-02-26
+270,77,Improve code quality,Goal description and success criteria,2024-10-11,23,cancelled,2024-01-13
+271,77,,Goal description and success criteria,2024-07-07,84,in_progress,2024-01-22
+272,78,Complete certification,Goal description and success criteria,2024-11-22,97,in_progress,2024-02-28
+273,78,Increase sales by 20%,Goal description and success criteria,,24,in_progress,2024-01-21
+274,78,Improve code quality,Goal description and success criteria,2024-11-18,21,completed,2024-01-27
+275,78,Increase sales by 20%,Goal description and success criteria,2024-08-30,38,cancelled,2024-02-19
+276,,Improve code quality,Goal description and success criteria,2024-12-19,2,in_progress,2024-02-11
+277,79,Improve code quality,,2024-12-11,75,not_started,
+278,79,Increase sales by 20%,,2024-12-11,83,completed,2024-01-11
+279,79,Improve code quality,Goal description and success criteria,2024-12-12,15,,
+280,80,Increase sales by 20%,Goal description and success criteria,2024-07-06,65,,2024-02-27
+281,,Mentor junior team member,Goal description and success criteria,2024-07-27,32,,2024-01-08
+282,80,Lead new project,Goal description and success criteria,2024-06-09,63,,
+283,81,IMPROVE CODE QUALITY,Goal description and success criteria,2024/12/16,65,,2024-02-03
+284,81,"Increase sales by 20%
+",Goal description and success criteria,2024-07-18,,in_progress,2024-01-08
+285,81,Lead new project,Goal description and success criteria,2024-06-16,88,in_progress_v2,2024-01-03
+286,81,Complete certification,goal description and success criteria,2024-08-17,22,completed,
+287,81,Increase sales by 20%,,2024-09-21,20,cancelled,2024-02-02
+288,82,Increase sales by 20%,Goal description and success criteria,2024-11-06,86,cancelled,2024-02-16
+289,82,Lead new project,Goal description and success criteria,2024-06-20,93,cancelled,2024-01-06
+290,83,Improve code quality,goal description and success criteria,2024-08-15,46,in_progress,2024-02-22
+291,83,Improve code quality,Goal description and success criteria,2024-08-20,29,completed,2024-02-26
+292,84,Improve code quality,Goal description and success criteria,2024-08-08,38,cancelled,2024-02-23
+293,84,Increase sales by 20%,Goal description and success criteria,2024-12-27,50,in_progress,2024-01-14
+294,84,Improve code quality,Goal description and success criteria,2024-09-26,87,cancelled,2024-02-11
+295,84,Complete certification,,2024-07-01,3,cancelled,02/06/2024
+296,85,Lead new project,,2024-09-30,32,completed,2024-02-09
+297,85,Improve code quality,Goal description and success criteria,2024-08-10,28,not_started,2024-02-02
+298,85,Increase sales by 20%,Goal description and success criteria,11/13/2024,53,cancelled,2024-01-19
+299,86,Complete certification,Goal description and success criteria,2024-07-21,79,in_progress,2024-02-17
+300,100085,,Goal description and success criteria,2024-11-29,5,in_progress,"Feb 18, 2024"
+301,87,Increase sales by 20%,Goal description and success criteria,2024-11-17,56,completed,2024-01-05
+302,87,Improve code quality,Goal description and success criteria,10/31/2024,41,completed,2024-02-19
+303,88,Mentor junior team member,Goal description and success criteria,2024-11-02,62,cancelled,2024-01-12
+304,88,Increase sales by 20%,Goal description and success criteria,2024-11-13,32,not_started,2024-02-06
+305,89,Increase sales by 20%,Goal description and success criteria,2024-09-04,71,cancelled,2024-01-23
+306,89,LEAD NEW PROJECT,Goal description and success criteria,02 Nov 2024,59,in_progress,2024-02-23
+307,89,Increase sales by 20%,Goal description and success criteria,2024-06-17,64,in_progress,2024-02-04
+308,,Complete certification,Goal description and success criteria,2024-12-30,17,cancelled,2024-02-10
+309,90,Lead new project,Goal description and success criteria,2024-09-01,19,in_progress,2024-02-18
+310,90,Lead new project,Goal description and success criteria,,66,completed,2024-02-10
+311,90,Improve code quality,Goal description and success criteria,2024-07-03,52,not_started,2024-02-12
+312,91,Lead new project,Goal description and success criteria,2024-08-12,42,,2024-01-07
+313,,Lead new project,Goal description and success criteria,2024-06-11,96,,2024-02-20
+314,91,Complete certification,Goal description and success criteria,2024-12-03,89,not_started,2024-01-30
+315,91,Improve code quality,Goal description and success criteria,2024-08-27,90,not_started,2024-02-16
+316,92,Improve code quality,,2024-06-25,17,not_started,2024-02-12
+317,92,Complete certification,Goal description and success criteria,2024-10-10,,completed,2024-02-24
+318,92,Improve code quality,Goal description and success criteria,2024-12-20,63,in_progress,2024-01-29
+319,92,Increase sales by 20%,Goal description and success criteria,2024-09-03,4,in_progress,2024-02-19
+320,92,Improve code quality,Goal description and success criteria,,68,completed,2024-02-13
+321,93,Increase sales by 20%,Goal description and success criteria,2024-08-06,80,completed,2024-01-08
+322,93,"Mentor junior team member
+",,2024-08-01,41,in_progress,2024-02-08
+323,93,Improve code quality,Goal description and success criteria,2024/09/05,87,not_started,30 Jan 2024
+324,,Mentor junior team member,Goal description and success criteria,2024-08-20,16,not_started,2024-02-01
+325,93,Lead new project,Goal description and success criteria,,29,in_progress,2024-01-08
+326,94,Complete certification,Goal description and success criteria,,14,not_started,2024-01-11
+327,94,Mentor junior team member,Goal description and success criteria,2024-10-31,48,cancelled,2024-02-16
+328,95,Lead new project,Goal description and success criteria,2024-10-11,76,completed,2024-02-27
+329,95,Mentor junior team member,Goal description and success criteria,2024-07-07,62,not_started,2024-02-11
+330,96,Mentor junior team member,Goal description and success criteria,2024-08-15,13,cancelled,2024-01-10
+331,96,Complete certification,GOAL DESCRIPTION AND SUCCESS CRITERIA,2024-06-28,90,completed,2027-01-01
+332,96,Improve code quality,Goal description and success criteria,2024-06-12,96,in_progress,2024-02-06
+333,96,Complete certification,Goal description and success criteria,2024-12-11,46,in_progress,2024-01-04
+334,97,Improve code quality,,2024-10-07,58,not_started,2024-01-22
+335,97,Lead new project,,2024-11-26,85,cancelled,2024-02-18
+336,97,Complete certification,goal description and success criteria,2024-07-31,28,not_started,2024-01-04
+337,97,,,2024-10-04,36,not_started,2024-01-31
+338,98,,Goal description and success criteria,12/08/2024,68,completed,2024-02-23
+339,98,Improve code quality,Goal description and success criteria,2024-08-29,70,completed_v2,2024-01-21
+340,98,Complete certification,Goal description and success criteria,2024-08-08,28,in_progress,
+341,98,  Increase sales by 20%  ,Goal description and success criteria,2024-12-20,25707,cancelled,2024-02-10
+342,98,Increase sales by 20%,Goal description and success criteria,2024-06-09,41,completed,2024-01-28
+343,99,"Complete certification
+",Goal description and success criteria,2024-12-19,74,cancelled,2024-01-11
+344,,,Goal description and success criteria,2024-12-27,61,in_progress,2024-01-30
+345,99,IMPROVE CODE QUALITY,Goal description and success criteria,2024-09-25,51,cancelled,2024-01-17
+346,99,Increase sales by 20%,Goal description and success criteria,2024-08-29,,cancelled,2024-02-16
+347,99,,Goal description and success criteria,2024-08-12,85,completed,2024-02-11
+348,,Improve code quality,Goal description and success criteria,2024-08-24,9,,2024-01-30
+349,,Improve code quality,Goal description and success criteria,2026-09-17,69,completed,2024-02-03
+350,101,Complete certification,Goal description and success criteria,2027-06-16,18,in_progress,2024-01-27
+351,101,Lead new project,Goal description and success criteria,2024-07-04,89,in_progress,01/11/2024
+352,102,Increase sales by 20%,Goal description and success criteria,,57,in_progress,2024-01-21
+353,102,lead new project,Goal description and success criteria,2024-09-14,38,not_started,2024-01-24
+354,102,Lead new project,Goal description and success criteria,2024-09-12,23,completed,2024-02-15
+355,103,Increase sales by 20%,Goal description and success criteria,2024-11-12,66,not_started,2024-02-22
+356,103,Improve code quality,Goal description and success criteria,2024-12-27,80,in_progress,2024-02-20
+357,103,Improve code quality,Goal description and success criteria,,32,completed,2024-01-23
+358,100102,Lead new project,Goal description and success criteria,2024-06-30,4,cancelled,2024-01-19
+359,103,Complete certification,Goal description and success criteria,,48,not_started,2024-02-14
+360,104,Lead new project,Goal description and success criteria,2024-07-17,62480,cancelled,
+361,,Mentor junior team member,Goal description and success criteria,2024-07-03,89,completed,
+362,104,Lead new project,Goal description and success criteria,2024-08-24,,not_started,2024-01-12
+363,105,Lead new project,Goal description and success criteria,2024-11-15,73,,2024-02-27
+364,105,Mentor junior team member,Goal description and success criteria,2024-09-03,98,not_started,2024-01-02
+365,105,,Goal description and success criteria,2024-06-09,75,completed,2024-02-29
+366,105,Lead new project,Goal description and success criteria,2024-12-24,,not_started,2024-01-03
+367,105,  Complete certification  ,Goal description and success criteria,07/29/2024,1,not_started,2024-01-31
+368,,Mentor junior team member,Goal description and success criteria,2024-06-11,93,,2024-02-26
+369,106,Improve code quality,,2024-11-28,75,,2024-01-05
+370,106,Mentor junior team member,Goal description and success criteria,2024-07-29,32,completed,2024-02-22
+371,106,Improve code quality,Goal description and success criteria,2024-08-17,0,not_started,2024-01-04
+372,107,Improve code quality,Goal description and success criteria,2024-07-28,32,not_started,2024-01-29
+373,,Complete certification,Goal description and success criteria,2024-11-03,48,not_started,2024-01-13
+374,107,Increase sales by 20%,Goal description and success criteria,2024-06-10,14,completed,2024-02-18
+375,107,,Goal description and success criteria,2024-07-24,0,completed,2024-02-24
+376,107,Complete certification,Goal description and success criteria,2024-10-29,54,cancelled,2024-01-14
+377,108,Increase sales by 20%,Goal description and success criteria,2024-10-23,28,completed,2024-01-17
+378,108,Complete certification,Goal description and success criteria,2024-06-27,32,in_progress,2024-01-30
+379,109,Lead new project,Goal description and success criteria,2024-08-02,,cancelled,2024-02-15
+380,109,Mentor junior team member,Goal description and success criteria,2024-12-20,10,in_progress,2024-01-27
+381,100109,Mentor junior team member,Goal description and success criteria,2024-08-21,28,in_progress,2024-02-22
+382,100109,Complete certification,Goal description and success criteria,2024-11-15,31,not_started,
+383,110,Increase sales by 20%,,2027-07-25,0,cancelled,2024-01-14
+384,110,Mentor junior team member,,2024-12-15,42,not_started,2024-02-13
+385,110,Lead new project,,2024-07-27,95,cancelled,2024-02-11
+386,100110,Complete certification,Goal description and success criteria,,48,,2024-01-29
+387,111,Lead new project,Goal description and success criteria,2024-08-27,37,in_progress,2024-02-14
+388,,Mentor junior team member,Goal description and success criteria,2024-11-17,0,not_started,2024-02-26
+389,111,Mentor junior team member,Goal description and success criteria,"Nov 09, 2024",28,completed,2024-02-17
+390,111,Complete certification,Goal description and success criteria,2024-07-13,0,not_started,2024-01-13
+391,112,Improve code quality,Goal description and success criteria,2024-08-22,77,completed,2024-02-06
+392,,Improve code quality,Goal description and success criteria,2024-11-11,97,cancelled,2024-02-09
+393,112,,Goal description and success criteria,2024-10-19,,cancelled,2024-02-16
+394,,Complete certification,Goal description and success criteria,2024-09-16,45,not_started,
+395,113,  Lead new project  ,Goal description and success criteria,,66,in_progress,2024-02-08
+396,113,Increase sales by 20%,  Goal description and success criteria  ,,72,completed,2024-02-04
+397,114,Improve code quality,Goal description and success criteria,2024-08-09,93,in_progress,2024-02-17
+398,114,Complete certification,,2024-09-17,45,,2024-02-12
+399,,Increase sales by 20%,Goal description and success criteria,2024-11-04,31,in_progress,2024-02-21
+400,114,  Lead new project  ,Goal description and success criteria,2024-11-15,18,in_progress,2024-01-14
+401,,Mentor junior team member,Goal description and success criteria,,50,in_progress,"Jan 15, 2024"
+402,115,Increase sales by 20%,Goal description and success criteria,2024-10-08,42,in_progress,2024-02-14
+403,115,,Goal description and success criteria,2024-07-14,,in_progress,
+404,116,Mentor junior team member,Goal description and success criteria,2024-12-28,65,in_progress,2024-01-19
+405,116,Increase sales by 20%,Goal description and success criteria,2024-07-21,66,completed,
+406,116,Mentor junior team member,Goal description and success criteria,2024-09-29,79,completed,2024-01-04
+407,116,Complete certification,,2024-09-03,61,,2024-02-28
+408,100115,Improve code quality,Goal description and success criteria,2024-07-02,6,cancelled,2024-02-16
+409,117,"Mentor junior team member
+",Goal description and success criteria,,89,in_progress,2024-01-01
+410,,  Mentor junior team member  ,Goal description and success criteria,2024-07-05,75,completed,2024-01-07
+411,100116,Increase sales by 20%,Goal description and success criteria,2026-10-29,1,in_progress,2024-02-19
+412,117,Complete certification,Goal description and success criteria,2024-07-21,42,in_progress,2024-01-08
+413,117,Complete certification,,2024-12-09,33,in_progress,2026-12-01
+414,100117,,,2024-09-05,78,cancelled,01/04/2024
+415,118,Complete certification,Goal description and success criteria,2024-11-18,4,in_progress,2024-02-01
+416,118,Mentor junior team member,,2024-07-06,5,,
+417,118,Improve code quality,Goal description and success criteria,,54,completed,2024-02-26
+418,119,Mentor junior team member,,2024/07/12,31,in_progress,2024-01-19
+419,119,Mentor junior team member,Goal description and success criteria,2024-08-18,79,not_started,2024-02-13
+420,119,"Improve code quality
+",,2024-11-07,0,cancelled,
+421,119,Improve code quality,Goal description and success criteria,2024-08-17,60,not_started,2024-01-08
+422,119,Improve code quality,Goal description and success criteria,2024-08-31,19,in_progress,2024-01-12
+423,120,Lead new project,Goal description and success criteria,2024-11-15,0,not_started,2024-01-11
+424,120,Improve code quality,,2024-10-01,72,cancelled,2024-02-09
+425,121,Increase sales by 20%,Goal description and success criteria,2024-12-24,42,completed,2024-01-10
+426,121,Complete certification,Goal description and success criteria,2024-10-20,37,not_started,2024-02-23
+427,100121,Improve code quality,Goal description and success criteria,2024-10-18,64,in_progress,2024-01-28
+428,,Improve code quality,,2024-08-29,100,in_progress,2024-02-19
+429,122,Lead new project,Goal description and success criteria,2024-07-03,22,in_progress,2024/01/06
+430,122,Improve code quality,Goal description and success criteria,2024-12-04,16,in_progress,2024-02-29
+431,123,Mentor junior team member,Goal description and success criteria,2024-07-07,15,cancelled,2024-01-28
+432,,Lead new project,Goal description and success criteria,2026-08-04,2,not_started,2024-02-10
+433,123,Mentor junior team member,Goal description and success criteria,2024-06-11,42,in_progress,2024-02-25
+434,123,Increase sales by 20%,Goal description and success criteria,2024-09-10,68,completed,2024-01-15
+435,124,Complete certification,Goal description and success criteria,2024-08-26,13,,2024-01-05
+436,124,Mentor junior team member,Goal description and success criteria,2024-07-02,17,completed,2024-01-15
+437,125,Lead new project,Goal description and success criteria,2024-06-04,42,cancelled,
+438,125,,Goal description and success criteria,2024-11-18,67,in_progress,2024-02-01
+439,125,Increase sales by 20%,Goal description and success criteria,2024-10-25,21,completed,2024-01-03
+440,126,Improve code quality,Goal description and success criteria,2024-06-04,78,in_progress,2024-01-08
+441,126,Lead new project,Goal description and success criteria,,99,completed,2024-02-05
+442,126,Complete certification,Goal description and success criteria,2026-08-26,88,not_started,2024-02-12
+443,127,Lead new project,Goal description and success criteria,2024-10-28,20,not_started,2024-01-08
+444,127,Complete certification,Goal description and success criteria,2024-08-07,92,not_started,2024-01-03
+445,127,,Goal description and success criteria,2024-09-28,46,inp_rogress,2024-02-20
+446,128,Mentor junior team member,,,42,in_progress,14-01-2024
+447,128,Complete certification,Goal description and success criteria,2024-08-29,100,in_progress,2024-01-18
+448,128,Increase sales by 20%,Goal description and success criteria,2024-06-25,66,not_started,2024-01-02
+449,129,Mentor junior team member,Goal description and success criteria,2024-11-22,30,completed,01 Feb 2024
+450,129,Mentor junior team member,,2024-06-24,8,not_started,2024-01-23
+451,130,Lead new project,Goal description and success criteria,2024-12-18,28056,cancelled,2024-02-14
+452,130,mentor junior team member,Goal description and success criteria,28 Jun 2024,31,completed,2024-01-18
+453,130,Lead new project,Goal description and success criteria,,91,completed,2024-02-13
+454,100129,Mentor junior team member,Goal description and success criteria,2024-11-24,66,cancelled,2024-02-08
+455,,Lead new project,Goal description and success criteria,2024-07-07,26,in_progress,2024-01-14
+456,131,Mentor junior team member,Goal description and success criteria,2024-12-19,39,cancelled,06 Jan 2024
+457,131,Complete certification,Goal description and success criteria,2024-12-14,,cancelled,2024-01-23
+458,132,Improve code quality,Goal description and success criteria,2024-07-25,68,cancelled,2024-01-30
+459,132,Lead new project,Goal description and success criteria,2024-06-10,65,cancelled,2024-02-14
+460,100131,Improve code quality,Goal description and success criteria,,29,cancelled,2024-02-25
+461,132,Improve code quality,  Goal description and success criteria  ,2024-08-19,79,cancelled,2024-02-08
+462,133,Complete certification,Goal description and success criteria,2024-08-20,53,cancelled,2024-02-28
+463,133,COMPLETE CERTIFICATION,Goal description and success criteria,2024-08-27,30,,2024-02-25
+464,,,Goal description and success criteria,2024-06-22,69,cancelled_v2,2024-02-12
+465,134,Improve code quality,Goal description and success criteria,2024-07-23,12,not_started,14-01-2024
+466,134,Mentor junior team member,goal description and success criteria,2024-07-21,,completed,2024-01-20
+467,135,Increase sales by 20%,Goal description and success criteria,08/24/2024,78,,2024-01-17
+468,135,Increase sales by 20%,Goal description and success criteria,2024-09-29,77,not_started,2027-05-16
+469,136,Mentor junior team member,,06/25/2024,75,cancelled,2024-02-23
+470,136,  Mentor junior team member  ,Goal description and success criteria,10-08-2024,73,cancelled,2024-02-24
+471,136,Improve code quality,Goal description and success criteria,2024-07-01,83,completed,22-01-2024
+472,136,Mentor junior team member,Goal description and success criteria,2024-12-03,91,completed,2024-01-28
+473,,,,2024-09-17,87,cancelled,2024-01-05
+474,137,Complete certification,Goal description and success criteria,2024-11-30,17,in_progress,2024-02-08
+475,137,Mentor junior team member,Goal description and success criteria,2024-08-13,5,completed,2024-02-22
+476,137,Mentor junior team member,Goal description and success criteria,2024-10-30,49,cancelled,2024-02-23
+477,137,,Goal description and success criteria,2024-12-05,48,in_progress,2024-01-23
+478,138,Mentor junior team member,Goal description and success criteria,2024-07-11,,not_started,2024-01-09
+479,138,Improve code quality,Goal description and success criteria,,39,cancelled,2024-01-06
+480,138,Increase sales by 20%,Goal description and success criteria,2024-09-12,19,completed,2024-01-25
+481,139,Complete certification,Goal description and success criteria,2024-10-26,44,completed,2024-01-25
+482,139,Improve code quality,Goal description and success criteria,2024-08-17,85,cancelled,2024-01-13
+483,139,Mentor junior team member,Goal description and success criteria,2024-06-22,43,not_started,
+484,140,Complete certification,Goal description and success criteria,2024-10-18,18,cancelled,2024-02-06
+485,140,,Goal description and success criteria,2024-08-04,39,cancelled,2024-02-21
+486,140,Mentor junior team member,Goal description and success criteria,2024-12-15,54,,2024-01-03
+487,140,Increase sales by 20%,,2024-12-13,37,cancelled,
+488,141,Lead new project,Goal description and success criteria,2024-07-24,24,cancelled,05 Feb 2024
+489,141,Mentor junior team member,Goal description and success criteria,2024-12-13,89,cancelled,2024-02-10
+490,,Complete certification,Goal description and success criteria,2024-10-07,67,completed,2024-02-15
+491,141,Lead new project,,2024-06-15,7,cancelled,28 Feb 2024
+492,142,Improve code quality,Goal description and success criteria,,,completed,07-01-2024
+493,142,Complete certification,Goal description and success criteria,2024-08-09,45,in_progress,2024-02-27
+494,143,Lead new project,Goal description and success criteria,2024-11-03,14,not_started_v2,
+495,143,,Goal description and success criteria,2024-10-30,58,cancelled,2024-02-26
+496,143,Mentor junior team member,Goal description and success criteria,2024-12-01,43,not_started,2024-02-24
+497,143,Lead new project,Goal description and success criteria,2024-07-15,,in_progress,2024-01-31
+498,144,Improve code quality,Goal description and success criteria,2024-06-21,15,not_started,2024-01-30
+499,144,Complete certification,  Goal description and success criteria  ,,52,not_started,2024-01-28
+500,145,Increase sales by 20%,Goal description and success criteria,2024-06-25,63,not_started,2024-02-10
+501,145,Lead new project,Goal description and success criteria,2024-09-11,75,,2024/01/16
+502,145,,Goal description and success criteria,2026-10-04,50,completed,2024-01-26
+503,145,Complete certification,Goal description and success criteria,2026-10-10,12,completed,2024-02-25
+504,146,Increase sales by 20%,Goal description and success criteria,2024-09-23,,not_started,2024-02-07
+505,146,,Goal description and success criteria,2024-07-12,,completed,2024-01-02
+506,147,Increase sales by 20%,Goal description and success criteria,2024-11-08,86,cancelled,2024-01-31
+507,147,Improve code quality,Goal description and success criteria,2024-06-16,-75,cancelled,2024-01-13
+508,147,Mentor junior team member,Goal description and success criteria,2024-09-29,87,cancelled,2024-01-28
+509,147,Mentor junior team member,Goal description and success criteria,2024-08-20,52,cancelled,2024-01-03
+510,147,Mentor junior team member,Goal description and success criteria,2026-10-18,43,in_progress,2024-02-20
+511,148,Mentor junior team member,Goal description and success criteria,,18,completed,2024-01-12
+512,148,Increase sales by 20%,Goal description and success criteria,2024-10-15,32,completed,2024-01-10
+513,148,Complete certification,Goal description and success criteria,2024-07-11,58,completed,2027-03-01
+514,149,lead new project,,,23,cancelled,2024-01-15
+515,,Mentor junior team member,Goal description and success criteria,2024-06-08,60,cancelled,2024-02-14
+516,150,Mentor junior team member,Goal description and success criteria,2024-09-11,98,in_progress,2024-01-07
+517,150,Mentor junior team member,Goal description and success criteria,2024-07-24,7,not_started,2024-01-29
+518,150,Mentor junior team member,Goal description and success criteria,2024-10-14,4,not_started,2024-01-13
+448,128,Increase sales by 20%,Goal description and success criteria,2024-06-25,66,not_started,2024-01-02 00:06:21
+194,100054,,Goal description and success criteria,2024-09-08 00:05:19,18,,2024-02-05
+420,119,Improve code quality,,2024-11-07,62,cancelled,
+119,35,Increase sales by 20%,Goal description and success criteria,2024-06-20 00:35:02,77,in_progress,2024-02-19
+178,51,LEAD NEW PROJECT,Goal description and success criteria,2024-06-13,93,cancelled,2024-01-13 00:06:42
+255,72,Increase sales by 20%,Goal description and success criteria,2024-10-20,74,in_progress,2024-02-25 00:56:23
+297,85,Improve code quality,Goal description and success criteria,2024-08-10 00:41:10,28,not_started,2024-02-02
+1,1,Increase sales by 20%,Goal description and success criteria,2024-09-10,N/A,not_started,01/08/2024
+510,147,Mentor junior team member,Goal description and success criteria,2024-07-19,43,in_progress,2026-08-29
+80,23,Improve code quality,Goal description and success criteria,2024-09-14,58,cancelled,2024-02-29
+24,8,,Goal description and success criteria,2024-08-22,,completed,30 Jan 2024
+494,143,Lead new project,Goal description and success criteria,03-11-2024,5124,not_started,
+338,98,,Goal description and success criteria,2024-12-08,68,completed,2024-02-23
+26,9,,Goal description and success criteria,2024-08-12 00:06:11,27,completed,2024-01-01
+88,26,Increase sales by 20%,Goal description and success criteria,2024-10-10,29,cancelled,2024-02-19

@@ -1,0 +1,567 @@
+employee_id,employee_code,first_name,last_name,email,phone,birth_date,gender,department_id,position_id,manager_id,hire_date,employment_type,work_location,status
+1,EMP-00001,Mateo,Fernández,mateo.fernández1@company.com,+54 9 11 9762-8276,1975-08-15,,8,6,,2021-11-25,full_time,Mendoza,active
+2,EMP-00002,Ana,García,ana.garcía2@company.com,+54 9 11 9086-6936,1987-05-15,Other,8,6,,2019-12-16,full_time,Mendoza,active
+3,EMP-00003,Lucía,SáNCHEZ,,+54 9 11 7300-6123,1994-06-24,M,1,15,,2020-05-24,full_time,Córdoba,on_leave
+4,EMP-00004,Sofía,,sofía.pérez4@company.com,,1991-08-21,F,9,100010,,2018-08-30,part_time,Córdoba,
+5,EMP-00005,Martín,Torres,martín.torres5@company.com,+54 9 11 5042-4071,1996-05-17,F,8,19,,2015-01-11,,Mendoza,active
+6,EMP-00006,,Torres,carlos.torres6@company.com,+54 9 11 2895-7243,1986-09-04,Other,,15,,2016-11-22,part_time,Buenos Aires,active
+7,EMP-00007,diego,Fernández,diego.fernández7@company.com,+54 9 11 2020-7517,1998-02-20,F,8,18,,2018-03-13,contractor,Córdoba,active
+8,EMP-00008,Laura,,laura.rodríguez8@company.com,+54 9 11 2416-2950,03 Jun 1977,F,5,15,1,2021-04-06,part_time,Mendoza,active
+9,EMP-00009,Juan,Martínez,juan.martínez9@company.com,+54 9 11 6799-4946,,F,6,,2,2023-07-02,full_time,Córdoba,terminated
+10,EMP-00010,Valentina,González,valentina.gonzález10@company.com,+54 9 11 7038-8497,1986-05-02,M,,18,1,2015-09-06,full_time,Córdoba,on_leave
+11,EMP-00011,Camila,,camila.martínez11@company.com,  +54 9 11 1283-3257  ,1981-10-25,F,9,7,3,2022-10-10,full_time,Rosario,active
+12,EMP-00012,Lucía,Rodríguez,lucía.rodríguez12@company.com,+54 9 11 6797-4595,1988-10-19,M,6,10,3,2015-12-18,part_time,Rosario,Active
+13,EMP-00013,Gabriel,Ramírez,gabriel.ramírez13@company.com,+54 9 11 5579-2613,2027-02-25,M,5,19,1,2019-08-20,full_time,  Buenos Aires  ,active
+14,EMP-00014,Ana,Torres,ana.torres14@company.com,+54 9 11 1449-3616,2027-01-29,M,1,1,9,,,,active
+15,EMP-00015,Carlos,Rodríguez,carlos.rodríguez15@company.com,+54 9 11 8411-9505,1980-11-01,F,7,20,8,02/05/2023,full_time,,active
+16,EMP-00016,Mateo,Torres,mateo.torres16@company.com,+54 9 11 5195-5334,1977-05-26,Other,8,100017,3,,full_time,Buenos Aires,terminated
+17,EMP-00017,Camila,Pérez,camila.pérez17@company.com,+54 9 11 9156-9349,1982-11-04,F,5,9,12,2021-08-30,full_time,Córdoba,active
+18,emp-00018,Ana,Fernández,ana.fernández18@company.com,+54 9 11 5370-5566,1978-05-01,  M  ,5,10,15,2024-05-08,contractor_v2,Mendoza,active
+19,EMP-00019,Camila,Sánchez,camila.sánchez19@company.com,+54 9 11 9550-7422,1995/04/04,Other,5,14,3,,full_time,,active
+20,EMP-00020,Lucas,Pérez,lucas.pérez20@company.com,+54 9 11 1949-4216,1971-02-01,M,6,8,14,2020-01-19,full_time,Buenos Aires,terminated
+21,EMP-00021,Carlos,Pérez,carlos.pérez21@company.com,+54 9 11 9476-6843,1997-02-09,Other,1,7,5,2023-06-19,full_time,Buenos Aires,terminated
+22,EMP-00022,Carlos,Sánchez,carlos.sánchez22@company.com,+54 9 11 3607-1635,,Other,10,15,5,2019/11/18,contractor,Córdoba,active
+23,EMP-00023,Valentina,García,valentina.garcía23@company.com,+54 9 11 9769-9127,1987-04-06,Other,5,4,8,2019-10-25,part_time,"Rosario
+",on_leave
+24,EMP-00024,Carlos,Rodríguez,carlos.rodríguez24@company.com,+54 9 11 8406-7956,1987-03-07,M,10,20,8,2016-05-11,full_time,Córdoba,terminated
+25,EMP-00025,Pedro,Ramírez,pedro.ramírez25@company.com,+54 9 11 2700-2753,1983-01-20,M,1,11,16,2017-04-13,full_time,Mendoza,active
+26,EMP-00026,Sofía,,,+54 9 11 4167-7649,1984-04-17,Other,4,5,19,,contractor,Córdoba,on_leave
+27,EMP-00027,Carlos,Sánchez,carlos.sánchez27@company.com,+54 9 11 6078-9081,1986-11-10,,9,17,4,2019-06-06,full_time,Mendoza,on_leave
+28,EMP-00028,Gabriel,López,gabriel.lópez28@company.com,,1974-09-15,F,10,6,,2021-09-22,full_time,Rosario,active
+29,EMP-00029,Martín,Pérez,"martín.pérez29@company.com
+",+54 9 11 8790-2298,1991-11-12,Other,5,,17,2019-08-01,full_time,Córdoba,active_v2
+30,EMP-00030,Mateo,Torres,mateo.torres30@company.com,,1976-04-30,F,3,17,7,2017-08-11,full_time,Córdoba,active
+31,  EMP-00031  ,"Laura
+",Pérez,,+54 9 11 2925-8876,1999-10-11,M,6,20,3,2015-12-24,full_time,Rosario,on_leave
+32,EMP-00032,Juan,López,juan.lópez32@company.com,+54 9 11 4191-4798,1994-08-25,M,7,16,2,2020-04-27,Full_time,Rosario,on_leave
+33,,,González,laura.gonzález33@company.com,+54 9 11 1413-1794,1984-10-26,,8,13,15,2017-09-03,contractor,Rosario,active
+34,EMP-00034,Carlos,Rodríguez,carlos.rodríguez34@company.com,,1970-01-23,Other,,16,13,2021-07-26,part_time,Rosario,on_leave
+35,EMP-00035,Carlos,González,carlos.gonzález35@company.com,+54 9 11 4238-4710,1978-03-27,M,8,9,9,2016-06-17,full_time,Córdoba,active
+36,EMP-00036,Pedro,Fernández,pedro.fernández36@company.com,+54 9 11 1908-7163,1973-08-08,Other,5,20,100006,2021-11-16,full_time,Rosario,active
+37,EMP-00037,Lucía,González,  lucía.gonzález37@company.com  ,+54 9 11 9196-2837,1976-03-20,F,10,10,11,2017-08-13,full_time,Rosario,
+38,  EMP-00038  ,Pedro,Rodríguez,pedro.rodríguez38@company.com,+54 9 11 6268-4387,2000-10-02,Other,2,1,,2017-08-29,contractor,Rosario,active
+39,EMP-00039,Sofía,González,,+54 9 11 5826-3330,1999-04-29,,1,19,9,2021-05-10,full_time,Córdoba,
+40,EMP-00040,Lucía,,lucía.fernández40@company.com,+54 9 11 9731-4055,1979-03-20,,8,14,17,2015-12-14,full_time,Rosario,active
+41,EMP-00041,Martín,García,martín.garcía41@company.com,+54 9 11 6833-6621,1983-09-17,"F
+",7,11,11,2020-01-12,part_time,Córdoba,terminated
+42,EMP-00042,Laura,Martínez,  laura.martínez42@company.com  ,+54 9 11 8477-1059,1976-06-08,F,5,12,16,2021-04-18,full_time,Buenos Aires,active_v2
+43,EMP-00043,Laura,,laura.rodríguez43@company.com,+54 9 11 4805-1241,1996-08-10,M,8,4,7,18-09-2015,full_time,Buenos Aires,terminated
+44,EMP-00044,Valentina,Torres,"valentina.torres44@company.com
+",+54 9 11 1331-7051,1970-03-29,M,8,,100001,2015-10-05,,  Rosario  ,active
+45,EMP-00045,CARLOS,Pérez,carlos.pérez45@company.com,+54 9 11 7032-7991,1995-06-27,Other,10,18,13,2023-03-15,part_time,Rosario,active
+46,EMP-00046,Mateo,González,mateo.gonzález46@company.com,+54 9 11 5895-8483,1974-02-01,F,9,16,5,2015-07-13,full_time,Córdoba,active
+47,EMP-00047,Laura,Fernández,laura.fernández47@company.com,+54 9 11 1215-5656,1990-11-11,M,6,14,12,2024-01-28,full_time,Buenos Aires,active
+48,EMP-00048,Martín,Pérez,martín.pérez48@company.com,+54 9 11 8331-9209,1992-12-25,M,100002,15,1,2023-05-09,,Buenos Aires,on_leave
+49,EMP-00049,Sofía,García,,+54 9 11 2642-6443,1982-12-30,F,8,9,19,2022-03-03,,Buenos Aires,terminated
+50,EMP-00050,Valentina,Sánchez,valentina.sánchez50@company.com,+54 9 11 9475-2453,1971-07-03,Other,4,12,19,2016-08-07,full_time,Mendoza,terminated
+51,  EMP-00051  ,Diego,González,diego.gonzález51@company.com,+54 9 11 9453-4565,1984-08-19,,1,16,12,2017-07-11,full_time,Córdoba,active
+52,,camila,Ramírez,camila.ramírez52@company.com,+54 9 11 5101-5946,1988-05-18,,2,9,12,2016-07-31,full_time,Mendoza,
+53,EMP-00053,Mateo,Pérez,mateo.pérez53@company.com,+54 9 11 8766-3705,,F,3,100012,13,2022-02-22,full_time,Rosario,active
+54,EMP-00054,Martín,López,martín.lópez54@company.com,+54 9 11 3008-3508,1992-01-10,  M  ,5,7,18,2020-03-12,part_time,Buenos Aires,terminated
+55,emp-00055,Juan,Fernández,juan.fernández55@company.com,+54 9 11 6070-3588,1974-09-29,M,1,17,10,2023-03-12,part_time,Mendoza,active
+56,EMP-00056,Lucas,Fernández,lucas.fernández56@company.com,+54 9 11 1370-7695,2027-01-15,F,8,1,18,2016-01-26,Full_time,Córdoba,active
+57,EMP-00057,Martín,  Pérez  ,martín.pérez57@company.com,+54 9 11 2676-9679,1997-02-16,M,10,4,13,2017-10-18,contractor,Buenos Aires,active
+58,EMP-00058,Camila,,camila.lópez58@company.com,+54 9 11 9375-5065,1973-11-02,Other,8,2,2,2020-09-25,part_time,,active
+59,EMP-00059,Mateo,Rodríguez,MATEO.RODRíGUEZ59@COMPANY.COM,+54 9 11 7302-5906,1973-06-25,F,7,10,8,2023-07-08,full_time,Rosario,active
+60,EMP-00060,María,Pérez,maría.pérez60@company.com,+54 9 11 9693-3357,1972-08-26,"M
+",6,18,2,2023-11-19,,Rosario,on_leave
+61,EMP-00061,Valentina,,valentina.rodríguez61@company.com,+54 9 11 7282-8538,1999-11-28,F,10,2,100007,,full_time,Córdoba,active
+62,EMP-00062,Gabriel,,"gabriel.sánchez62@company.com
+",+54 9 11 3831-9852,,M,1,,11,,contractor,Rosario,active
+63,EMP-00063,Diego,,,+54 9 11 4973-1928,1980-05-05,F,,4,4,2015-09-11,contractor,Buenos Aires,on_leave
+64,EMP-00064,Lucas,Rodríguez,lucas.rodríguez64@company.com,+54 9 11 8780-5363,1982-12-16,Other,8,4,9,2018-05-10,full_time,Mendoza,terminated
+65,EMP-00065,Carlos,Sánchez,carlos.sánchez65@company.com,+54 9 11 6475-6439,1993-06-09,F,9,15,7,2016-05-10,full_time,Rosario,active
+66,EMP-00066,Ana,García,ana.garcía66@company.com,+54 9 11 9659-1118,1975-01-23,Other,5,4,8,,full_time,Rosario,active
+67,EMP-00067,,González,diego.gonzález67@company.com,+54 9 11 5849-4647,"Sep 24, 1982",,3,8,9,24 Nov 2020,full_time,Buenos Aires,active
+68,EMP-00068,Sofía,González,sofía.gonzález68@company.com,+54 9 11 2311-3612,10/23/1987,M,9,2,4,2016-02-26,contractor,Buenos Aires,active
+69,,Martín,Pérez,martín.pérez69@company.com,+54 9 11 3908-7620,1971-05-08,Other,,5,3,2016-03-11,part_time,Mendoza,active
+70,EMP-00070,María,López,maría.lópez70@company.com,+54 9 11 5565-7212,1976-04-02,F,,1,,2015-05-11,part_time_v2,Rosario,active
+71,EMP-00071,Gabriel,González,gabriel.gonzález71@company.com,+54 9 11 6971-1254,1979-07-16,F,7,7,3,2023-01-10,full_time,Buenos Aires,terminated
+72,EMP-00072,Camila,Sánchez,camila.sánchez72@company.com,+54 9 11 7633-4231,1987-10-30,Other,6,17,8,2024-01-11,contractor,Buenos Aires,active
+73,,Juan,López,juan.lópez73@company.com,+54 9 11 7290-6463,1993-01-19,M,4,,8,,part_time,Buenos Aires,active
+74,EMP-00074,Gabriel,RAMíREZ,gabriel.ramírez74@company.com,+54 9 11 4436-2626,1974-03-27,M,4,,5,2016-11-19,part_time,Mendoza,active
+75,EMP-00075,María,López,maría.lópez75@company.com,+54 9 11 6280-5490,1998-11-11,Other,,12,,2018-12-08,full_time,Rosario,terminated
+76,EMP-00076,Ana,Ramírez,"ana.ramírez76@company.com
+",+54 9 11 1724-6950,1990-06-14,M,,11,4,,full_time,Mendoza,active
+77,EMP-00077,Laura,Fernández,laura.fernández77@company.com,+54 9 11 5863-9309,,Other,7,4,,,full_time,,active
+78,EMP-00078,Pedro,Rodríguez,pedro.rodríguez78@company.com,+54 9 11 1283-1377,1994-10-25,"M
+",,6,19,2021-07-09,part_time,Mendoza,active
+79,EMP-00079,María,Rodríguez,maría.rodríguez79@company.com,+54 9 11 3092-3212,1997-09-23,Other,9,3,8,2019-08-17,full_time,Buenos Aires,on_leave
+80,EMP-00080,Lucas,,lucas.pérez80@company.com,+54 9 11 2752-2146,1990-03-17,M,1,18,9,2022-11-30,full_time,Córdoba,
+81,EMP-00081,Pedro,Pérez,pedro.pérez81@company.com,+54 9 11 1401-3511,1995-10-30,F,6,9,6,,part_time,Rosario,on_leave
+82,EMP-00082,Gabriel,Rodríguez,gabriel.rodríguez82@company.com,+54 9 11 7081-2610,1997-06-25,Other,9,14,,2016-01-17,full_time,Córdoba,active
+83,EMP-00083,Lucía,Rodríguez,lucía.rodríguez83@company.com,+54 9 11 4966-8305,1991-09-16,M,7,9,5,2016-07-10,contractor,Rosario,on_leave
+84,EMP-00084,,López,sofía.lópez84@company.com,"+54 9 11 2042-4796
+",1975-09-11,Other,10,3,10,2016-08-08,,Buenos Aires,on_leave
+85,,Sofía,López,sofía.lópez85@company.com,+54 9 11 8533-1691,1991-07-19,"M
+",,13,100011,2022-05-25,full_time,Rosario,active
+86,EMP-00086,Valentina,Fernández,valentina.fernández86@company.com,+54 9 11 3875-3730,1989-03-19,F,100008,10,2,2017-07-25,part_time,Córdoba,on_leave
+87,EMP-00087,Gabriel,Ramírez,,,1999-11-29,Other,10,11,11,2016-10-27,full_time,Rosario,on_leave
+88,EMP-00088,Lucas,Fernández,lucas.fernández88@company.com,+54 9 11 1443-3234,2026-10-23,M,9,,12,2023-08-02,full_time,Rosario,active
+89,EMP-00089,Sofía,Sánchez,sofía.sánchez89@company.com,+54 9 11 5278-7147,1970-11-17,Other,2,20,15,2021-05-07,contractor_v2,Mendoza,on_leave
+90,,María,López,,+54 9 11 9485-9370,1986-05-25,M,6,14,4,2016-02-01,,Córdoba,active
+91,EMP-00091,Valentina,López,valentina.lópez91@company.com,+54 9 11 8690-2929,1989-07-23,F,,5,16,2019-07-22,part_time,,active
+92,EMP-00092,Lucía,,lucía.pérez92@company.com,+54 9 11 3951-8180,1984-10-23,M,7,1,20,05/31/2020,full_time,Mendoza,active
+93,EMP-00093,Valentina,Rodríguez,valentina.rodríguez93@company.com,+54 9 11 5841-8056,1986-02-22,Other,3,,6,2016-08-22,full_time,Buenos Aires,active
+94,EMP-00094,Mateo,Torres,mateo.torres94@company.com,+54 9 11 6507-4077,1977-02-20,M,4,7,19,2022-01-10,full_time,Mendoza,terminated
+95,EMP-00095,  Diego  ,Pérez,diego.pérez95@company.com,+54 9 11 6145-7344,1978/01/01,Other,,,19,2019-03-17,contractor,rosario,active
+96,EMP-00096,Lucía,RODRíGUEZ,lucía.rodríguez96@company.com,+54 9 11 6794-3488,1972-11-24,M,5,15,3,2015-11-08,full_time,Rosario,active
+97,emp-00097,Valentina,Sánchez,valentina.sánchez97@company.com,+54 9 11 1354-2576,1977-01-21,Other,8,16,7,2018-09-13,contractor_v2,  Mendoza  ,active
+98,EMP-00098,,Martínez,lucas.martínez98@company.com,+54 9 11 4352-2151,,,2,2,19,2017-02-12,full_time,Buenos Aires,on_leave
+99,EMP-00099,Laura,Martínez,laura.martínez99@company.com,+54 9 11 3274-7593,1980-02-10,F,7,8,4,2016-02-07,Contractor,Mendoza,active
+100,EMP-00100,Pedro,López,pedro.lópez100@company.com,+54 9 11 1045-4588,1984-04-18,Other,6,,100002,2022-11-30,full_time,Córdoba,on_leave
+101,EMP-00101,Ana,García,ana.garcía101@company.com,+54 9 11 5138-5239,,M,7,13,4,2018-05-20,contractor,Mendoza,on_leave
+102,EMP-00102,Mateo,Ramírez,mateo.ramírez102@company.com,+54 9 11 6323-7015,1979-06-08,F,3,12,5,2020-02-12,contractor,Buenos Aires,active_v2
+103,,Diego,González,diego.gonzález103@company.com,+54 9 11 3445-5023,2000-06-08,Other,7,100009,13,,full_time,Córdoba,terminated
+104,EMP-00104,Lucas,López,,,28-01-1995,M,1,4,100001,10/07/2019,full_time,,actiev
+105,EMP-00105,Ana,Ramírez,ana.ramírez105@company.com,,1972-09-28,F,7,10,5,2021-09-22,contractor,córdoba,active
+106,EMP-00106,Laura,López,laura.lópez106@company.com,+54 9 11 1116-8810,1999-07-17,M,9,20,14,2016-10-19,full_time,Rosario,active
+107,EMP-00107,María,Ramírez,maría.ramírez107@company.com,+54 9 11 8854-4669,,,6,20,12,2017-04-03,full_time,Córdoba,on_leave
+108,EMP-00108,Martín,Martínez,martín.martínez108@company.com,+54 9 11 5911-2661,1989-06-30,M,5,3,18,2019-02-09,contractor,Buenos Aires,
+109,EMP-00109,Diego,Martínez,diego.martínez109@company.com,+54 9 11 1215-3928,1992-08-11,F,9,12,5,2023-03-03,full_time,Buenos Aires,terminated
+110,EMP-00110,Laura,,laura.sánchez110@company.com,+54 9 11 4177-9543,1970-03-08,"M
+",4,17,10,2016-08-30,,Buenos Aires,active
+111,EMP-00111,MARíA,Rodríguez,maría.rodríguez111@company.com,+54 9 11 1521-2364,1989-01-12,M,9,16,15,,full_time,Buenos Aires,terminatde
+112,EMP-00112,Camila,Pérez,camila.pérez112@company.com,+54 9 11 3266-9847,1975-04-21,F,10,10,8,2023-04-04,part_time,Mendoza,terminated
+113,EMP-00113,Sofía,Rodríguez,sofía.rodríguez113@company.com,+54 9 11 2469-7231,1989-09-01,Other,7,6,1,2015-05-30,full_time,,on_leave
+114,EMP-00114,Lucía,Rodríguez,lucía.rodríguez114@company.com,+54 9 11 7533-4577,,M,2,2,14,2016-10-11,full_time,Buenos Aires,active
+115,EMP-00115,Lucía,Fernández,lucía.fernández115@company.com,+54 9 11 2188-4861,1994-10-06,M,3,13,9,2018-03-12,full_time,Buenos Aires,active
+116,EMP-00116,Mateo,Fernández,  mateo.fernández116@company.com  ,+54 9 11 1168-9032,1994-02-03,Other,1,17,100016,2022-02-07,full_time,Córdoba,terminated
+117,EMP-00117,Laura,,  laura.pérez117@company.com  ,+54 9 11 7404-9605,1975-01-18,Other,8,11,9,2015-09-05,,Buenos Aires,
+118,EMP-00118,Gabriel,Fernández,,+54 9 11 4928-7699,,F,4,12,,2021-02-12,full_time,Córdoba,active
+119,EMP-00119,Juan,Torres,juan.torres119@company.com,+54 9 11 3113-5492,1975-02-20,Other,2,100012,7,,contractor,Rosario,active
+120,EMP-00120,Sofía,Fernández,,+54 9 11 9773-6109,1981-11-26,Other,4,12,17,2022-02-14,full_time,Rosario,active
+121,EMP-00121,Lucas,Sánchez,lucas.sánchez121@company.com,+54 9 11 6594-7659,1996-11-23,M,5,15,16,2017-07-14,part_time,Mendoza,on_leave
+122,EMP-00122,Ana,Pérez,ana.pérez122@company.com,"+54 9 11 7994-7009
+",,F,10,5,8,2017-06-05,full_time,Córdoba,active
+123,  EMP-00123  ,Martín,Ramírez,martín.ramírez123@company.com,+54 9 11 4926-6637,1986-04-26,M,1,1,6,2015-12-12,full_time,Córdoba,active
+124,EMP-00124,María,Sánchez,maría.sánchez124@company.com,+54 9 11 1462-5272,1988-06-02,M,8,,6,,contractor,Buenos Aires,on_elave
+125,EMP-00125,Sofía,Rodríguez,sofía.rodríguez125@company.com,+54 9 11 5274-8463,1987-08-31,"F
+",10,7,7,2023-10-05,full_time,Rosario,active
+126,EMP-00126,Lucía,Rodríguez,lucía.rodríguez126@company.com,+54 9 11 7019-5458,1984-04-18,M,6,13,,2015-08-13,part_time,,active
+127,EMP-00127,Martín,Rodríguez,"martín.rodríguez127@company.com
+",  +54 9 11 2359-2045  ,1997-10-24,F,9,3,17,2019-09-22,contractor,Córdoba,active
+128,EMP-00128,Carlos,Fernández,carlos.fernández128@company.com,+54 9 11 2709-1539,,Other,8,9,17,2015-03-02,contractor,Mendoza,active
+129,,Camila,Torres,camila.torres129@company.com,+54 9 11 5136-8401,1985-03-23,F,4,5,19,2019-08-17,,Rosario,active
+130,EMP-00130,,Rodríguez,sofía.rodríguez130@company.com,"+54 9 11 5713-7406
+",1980-10-17,F,1,20,1,2021-06-10,contractor,Mendoza,actvie
+131,EMP-00131,Pedro,Ramírez,,+54 9 11 3225-9214,1993-07-21,M,5,14,2,2027-03-27,part_time,Rosario,
+132,EMP-00132,Juan,Martínez,juan.martínez132@company.com,+54 9 11 7622-1675,1970-07-14,M,3,10,4,2023-06-22,part_time,Rosario,
+133,EMP-00133,Mateo,González,mateo.gonzález133@company.com,+54 9 11 1162-1146,,F,6,4,16,2023-03-05,contractor,BUENOS AIRES,active
+134,EMP-00134,Ana,Fernández,,+54 9 11 4037-9520,1996-09-28,,6,18,12,2019-09-02,full_time,Córdoba,active
+135,EMP-00135,Valentina,Sánchez,valentina.sánchez135@company.com,+54 9 11 5758-3660,1974-01-10,M,1,16,11,2020-04-20,full_time,Córdoba,active
+136,emp-00136,Martín,García,martín.garcía136@company.com,,1997-06-17,,7,,,24 Mar 2015,full_time,Rosario,active
+137,EMP-00137,Sofía,López,sofía.lópez137@company.com,+54 9 11 8467-3372,1994-03-19,other,4,8,17,2021-10-10,,Mendoza,active
+138,EMP-00138,María,Torres,,+54 9 11 4300-6186,1974-08-04,M,8,,10,2016-01-25,part_time,Córdoba,active
+139,EMP-00139,MATEO,Rodríguez,mateo.rodríguez139@company.com,,,Other,9,4,13,2019-06-21,full_time,Buenos Aires,active
+140,EMP-00140,Ana,Fernández,ana.fernández140@company.com,+54 9 11 6412-1507,2000-04-19,F,10,19,14,2023-01-20,full_time,  Mendoza  ,active
+141,EMP-00141,Pedro,Ramírez,pedro.ramírez141@company.com,+54 9 11 6511-1470,1994-04-28,Other,4,13,13,2023-07-31,part_time,Rosario,active
+142,EMP-00142,Laura,Pérez,laura.pérez142@company.com,,1982-09-22,F,6,7,12,2020-04-19,full_time,Buenos Aires,terminated
+143,EMP-00143,Lucas,González,lucas.gonzález143@company.com,+54 9 11 3878-3085,1999-04-06,F,3,10,16,2022-12-11,contractor,Mendoza,active
+144,EMP-00144,Juan,Martínez,juan.martínez144@company.com,+54 9 11 7820-5532,1972-06-17,F,2,100016,7,2018-04-07,full_time,Córdoba,active
+145,EMP-00145,Sofía,López,sofía.lópez145@company.com,+54 9 11 6908-6961,1972-04-28,M,9,12,17,2021-04-28,contractor,Buenos Aires,active_v2
+146,EMP-00146,"Ana
+",Fernández,ana.fernández146@company.com,+54 9 11 4848-1881,1988-12-26,M,9,18,19,2018-05-03,full_time,"Córdoba
+",on_leave_v2
+147,EMP-00147,María,Rodríguez,maría.rodríguez147@company.com,+54 9 11 1694-3863,1971-01-30,F,3,20,19,2022-08-02,contractor_v2,Córdoba,terminated
+148,EMP-00148,Camila,Pérez,camila.pérez148@company.com,+54 9 11 5101-5310,11-10-1979,,10,18,17,2021-02-28,full_time,Buenos Aires,active
+149,,MARTíN,López,martín.lópez149@company.com,+54 9 11 6756-5782,27-11-1994,M,,18,11,2015-07-20,full_time,Buenos Aires,active
+150,EMP-00150,Mateo,Martínez,mateo.martínez150@company.com,+54 9 11 7849-3599,2000-01-30,M,1,10,11,2020-02-19,part_time,Mendoza,active
+151,EMP-00151,Martín,González,martín.gonzález151@company.com,+54 9 11 8086-3278,1990-04-26,Other,10,7,17,,full_time,Mendoza,active
+152,"EMP-00152
+",Ana,Martínez,ana.martínez152@company.com,+54 9 11 8088-4578,1975-09-27,"Other
+",7,4,7,2023-05-14,part_time,Mendoza,active
+153,EMP-00153,Camila,Fernández,camila.fernández153@company.com,+54 9 11 6317-6647,1981-10-24,M,,5,17,2018-05-27,part_time,Rosario,on_leave
+154,EMP-00154,Martín,Pérez,martín.pérez154@company.com,+54 9 11 8074-3009,11/29/1995,Other,7,8,6,2017-09-10,full_time,"Buenos Aires
+",active
+155,EMP-00155,María,Torres,maría.torres155@company.com,+54 9 11 1528-7270,1986-09-28,Other,,1,2,2016-05-18,full_time,Mendoza,on_leave
+156,EMP-00156,Diego,García,diego.garcía156@company.com,+54 9 11 6354-6835,1994-04-22,M,1,16,3,2020-06-30,part_time,Córdoba,active
+157,EMP-00157,Carlos,Torres,CARLOS.TORRES157@COMPANY.COM,+54 9 11 5799-9272,1986-11-21,Other,1,3,6,2023-01-21,full_time,Mendoza,
+158,EMP-00158,Gabriel,Fernández,gabriel.fernández158@company.com,+54 9 11 4358-1314,1972-08-30,M,,14,9,2019-09-24,full_time,Rosario,active
+159,EMP-00159,Diego,Sánchez,diego.sánchez159@company.com,+54 9 11 5735-9112,1989-10-15,Other,5,18,13,,full_time,Córdoba,active
+160,EMP-00160,Valentina,,,+54 9 11 6392-9890,1985-10-17,Other,9,18,8,2026-08-03,part_time,Rosario,active
+161,EMP-00161,"Martín
+",López,martín.lópez161@company.com,+54 9 11 4584-5489,1979-04-12,M,10,11,17,2016-07-21,full_time,  Buenos Aires  ,terminated
+162,EMP-00162,,Pérez,,  +54 9 11 7524-9782  ,1982-11-09,M,1,10,9,2021-04-17,full_time,,on_leave
+163,,Sofía,García,sofía.garcía163@company.com,+54 9 11 4847-7964,1979-02-22,Other,2,6,1,2016-09-29,full_time,"Córdoba
+",active
+164,EMP-00164,Sofía,Fernández,sofía.fernández164@company.com,+54 9 11 9596-3442,1991-03-02,Other,10,15,8,2017-12-16,full_tmie,Rosario,active
+165,EMP-00165,Camila,González,camila.gonzález165@company.com,+54 9 11 2157-7887,1986-05-28,F,3,19,4,20 Feb 2024,contractor,Rosario,terminated
+166,EMP-00166,Ana,Ramírez,ana.ramírez166@company.com,+54 9 11 4702-7626,1989-12-16,F,100003,7,2,2016-10-13,contractor,Rosario,active
+167,EMP-00167,,Pérez,lucas.pérez167@company.com,+54 9 11 5504-9727,1981-04-17,F,2,20,14,2020-12-09,part_time,Mendoza,active
+168,EMP-00168,Diego,Rodríguez,diego.rodríguez168@company.com,+54 9 11 9802-4850,1988-08-18,F,10,19,18,2019-09-19,full_time,Córdoba,active
+169,EMP-00169,Sofía,López,sofía.lópez169@company.com,+54 9 11 2956-7548,1977-04-30,F,5,20,8,2022-12-06,full_time,Córdoba,on_leave
+170,,Ana,Ramírez,ana.ramírez170@company.com,+54 9 11 1293-7640,1984-07-14,F,9,11,1,2021-10-15,,Rosario,terminated
+171,EMP-00171,Juan,Martínez,,,1990-10-27,M,100005,16,1,2015-04-08,part_time,Córdoba,on_leave
+172,EMP-00172,Mateo,Pérez,mateo.pérez172@company.com,+54 9 11 5506-2297,1991-02-27,M,100009,11,14,2015-01-02,part_time_v2,Buenos Aires,terminated
+173,EMP-00173,,Fernández,lucas.fernández173@company.com,+54 9 11 2722-4534,1980-05-17,F,,1,13,2019-10-05,part_time,Córdoba,active_v2
+174,EMP-00174,Sofía,Torres,sofía.torres174@company.com,"+54 9 11 2755-4998
+",,F,100002,2,7,30 Jan 2023,full_time,Córdoba,active
+175,EMP-00175,Diego,Martínez,diego.martínez175@company.com,+54 9 11 2342-5281,1970-05-25,F,,16,12,,full_time,Rosario,on_leave
+176,EMP-00176,Lucas,Martínez,lucas.martínez176@company.com,+54 9 11 8350-8577,1973-07-20,M,2,3,16,2027-01-24,part_time,Rosario,active
+177,EMP-00177,Diego,Ramírez,diego.ramírez177@company.com,  +54 9 11 2660-6742  ,1978-06-16,F,2,2,5,"Dec 09, 2015",part_time,Rosario,active
+178,EMP-00178,Ana,Sánchez,ana.sánchez178@company.com,+54 9 11 4658-3575,1994-03-24,M,,13,14,2021-04-30,full_time,Buenos Aires,on_leave
+179,EMP-00179,Juan,González,  juan.gonzález179@company.com  ,+54 9 11 7186-5699,1984-12-06,Other,,9,20,2017-02-23,full_time,Córdoba,active
+180,EMP-00180,Ana,Ramírez,ana.ramírez180@company.com,+54 9 11 8643-2193,1973-06-09,Other,7,5,17,2024-05-25,contractor,Córdoba,terminated
+181,EMP-00181,Juan,González,juan.gonzález181@company.com,+54 9 11 6108-4697,1987-10-20,M,6,,17,2016-02-27,full_time,,active
+182,EMP-00182,María,Sánchez,maría.sánchez182@company.com,+54 9 11 3981-5407,1981-10-01,Other,1,8,13,2022-06-25,full_time,Córdoba,terminated
+183,EMP-00183,Martín,Torres,martín.torres183@company.com,+54 9 11 6046-5765,1984-06-01,F,1,8,3,2016-06-28,part_time,Rosario,active
+184,EMP-00184,Juan,González,juan.gonzález184@company.com,+54 9 11 3634-7231,1974-06-30,Other,3,2,100016,2017-06-10,full_time,Mendoza,active
+185,EMP-00185,Laura,González,laura.gonzález185@company.com,,1996-08-30,Other,9,16,,,full_time,Córdoba,active
+186,EMP-00186,Camila,Martínez,camila.martínez186@company.com,+54 9 11 8304-9566,1999-09-04,F,10,18,13,2019-04-24,full_time,Córdoba,active
+187,EMP-00187,Valentina,González,valentina.gonzález187@company.com,+54 9 11 3199-6193,1995-07-30,Other,100008,100006,6,2023-03-26,full_time,,
+188,EMP-00188,Martín,Torres,martín.torres188@company.com,+54 9 11 9145-9173,1975-07-15,,100008,,10,2021-03-21,contractor,Rosario,on_leave
+189,EMP-00189,Lucas,,lucas.garcía189@company.com,+54 9 11 1221-8391,1989-01-03,Other,8,3,7,2019-03-21,part_time,"Córdoba
+",on_leave
+190,"EMP-00190
+",Lucas,,lucas.ramírez190@company.com,+54 9 11 6926-1688,1997-02-26,M,4,10,11,2020-10-06,full_time,Mendoza,active
+191,EMP-00191,Sofía,Pérez,sofía.pérez191@company.com,+54 9 11 9511-1015,13 Nov 1992,M,8,,100019,2017-02-12,full_time,,active
+192,EMP-00192,Lucía,López,lucía.lópez192@company.com,+54 9 11 9442-4877,1997-09-21,M,8,19,16,2017-06-29,contractor,Córdoba,active
+193,EMP-00193,Sofía,Pérez,sofía.pérez193@company.com,+54 9 11 6362-1438,1999-12-20,M,3,20,16,2019-08-27,contractor,Mendoza,active
+194,EMP-00194,Mateo,Pérez,mateo.pérez194@company.com,+54 9 11 5487-7719,1990-08-01,F,6,16,4,2022-04-23,part_time,Mendoza,active
+195,EMP-00195,Lucía,  González  ,lucía.gonzález195@company.com,+54 9 11 1691-3581,1977-06-01,"M
+",10,12,5,2021-11-09,full_time,Córdoba,active
+196,EMP-00196,María,Sánchez,maría.sánchez196@company.com,+54 9 11 3552-7844,1992-05-28,,10,3,15,2021-02-18,full_time,Córdoba,active
+197,,Diego,Torres,diego.torres197@company.com,"+54 9 11 5309-4225
+",06/09/1977,,6,8,,2022-07-19,full_time,Mendoza,active
+198,EMP-00198,Martín,Martínez,martín.martínez198@company.com,+54 9 11 9859-1622,1984-08-12,Other,1,15,1,,full_time,Mendoza,active
+199,EMP-00199,Valentina,Martínez,valentina.martínez199@company.com,+54 9 11 4799-4440,1980-10-28,F,,1,8,17-12-2018,full_time,Rosario,active
+200,EMP-00200,Pedro,Martínez,"pedro.martínez200@company.com
+",+54 9 11 5557-6871,1994-03-18,Other,7,20,20,2016-05-07,full_time,Mendoza,active
+201,emp-00201,Carlos,González,carlos.gonzález201@company.com,  +54 9 11 8028-9997  ,1988-07-21,m,4,10,17,2017-07-13,part_time,Córdoba,active
+202,EMP-00202,,Rodríguez,sofía.rodríguez202@company.com,,1989-08-29,M,100005,7,19,,part_time,Mendoza,active
+203,EMP-00203,Lucas,Rodríguez,lucas.rodríguez203@company.com,+54 9 11 3742-2237,1973-08-07,F,10,6,17,2022-09-03,part_time,"Rosario
+",terminated
+204,EMP-00204,Juan,López,juan.lópez204@company.com,+54 9 11 9406-5997,,,100006,3,14,,contractor,Mendoza,
+205,EMP-00205,Lucía,Pérez,  lucía.pérez205@company.com  ,+54 9 11 7456-3474,1988-08-29,Other,1,17,2,2027-03-18,part_time,Buenos Aires,terminated
+206,EMP-00206,,García,camila.garcía206@company.com,+54 9 11 1478-7237,1983-06-02,F,5,18,4,2015-09-02,full_time,Buenos Aires,terminated
+207,EMP-00207,Camila,Sánchez,,+54 9 11 5680-9154,1974-08-25,F,100004,3,3,2018-09-27,full_time,Mendoza,active
+208,EMP-00208,Camila,Rodríguez,camila.rodríguez208@company.com,+54 9 11 7365-9771,1979-07-11,Other,,15,3,2017-07-10,contractor,,active
+209,EMP-00209,Ana,,ana.gonzález209@company.com,+54 9 11 4069-1577,1996-04-29,Other,7,14,20,2016-07-22,contractor,Córdoba,active
+210,,Camila,Fernández,  camila.fernández210@company.com  ,+54 9 11 7909-9902,1998-05-04,F,1,14,9,2016-07-05,full_tiem,Buenos Aires,active
+211,EMP-00211,,,gabriel.pérez211@company.com,  +54 9 11 6594-5714  ,1979-02-26,Other,8,15,12,2015-01-06,full_time,Rosario,active
+212,EMP-00212,Lucía,Sánchez,,+54 9 11 4221-3334,1974-10-07,M,2,20,19,2024-01-15,full_time,Córdoba,active
+213,EMP-00213,Gabriel,Rodríguez,gabriel.rodríguez213@company.com,+54 9 11 9518-8056,1996-02-23,F,10,14,19,2015-06-11,part_time,Rosario,on_leave
+214,EMP-00214,Lucía,González,  lucía.gonzález214@company.com  ,+54 9 11 1190-6072,1977-09-20,M,5,100017,14,2016-09-21,,Rosario,terminated
+215,EMP-00215,Lucas,PéREZ,lucas.pérez215@company.com,+54 9 11 9012-4020,1997-09-19,F,,7,1,2021-01-12,contractor,Córdoba,active
+216,EMP-00216,Camila,Martínez,camila.martínez216@company.com,+54 9 11 1569-8101,1994-04-12,Other,4,13,9,2015-03-25,full_time,Buenos Aires,active
+217,EMP-00217,Pedro,García,pedro.garcía217@company.com,+54 9 11 6448-6765,1980-09-17,F,2,9,4,2016-09-03,full_time,,on_leave
+218,EMP-00218,Valentina,Martínez,valentina.martínez218@company.com,+54 9 11 8137-5194,1979-06-26,F,9,8,7,,contractor,Córdoba,active
+219,EMP-00219,Diego,Sánchez,diego.sánchez219@company.com,,1970-08-02,Other,2,19,1,,full_time,Buenos Aires,active
+220,EMP-00220,Camila,Fernández,camila.fernández220@company.com,+54 9 11 3096-1484,,M,1,8,10,2024-01-22,full_time,Rosario,actiev
+221,EMP-00221,Sofía,Pérez,sofía.pérez221@company.com,  +54 9 11 5268-5303  ,1984-08-18,M,9,17,17,2023-05-29,full_time,Buenos Aires,active
+222,EMP-00222,Ana,Rodríguez,ana.rodríguez222@company.com,+54 9 11 1517-5143,1979-03-10,F,8,7,4,2018-08-31,full_time,Mendoza,on_leave
+223,EMP-00223,Carlos,González,,,1971-06-23,Other,3,,18,2023-04-17,full_time,Buenos Aires,active
+224,EMP-00224,Juan,Pérez,juan.pérez224@company.com,+54 9 11 8279-6007,1982-06-11,,10,16,6,2018-01-16,full_time,Mendoza,active
+225,,Lucía,Torres,,+54 9 11 1626-1512,1994-01-20,F,2,10,,2017-07-31,full_time,Rosario,on_leave
+226,EMP-00226,Camila,Fernández,camila.fernández226@company.com,+54 9 11 8960-5851,1974-09-08,M,6,3,4,2019-05-23,Part_time,Buenos Aires,active
+227,EMP-00227,Camila,García,,+54 9 11 5859-8221,2000-05-17,M,5,4,100001,2015-01-03,full_time,Mendoza,
+228,EMP-00228,Gabriel,García,gabriel.garcía228@company.com,,2000-08-21,M,1,19,11,2024-03-18,full_time,Rosario,terminated
+229,EMP-00229,Sofía,Sánchez,sofía.sánchez229@company.com,+54 9 11 7401-2686,1986-07-07,M,3,1,,,full_time,Rosario,terminated
+230,EMP-00230,Ana,Torres,ana.torres230@company.com,+54 9 11 5524-8827,1994-03-17,Other,5,7,10,2019-07-26,full_time,Buenos Aires,
+231,,Juan,Fernández,juan.fernández231@company.com,+54 9 11 3020-7036,1976-03-11,M,1,14,2,2015-03-23,full_time,Mendoza,active
+232,EMP-00232,Lucía,Fernández,  lucía.fernández232@company.com  ,+54 9 11 8685-6431,1977-12-09,F,1,5,19,2022-10-12,full_time,Buenos Aires,active
+233,EMP-00233,Lucía,,lucía.martínez233@company.com,+54 9 11 3430-1848,1979-08-10,F,7,16,,2019-07-14,part_time,Mendoza,active
+234,  EMP-00234  ,Sofía,Martínez,sofía.martínez234@company.com,"+54 9 11 4772-4355
+",,Other,4,,100009,2020-08-29,full_time,Córdoba,on_leave
+235,EMP-00235,Sofía,Torres,sofía.torres235@company.com,,1980-09-01,,,20,3,2022-09-12,contractor,Buenos Aires,active
+236,EMP-00236,Laura,Pérez,laura.pérez236@company.com,+54 9 11 1028-7115,1972-09-27,F,9,,14,2022-12-21,full_time,Rosario,active
+237,,Martín,Fernández,martín.fernández237@company.com,+54 9 11 8662-4130,1972-08-21,F,8,17,19,2023-06-15,full_time,Córdoba,
+238,EMP-00238,,Fernández,martín.fernández238@company.com,+54 9 11 1891-3449,1987-11-30,Other,9,100018,8,2017-04-26,part_time,Córdoba,active
+239,EMP-00239,Martín,Pérez,martín.pérez239@company.com,+54 9 11 5513-7170,1990-12-08,F,1,17,11,2017-02-20,part_time,Rosario,terminated
+240,EMP-00240,Gabriel,Ramírez,gabriel.ramírez240@company.com,+54 9 11 5944-9706,1977-07-16,M,5,17,11,2019-08-12,full_time,Buenos Aires,active
+241,EMP-00241,María,Ramírez,maría.ramírez241@company.com,+54 9 11 2677-3615,1981-03-23,Other,10,9,11,2018-01-14,full_time,Rosario,terminated
+242,EMP-00242,Lucía,Sánchez,lucía.sánchez242@company.com,+54 9 11 7980-5288,1973-03-20,M,6,100008,8,2019-01-09,contractor,Mendoza,on_leave
+243,EMP-00243,Lucía,Sánchez,lucía.sánchez243@company.com,+54 9 11 6067-4524,1975-12-03,F,10,10,1,2021-02-20,part_time,Rosario,active
+244,EMP-00244,Juan,Ramírez,juan.ramírez244@company.com,+54 9 11 2526-2762,1979-08-03,F,8,15,9,2019-07-21,full_time_v2,córdoba,active
+245,EMP-00245,,Pérez,,+54 9 11 1545-8860,1986-05-04,F,,4,20,2022-06-16,full_time,CóRDOBA,on_leave
+246,EMP-00246,Gabriel,Torres,gabriel.torres246@company.com,+54 9 11 8776-4903,1974-08-02,F,4,18,13,2015-06-21,contractor,Córdoba,active
+247,EMP-00247,Valentina,García,valentina.garcía247@company.com,+54 9 11 1112-2166,1983-07-16,M,1,8,9,2019-12-18,full_time,Córdoba,terminated
+248,  EMP-00248  ,Laura,Sánchez,laura.sánchez248@company.com,+54 9 11 2132-7696,1978-03-13,M,6,5,19,2020-03-23,,Mendoza,terminated
+249,EMP-00249,,Ramírez,laura.ramírez249@company.com,+54 9 11 8894-7183,2000-09-28,,5,13,9,2022-10-01,full_time,,terminated
+250,EMP-00250,Gabriel,Fernández,gabriel.fernández250@company.com,+54 9 11 3917-6637,1990-01-07,M,1,20,20,2019-10-11,full_time,Córdoba,active
+251,,Valentina,García,valentina.garcía251@company.com,+54 9 11 5065-1110,1971-05-25,M,4,20,9,2018-09-02,full_time,Rosario,terminated
+252,EMP-00252,Carlos,Rodríguez,carlos.rodríguez252@company.com,,1998-01-19,,5,1,9,2023-01-28,part_time,Buenos Aires,active
+253,EMP-00253,Pedro,Pérez,  pedro.pérez253@company.com  ,+54 9 11 8721-9154,1973-03-20,M,5,15,3,2022-05-07,full_time,Buenos Aires,active
+254,EMP-00254,"Pedro
+",Martínez,pedro.martínez254@company.com,,1988-08-27,M,6,12,100018,2019-12-04,full_time,Buenos Aires,active
+255,EMP-00255,Lucas,,lucas.sánchez255@company.com,+54 9 11 4367-5818,"Feb 04, 1972",Other,3,3,9,2023-02-26,full_time,Mendoza,active
+256,,Valentina,García,valentina.garcía256@company.com,"+54 9 11 5861-5253
+",1985-04-14,M,4,2,16,2021-05-21,contractor,Buenos Aires,active
+257,EMP-00257,Gabriel,López,gabriel.lópez257@company.com,,,M,9,16,3,2021-12-16,contractor,MENDOZA,active
+258,EMP-00258,Laura,López,laura.lópez258@company.com,+54 9 11 2451-4312,1998-05-30,Other,7,18,12,2017-11-17,part_time,Mendoza,active
+259,emp-00259,Ana,Rodríguez,ana.rodríguez259@company.com,+54 9 11 6077-5195,2027-07-18,,4,14,15,2018-11-02,full_time,Buenos Aires,terminated
+260,EMP-00260,Valentina,Torres,valentina.torres260@company.com,+54 9 11 6334-9233,1999-03-13,Other,1,8,16,,full_time,Rosario,
+261,EMP-00261,María,Torres,maría.torres261@company.com,+54 9 11 2235-8569,2026-12-08,F,3,4,8,2017-07-16,full_time,Rosario,active
+262,EMP-00262,Camila,Martínez,camila.martínez262@company.com,+54 9 11 1800-4300,1982-11-19,F,1,9,6,2018-11-13,full_time,Rosario,active
+263,EMP-00263,Martín,Fernández,martín.fernández263@company.com,+54 9 11 6703-2657,1990-09-01,F,7,,8,2019-08-18,contractor,Mendoza,active
+264,EMP-00264,Mateo,López,mateo.lópez264@company.com,+54 9 11 4329-9276,1981-01-22,M,2,1,15,2017-09-10,full_time,Mendoza,active
+265,EMP-00265,María,Fernández,maría.fernández265@company.com,+54 9 11 9195-3817,1976-09-17,Other,3,,5,2019-11-10,full_time,Rosario,active
+266,EMP-00266,Mateo,Torres,mateo.torres266@company.com,+54 9 11 7552-5854,1984-10-01,Other,10,7,4,,full_time,Rosario,on_leave
+267,EMP-00267,Lucía,Torres,lucía.torres267@company.com,+54 9 11 7384-7296,1977-11-09,M,3,8,10,2017-01-20,contractor,Buenos Aires,active
+268,EMP-00268,Laura,García,laura.garcía268@company.com,+54 9 11 3550-3613,1973-05-25,F,2,9,11,2016-11-22,full_time,Rosario,active
+269,EMP-00269,Valentina,González,valentina.gonzález269@company.com,+54 9 11 5942-3987,,Other,4,7,10,2017-01-07,full_time,Córdoba,active
+270,EMP-00270,Laura,Fernández,"laura.fernández270@company.com
+",,1973-07-08,M,3,12,13,2016-07-13,full_time,Rosario,active
+271,EMP-00271,Juan,torres,,+54 9 11 9800-5954,1979-12-20,Other,5,7,20,2017-05-19,part_time,Mendoza,on_leave
+272,EMP-00272,Martín,,martín.sánchez272@company.com,+54 9 11 9513-8122,1974-08-28,F,,3,,2021-04-23,full_time,Córdoba,active
+273,EMP-00273,Laura,López,laura.lópez273@company.com,+54 9 11 3892-9408,1976-09-03,Other,,11,13,2023-08-25,full_time,Mendoza,active
+274,EMP-00274,María,Pérez,maría.pérez274@company.com,+54 9 11 5790-7174,,M,9,18,6,2023-02-08,full_time,Mendoza,active
+275,EMP-00275,Camila,Ramírez,camila.ramírez275@company.com,+54 9 11 6742-2003,1997-09-30,F,8,4,3,2018-08-20,full_time,Córdoba,active
+276,,,González,valentina.gonzález276@company.com,+54 9 11 5221-7598,05/31/1983,Other,9,2,12,2015-08-16,contractor,Buenos Aires,terminated
+277,EMP-00277,Diego,Ramírez,diego.ramírez277@company.com,+54 9 11 1803-2791,,F,1,16,14,2015-05-24,,Córdoba,active
+278,EMP-00278,Lucas,,lucas.fernández278@company.com,+54 9 11 9692-7837,1976-04-10,Other,7,4,12,,full_time,Buenos Aires,
+279,EMP-00279,Gabriel,Torres,gabriel.torres279@company.com,+54 9 11 8540-9377,1972-06-25,Other,9,2,20,"May 19, 2017",full_time,Rosario,active
+280,EMP-00280,Pedro,Rodríguez,pedro.rodríguez280@company.com,+54 9 11 3253-1025,1994-07-19,M,7,18,12,2022-10-01,full_time,Mendoza,active
+281,EMP-00281,,,martín.sánchez281@company.com,+54 9 11 9313-4843,1984-03-08,M,10,12,8,2023-10-12,contractor,  Buenos Aires  ,terminated
+282,EMP-00282,Lucía,,,+54 9 11 2939-2493,1976-04-18,F,2,7,3,2019-04-16,full_time,Córdoba,active
+283,EMP-00283,Valentina,López,valentina.lópez283@company.com,+54 9 11 9233-4205,1994-07-17,Other,,,9,2020-01-04,full_time,córdoba,active
+284,EMP-00284,Martín,Ramírez,"martín.ramírez284@company.com
+",+54 9 11 5182-6157,1972-01-25,Other,6,10,13,2022-01-04,part_time,Rosario,active
+285,EMP-00285,Carlos,Fernández,carlos.fernández285@company.com,+54 9 11 5128-8768,1998-08-22,F,8,17,1,2022-10-24,contractor,Rosario,on_leave
+286,EMP-00286,Diego,López,diego.lópez286@company.com,+54 9 11 1951-8727,1985-06-25,,9,4,16,2023-02-15,contractor,Córdoba,on_leave
+287,EMP-00287,,"Rodríguez
+",diego.rodríguez287@company.com,+54 9 11 4893-4219,1993-05-07,Other,7,9,8,2022-03-02,full_time,Buenos Aires,active
+288,EMP-00288,Lucía,García,,+54 9 11 5441-8703,1987-04-12,M,10,18,16,2017-09-07,full_time,Mendoza,active
+289,EMP-00289,Carlos,González,carlos.gonzález289@company.com,+54 9 11 1348-5412,1994-01-07,Other,100004,5,100009,2023-11-17,contractor,Buenos Aires,terminated
+290,EMP-00290,Lucía,Torres,lucía.torres290@company.com,+54 9 11 5586-2438,,Other,5,2,14,2018-12-07,contractor,Rosario,active
+291,,Juan,García,  juan.garcía291@company.com  ,,1987-11-28,M,100006,16,6,2018-06-05,full_time,Rosario,active
+292,EMP-00292,Sofía,Martínez,sofía.martínez292@company.com,+54 9 11 9662-8527,1989-01-29,Other,8,13,11,2022-01-15,,Mendoza,active
+293,EMP-00293,,Rodríguez,,+54 9 11 1371-3603,2027-01-10,Other,6,5,1,2016-03-29,full_time,Rosario,on_leave_v2
+294,,María,García,  maría.garcía294@company.com  ,,1974-10-04,,2,20,11,2022-04-08,part_time,Rosario,active
+295,EMP-00295,,Martínez,maría.martínez295@company.com,+54 9 11 7647-7213,1974-01-11,F,9,9,15,2024-05-25,full_time,Mendoza,active
+296,EMP-00296,Carlos,Pérez,carlos.pérez296@company.com,+54 9 11 9972-3119,2000-04-20,Other,5,10,9,2020-04-01,full_time,Rosario,active
+297,EMP-00297,Diego,Rodríguez,diego.rodríguez297@company.com,+54 9 11 4544-9194,1974-11-23,Other,3,20,20,2015-04-27,full_time,Buenos Aires,terminated
+298,EMP-00298,Pedro,Rodríguez,pedro.rodríguez298@company.com,+54 9 11 9715-6531,1980-07-14,Other,8,11,6,2018-09-12,full_time,Córdoba,active
+299,EMP-00299,Gabriel,González,gabriel.gonzález299@company.com,+54 9 11 4879-7902,2000-11-13,M,2,11,,2017-09-14,contractor,Córdoba,active
+300,EMP-00300,Diego,López,diego.lópez300@company.com,+54 9 11 4610-1850,1978-04-30,m,8,8,5,2019-01-10,full_time,Córdoba,active
+301,EMP-00301,Lucas,López,lucas.lópez301@company.com,,1982-12-12,,,6,13,2023-05-23,full_time,Buenos Aires,
+302,"EMP-00302
+",Sofía,Torres,sofía.torres302@company.com,+54 9 11 2191-9095,,Other,7,12,17,2016-01-23,full_time,Rosario,
+303,EMP-00303,Sofía,Sánchez,sofía.sánchez303@company.com,+54 9 11 7636-1645,1987-07-08,M,100009,9,15,2018-10-13,full_time,Buenos Aires,active
+304,  EMP-00304  ,,"Ramírez
+",DIEGO.RAMíREZ304@COMPANY.COM,+54 9 11 6117-7912,1978-05-04,,8,,7,2019-10-27,full_time,Córdoba,active
+305,EMP-00305,Gabriel,Martínez,gabriel.martínez305@company.com,+54 9 11 1792-5263,2000-01-08,Other,1,11,7,2015-07-24,contractor,Córdoba,on_leave
+306,"EMP-00306
+",Valentina,Ramírez,valentina.ramírez306@company.com,,1987-08-15,Other,8,10,20,,full_time,Buenos Aires,terminated
+307,EMP-00307,Valentina,Martínez,valentina.martínez307@company.com,+54 9 11 2961-6205,1989-04-07,Other,9,14,4,2018-07-14,full_time,Buenos Aires,active
+308,EMP-00308,Valentina,García,valentina.garcía308@company.com,+54 9 11 4916-3567,1974-02-03,F,2,3,,2022-09-13,full_time,Mendoza,active
+309,EMP-00309,Carlos,Sánchez,carlos.sánchez309@company.com,+54 9 11 3780-9159,1983-09-21,F,8,10,9,2019-12-12,part_time,BUENOS AIRES,on_leave
+310,EMP-00310,Gabriel,López,gabriel.lópez310@company.com,+54 9 11 5988-1924,1997-08-19,M,7,13,1,2019-08-24,,Rosario,terminated
+311,EMP-00311,Juan,Pérez,juan.pérez311@company.com,+54 9 11 9798-3657,2027-07-15,F,4,,11,2023-10-25,full_time,Mendoza,on_leave
+312,EMP-00312,María,García,maría.garcía312@company.com,+54 9 11 4515-1815,1977-07-25,Other,100004,8,6,2022-02-19,contractor,  Mendoza  ,on_leave
+313,EMP-00313,,González,,+54 9 11 3667-6404,1971-12-31,M,3,7,10,2024-01-03,contractor,Mendoza,active
+314,EMP-00314,Lucía,,lucía.garcía314@company.com,,1995-04-23,,8,3,,04-07-2015,full_time,Córdoba,active
+315,EMP-00315,Lucas,,,+54 9 11 7017-2716,1979-11-11,Other,7,13,100008,2017-11-23,full_time,Córdoba,active
+316,EMP-00316,Camila,Rodríguez,camila.rodríguez316@company.com,+54 9 11 8275-3709,,F,8,,18,2023-08-04,full_time,Mendoza,terminated
+317,EMP-00317,Juan,Sánchez,juan.sánchez317@company.com,,1980-05-28,M,,11,,2015-10-12,full_time,Rosario,active
+318,EMP-00318,Ana,González,ana.gonzález318@company.com,+54 9 11 3835-5157,1986-07-08,M,9,4,16,2024-03-20,full_time,,active
+319,EMP-00319,carlos,Torres,carlos.torres319@company.com,+54 9 11 9986-6043,1997-10-10,M,1,3,16,,contractor,Mendoza,active
+320,EMP-00320,Diego,Martínez,diego.martínez320@company.com,+54 9 11 9894-6544,1983-07-07,,100006,7,11,2015-04-09,full_time,Córdoba,active
+321,EMP-00321,Juan,,,+54 9 11 4271-4702,1979-12-12,Other,9,4,4,2016-12-04,part_time,Córdoba,active
+322,EMP-00322,Ana,García,,+54 9 11 1890-4586,1997-03-08,M,,6,11,2020/11/02,full_time,Rosario,active
+323,EMP-00323,María,García,maría.garcía323@company.com,,1976-03-02,M,9,3,12,,full_time,Córdoba,active
+324,EMP-00324,María,López,maría.lópez324@company.com,+54 9 11 1335-4444,1995-12-30,Other,,16,19,2015-01-03,full_time,Córdoba,active
+325,EMP-00325,Gabriel,Martínez,gabriel.martínez325@company.com,+54 9 11 2688-4826,1970-06-26,Other,10,14,1,2021-07-08,contractor,Buenos Aires,
+326,EMP-00326,Mateo,López,mateo.lópez326@company.com,+54 9 11 8399-6607,1989-02-10,F,5,16,19,"Aug 14, 2018",,Córdoba,active
+327,EMP-00327,,Rodríguez,maría.rodríguez327@company.com,+54 9 11 4675-7734,1983-05-07,Other,1,8,11,2016-10-31,contractor,Córdoba,active
+328,EMP-00328,María,Rodríguez,maría.rodríguez328@company.com,+54 9 11 6851-7872,1990-02-11,  F  ,1,16,,06-04-2020,part_time,Mendoza,on_leave
+329,EMP-00329,Juan,Fernández,juan.fernández329@company.com,+54 9 11 5998-9725,1983-11-11,Other,7,,11,2020-11-29,,Córdoba,terminated
+330,EMP-00330,Pedro,González,pedro.gonzález330@company.com,+54 9 11 6789-7905,1979-01-18,M,9,18,,2022-09-10,full_time,Córdoba,on_leave
+331,EMP-00331,Valentina,Martínez,valentina.martínez331@company.com,+54 9 11 8065-6808,1993-06-09,F,1,8,15,2023-01-22,contractor,Buenos Aires,active
+332,EMP-00332,Ana,TORRES,ana.torres332@company.com,+54 9 11 5247-2299,1989-09-28,M,8,1,13,2020-01-20,full_time,Mendoza,Active
+333,EMP-00333,Lucas,Rodríguez,lucas.rodríguez333@company.com,+54 9 11 5586-3439,1983-07-03,M,7,17,7,2015-12-03,part_time,Córdoba,on_leave
+334,EMP-00334,Gabriel,,gabriel.gonzález334@company.com,,1990-01-07,Other,6,15,14,2018-02-06,full_time,,active
+335,EMP-00335,Juan,Pérez,juan.pérez335@company.com,+54 9 11 2518-6024,2000-01-27,F,4,17,14,2019-11-18,contractor,Córdoba,on_leave
+336,EMP-00336,Pedro,García,pedro.garcía336@company.com,+54 9 11 1849-1079,1995-09-29,,9,12,15,2023-05-26,full_time,,active
+337,,Valentina,Torres,valentina.torres337@company.com,+54 9 11 5981-5160,1984-07-22,"Other
+",1,6,2,2017-10-29,full_time,Buenos Aires,on_leave
+338,EMP-00338,Gabriel,Torres,gabriel.torres338@company.com,+54 9 11 2198-1725,1980-06-29,F,100000,6,100015,2017-09-20,part_time,Mendoza,
+339,EMP-00339,Juan,López,juan.lópez339@company.com,+54 9 11 5137-6187,21 Feb 1982,F,5,,8,2017-10-31,full_time,Mendoza,active_v2
+340,EMP-00340,Laura,García,laura.garcía340@company.com,,1989-05-07,F,10,7,14,2016-09-24,full_time,Rosario,onl_eave
+341,EMP-00341,Valentina,Martínez,valentina.martínez341@company.com,+54 9 11 8175-8294,1990-05-12,F,6,2,6,"Feb 13, 2019",contractor,Córdoba,active
+342,EMP-00342,Carlos,,carlos.rodríguez342@company.com,+54 9 11 5441-4788,,Other,1,7,20,2015-03-25,full_time,Buenos Aires,active
+343,EMP-00343,Carlos,Martínez,carlos.martínez343@company.com,+54 9 11 7925-8240,1990-07-06,Other,6,3,5,,part_time,Córdoba,active
+344,EMP-00344,,,pedro.pérez344@company.com,,1996-03-28,M,,8,5,2017-04-19,part_time,Rosario,terminated
+345,EMP-00345,Juan,Martínez,juan.martínez345@company.com,+54 9 11 5563-9589,1990-08-09,M,1,7,19,,contractor,Rosario,on_leave
+346,EMP-00346,Lucas,González,  lucas.gonzález346@company.com  ,+54 9 11 5216-6670,1989-10-18,M,10,19,9,2022-01-14,part_time,Mendoza,active
+347,EMP-00347,Juan,Martínez,,+54 9 11 9269-7137,1979-03-30,Other,7,8,15,,contractor,Buenos Aires,terminated
+348,EMP-00348,Laura,Martínez,laura.martínez348@company.com,+54 9 11 3707-6351,1994-05-11,M,9,9,15,2024-03-03,part_time,Mendoza,terminated
+349,EMP-00349,Sofía,González,sofía.gonzález349@company.com,+54 9 11 7459-3328,1988-08-18,F,7,9,3,2018-01-15,contractor,Córdoba,
+350,,Sofía,,sofía.sánchez350@company.com,+54 9 11 4547-7667,1998-07-29,Other,8,11,14,2017-04-25,full_time,Mendoza,on_leave
+351,emp-00351,Martín,González,martín.gonzález351@company.com,+54 9 11 7393-6893,1990-05-30,Other,5,12,11,2020-04-01,full_time,Rosario,active
+352,EMP-00352,Pedro,López,pedro.lópez352@company.com,+54 9 11 2670-5620,1977-07-22,M,4,9,6,2015-11-28,full_time,Córdoba,active
+353,EMP-00353,,Sánchez,,+54 9 11 6397-7244,"Oct 18, 2000",Other,10,13,8,2016-06-23,full_time,BUENOS AIRES,active
+354,EMP-00354,Valentina,,valentina.sánchez354@company.com,+54 9 11 7250-2664,1993-05-13,M,4,,2,2017-08-04,full_time,Buenos Aires,terminated
+355,EMP-00355,Laura,Pérez,laura.pérez355@company.com,+54 9 11 1686-1558,1986-10-10,,8,16,8,2020-11-10,,Rosario,active
+356,EMP-00356,Lucía,Fernández,lucía.fernández356@company.com,+54 9 11 7130-8206,1986-08-28,M,7,9,20,2022-07-06,full_time,Buenos Aires,active
+357,EMP-00357,Lucas,Pérez,,+54 9 11 9336-3344,1978-08-26,F,4,4,5,,full_time,Buenos Aires,terminated
+358,EMP-00358,,Fernández,gabriel.fernández358@company.com,+54 9 11 4062-9724,01-06-1979,F,9,13,5,2016-11-13,full_time,Rosario,
+359,EMP-00359,Diego,López,diego.lópez359@company.com,+54 9 11 6795-7076,1975-08-22,M,1,2,1,2018-02-01,full_time,Córdoba,active
+360,EMP-00360,María,Sánchez,maría.sánchez360@company.com,+54 9 11 3897-6635,1994-01-13,M,4,11,14,2017-03-01,part_time,Córdoba,active
+361,,Sofía,garcía,sofía.garcía361@company.com,+54 9 11 9997-4679,1972-06-26,M,2,12,100015,2015-06-18,contractor,Córdoba,active
+362,EMP-00362,Laura,García,laura.garcía362@company.com,+54 9 11 7760-8421,,M,10,1,6,2015-03-04,contractor,Buenos Aires,active
+363,EMP-00363,Juan,Sánchez,juan.sánchez363@company.com,+54 9 11 9058-1700,1995-10-28,Other,3,11,14,2018-10-30,full_time,Buenos Aires,active
+364,EMP-00364,Juan,Ramírez,,+54 9 11 1199-5290,2026-12-23,M,9,12,,2018-06-09,full_time,Córdoba,active
+365,,Ana,González,ana.gonzález365@company.com,+54 9 11 7427-7803,1971-07-27,M,3,14,9,2020-02-24,contractor,  Córdoba  ,active
+366,EMP-00366,Sofía,González,sofía.gonzález366@company.com,+54 9 11 4882-9326,,,2,1,13,2022-03-30,contractor,Rosario,active
+367,EMP-00367,Diego,Pérez,diego.pérez367@company.com,+54 9 11 3410-9190,1997-02-26,F,5,15,9,2018-01-19,full_time,Rosario,active
+368,EMP-00368,Sofía,,sofía.pérez368@company.com,+54 9 11 9686-1172,,Other,,6,7,2016-11-14,full_time,Córdoba,terminated
+369,EMP-00369,Juan,López,,+54 9 11 6965-9786,1970-03-18,M,7,1,11,2018-09-27,contractor,Rosario,terminated
+370,EMP-00370,  Gabriel  ,López,gabriel.lópez370@company.com,+54 9 11 1794-6603,1979-07-16,F,6,4,6,2015-06-30,full_time,,
+371,EMP-00371,Ana,,ana.lópez371@company.com,+54 9 11 5185-6577,02/27/1982,M,5,12,,2017-10-26,full_time,Mendoza,active
+372,EMP-00372,,Ramírez,laura.ramírez372@company.com,+54 9 11 9592-9178,1999-10-03,F,8,9,2,2023-01-16,full_time,Rosario,active
+373,,Lucía,,,+54 9 11 7684-1358,,,8,18,8,2015-06-05,full_time,Rosario,active
+374,,María,Fernández,maría.fernández374@company.com,+54 9 11 9811-2199,1992-01-17,Other,8,6,20,2020-04-01,full_time,Córdoba,terminated
+375,,Juan,García,juan.garcía375@company.com,+54 9 11 4635-6005,1990-12-20,F,1,14,4,2015-07-05,full_time,Rosario,active
+376,EMP-00376,Martín,Rodríguez,martín.rodríguez376@company.com,+54 9 11 3797-7492,1980-01-20,Other,,4,4,2022-08-14,full_time,Mendoza,active
+377,EMP-00377,  Lucía  ,Fernández,lucía.fernández377@company.com,+54 9 11 3530-2187,1976-09-03,M,8,16,3,06/15/2023,full_time,Córdoba,active
+378,EMP-00378,Sofía,Ramírez,,+54 9 11 5320-9726,1985-12-06,  M  ,6,14,14,2019-02-16,contractor,Buenos Aires,active
+379,EMP-00379,Laura,Rodríguez,laura.rodríguez379@company.com,+54 9 11 8921-2807,2000-10-22,M,10,4,1,2022-06-08,full_time,Córdoba,active
+380,EMP-00380,Ana,Torres,ana.torres380@company.com,+54 9 11 4413-5560,1977-08-05,Other,8,9,,2023-08-30,full_time,Rosario,Active
+381,EMP-00381,Ana,Ramírez,ana.ramírez381@company.com,,02/18/1993,F,8,11,1,2018-09-06,part_time,Buenos Aires,terminated
+382,EMP-00382,Ana,Fernández,ana.fernández382@company.com,+54 9 11 4737-7682,1974-12-22,F,,15,,2016-10-07,part_time,Córdoba,active
+383,,Camila,Fernández,camila.fernández383@company.com,+54 9 11 3267-6398,1972-12-01,Other,2,100007,,,part_time,,terminated
+384,EMP-00384,Juan,Martínez,juan.martínez384@company.com,+54 9 11 2622-4921,01-03-1995,M,8,10,8,,,,active
+385,EMP-00385,Sofía,Pérez,,+54 9 11 4871-4821,1986-11-21,F,3,13,4,2023-03-25,,Córdoba,active
+386,,Laura,Sánchez,laura.sánchez386@company.com,+54 9 11 6156-8015,1992-08-25,M,100001,8,18,2021-06-02,part_time,Buenos Aires,
+387,EMP-00387,Ana,Pérez,ana.pérez387@company.com,+54 9 11 6326-1951,1996-11-07,Other,4,100003,,2022-10-21,part_time,Mendoza,on_leave
+388,EMP-00388,,Martínez,lucas.martínez388@company.com,+54 9 11 2965-3244,1996-06-12,M,9,9,2,2015-04-03,,Rosario,active
+389,EMP-00389,Carlos,González,carlos.gonzález389@company.com,+54 9 11 6610-3610,1970-11-01,M,5,100006,12,2017-05-26,part_time,Córdoba,active
+390,EMP-00390,Carlos,González,carlos.gonzález390@company.com,+54 9 11 7665-5765,1972-11-21,Other,7,19,9,2019-09-30,contractor,,terminated
+391,EMP-00391,Carlos,García,carlos.garcía391@company.com,+54 9 11 8689-6156,1976-05-28,F,7,9,17,2017-01-03,part_time,Mendoza,active
+392,EMP-00392,Carlos,López,carlos.lópez392@company.com,+54 9 11 3695-2909,09/18/1995,Other,4,19,7,2024-03-09,part_time,Córdoba,terminated
+393,EMP-00393,Gabriel,Martínez,gabriel.martínez393@company.com,+54 9 11 8831-8197,1983-12-18,F,6,13,3,2017-05-19,full_time,Mendoza,active
+394,EMP-00394,Laura,,laura.rodríguez394@company.com,,"Jun 19, 1997",F,10,6,10,2015-10-18,contractor,,active
+395,EMP-00395,Laura,Pérez,laura.pérez395@company.com,+54 9 11 3840-2865,1980-01-06,Other,2,5,5,2016-12-20,full_time,Córdoba,
+396,,Gabriel,"López
+",gabriel.lópez396@company.com,+54 9 11 8379-4926,1987-05-01,Other,2,5,3,26-08-2021,full_time,Mendoza,active
+397,,,Ramírez,camila.ramírez397@company.com,+54 9 11 3031-6929,1985-09-12,Other,2,16,7,2017/03/01,full_time,Rosario,on_leave
+398,EMP-00398,Martín,rodríguez,martín.rodríguez398@company.com,+54 9 11 1765-4819,1996-08-13,Other,3,8,2,2020-01-10,contractor,Mendoza,active
+399,EMP-00399,Carlos,López,carlos.lópez399@company.com,+54 9 11 9800-9313,1991-08-02,Other,7,7,5,2022-09-19,contractor,Buenos Aires,terminated
+400,EMP-00400,LAURA,,,+54 9 11 2728-8425,"Oct 26, 1971",F,7,11,7,2015-08-18,full_time_v2,Rosario,active
+401,EMP-00401,Sofía,López,sofía.lópez401@company.com,+54 9 11 6640-2463,,F,5,19,14,2017-09-25,full_time,Rosario,on_leave
+402,EMP-00402,Lucas,Torres,lucas.torres402@company.com,+54 9 11 4060-7849,1972-11-21,F,1,,7,2019-06-18,full_time,Córdoba,active
+403,EMP-00403,,,carlos.fernández403@company.com,+54 9 11 6143-1038,1997-12-27,Other,1,6,9,2017-12-19,ful_ltime,Buenos Aires,terminated
+404,EMP-00404,María,Fernández,maría.fernández404@company.com,+54 9 11 2217-8684,1971-01-29,  Other  ,4,6,10,2021-06-12,contractor,Rosario,active
+405,EMP-00405,Valentina,Pérez,valentina.pérez405@company.com,+54 9 11 3809-3631,1987-07-29,,3,14,1,"Dec 06, 2018",full_time,Buenos Aires,on_leave
+406,EMP-00406,Pedro,,pedro.torres406@company.com,+54 9 11 9831-1613,1992-01-07,F,10,4,15,2015-11-14,full_time,Córdoba,active
+407,EMP-00407,Sofía,Martínez,sofía.martínez407@company.com,+54 9 11 5597-8255,1972-04-17,Other,,12,19,06/23/2015,contractor,Buenos Aires,on_leave
+408,EMP-00408,Valentina,García,valentina.garcía408@company.com,+54 9 11 3525-6253,,M,4,3,18,2016-12-16,part_time,Mendoza,on_leave
+409,EMP-00409,Pedro,Sánchez,pedro.sánchez409@company.com,+54 9 11 2899-2148,1975-02-06,Other,4,18,16,2015-11-02,full_time,Córdoba,terminated
+410,EMP-00410,Lucas,López,,+54 9 11 1682-6854,07/16/2000,M,6,18,18,2020-01-16,full_time,Córdoba,on_leave
+411,EMP-00411,Sofía,García,sofía.garcía411@company.com,+54 9 11 2976-8178,1989-05-22,M,3,13,2,2022-12-25,full_time,Rosario,terminated
+412,EMP-00412,Sofía,Sánchez,sofía.sánchez412@company.com,+54 9 11 3119-8647,1977-01-24,Other,1,20,2,2017-08-24,part_time,Mendoza,active
+413,,Gabriel,García,gabriel.garcía413@company.com,,1986-07-06,M,9,,2,13 Oct 2018,full_time,Córdoba,active
+414,EMP-00414,,Fernández,camila.fernández414@company.com,+54 9 11 4138-4135,,Other,3,10,7,2022-04-21,contractor,Rosario,terminated
+415,EMP-00415,Juan,Ramírez,juan.ramírez415@company.com,,1998-05-25,M,8,14,15,2021-03-20,full_time,Buenos Aires,terminated
+416,EMP-00416,Gabriel,Rodríguez,gabriel.rodríguez416@company.com,+54 9 11 3559-8775,1995-07-07,Other,4,18,1,2016-02-06,contractor,Buenos Aires,active
+417,EMP-00417,MARíA,Martínez,maría.martínez417@company.com,+54 9 11 7082-5096,1978-02-15,Other,100005,,5,2016-02-01,full_time,Buenos Aires,on_leave
+418,EMP-00418,Juan,Rodríguez,juan.rodríguez418@company.com,,1972-07-19,M,10,11,,2015-10-22,part_time,Mendoza,active
+419,EMP-00419,Carlos,Rodríguez,carlos.rodríguez419@company.com,+54 9 11 2543-8919,1998-06-11,Other,9,4,15,2022-09-08,part_time,Rosario,active
+420,EMP-00420,María,Ramírez,,+54 9 11 6601-8632,1995-04-05,F,2,3,5,2015-09-23,part_time,Rosario,active
+421,EMP-00421,Carlos,Torres,carlos.torres421@company.com,,1974-11-13,Other,7,18,5,2015-04-17,,Rosario,active
+422,EMP-00422,Gabriel,García,gabriel.garcía422@company.com,+54 9 11 7129-7758,,F,2,7,15,,full_time,,active
+423,EMP-00423,Mateo,García,,+54 9 11 8445-7957,1987-04-03,F,10,10,12,2019-12-27,full_time,Buenos Aires,active
+424,EMP-00424,Gabriel,González,gabriel.gonzález424@company.com,+54 9 11 9690-6955,1992-06-23,M,5,6,12,2017-12-14,part_time,Mendoza,on_leave
+425,EMP-00425,Lucas,López,LUCAS.LóPEZ425@COMPANY.COM,+54 9 11 2466-6735,1973-12-21,Other,6,4,15,2023-02-06,full_time,Córdoba,active
+426,EMP-00426,Lucía,Torres,lucía.torres426@company.com,+54 9 11 7818-5875,1980-04-29,F,4,7,2,2018-11-02,part_time,Rosario,atcive
+427,EMP-00427,María,Ramírez,maría.ramírez427@company.com,+54 9 11 7878-3276,1973-12-16,Other,8,3,18,2018-02-10,full_time,Rosario,
+428,,Sofía,Fernández,sofía.fernández428@company.com,+54 9 11 7539-5033,1990-01-29,M,9,17,16,2021-02-17,contractor,Córdoba,active
+429,emp-00429,Camila,,camila.gonzález429@company.com,+54 9 11 3954-2872,08/19/1979,M,1,14,11,,part_time,Buenos Aires,
+430,EMP-00430,Gabriel,López,gabriel.lópez430@company.com,+54 9 11 8431-4328,02 Feb 1971,M,7,,20,,full_time,Rosario,active
+431,EMP-00431,Diego,Ramírez,"diego.ramírez431@company.com
+",+54 9 11 6167-5070,,M,2,11,18,2019-04-23,full_time,Córdoba,active
+432,EMP-00432,Juan,Ramírez,juan.ramírez432@company.com,+54 9 11 6392-5220,1984-12-14,Other,4,1,10,2015/02/26,full_time,,active
+433,EMP-00433,Sofía,Torres,sofía.torres433@company.com,+54 9 11 6864-2136,1998-04-03,Other,7,8,20,2015-12-15,full_time,Córdoba,terminated
+434,EMP-00434,Camila,Torres,,+54 9 11 5505-4634,1992-04-18,Other,7,12,,,part_time,Rosario,active
+435,EMP-00435,Valentina,Pérez,valentina.pérez435@company.com,,1975-09-03,Other,100007,5,4,2023-12-07,contractor,Rosario,on_leave_v2
+436,,DIEGO,Martínez,diego.martínez436@company.com,+54 9 11 9187-9603,1987-07-19,F,9,100010,17,,full_time,Córdoba,
+437,EMP-00437,Pedro,López,pedro.lópez437@company.com,+54 9 11 7328-6899,1994-02-20,M,100006,9,8,,full_time,Mendoza,terminated
+438,EMP-00438,Carlos,López,carlos.lópez438@company.com,+54 9 11 3310-3554,1990-07-06,"F
+",1,2,14,"Feb 06, 2017",,Rosario,active
+439,EMP-00439,Gabriel,rodríguez,gabriel.rodríguez439@company.com,+54 9 11 1494-7496,1988-10-14,F,,,,2017-03-22,part_time,,active
+440,EMP-00440,Lucas,Sánchez,lucas.sánchez440@company.com,+54 9 11 7539-9993,1985-05-10,F,9,1,2,2022-11-25,full_time,Mendoza,active
+441,EMP-00441,Pedro,López,pedro.lópez441@company.com,+54 9 11 2267-3394,2026-11-09,M,3,100013,5,2016-04-08,part_time,Rosario,active
+442,EMP-00442,Ana,Pérez,ana.pérez442@company.com,  +54 9 11 6497-6495  ,1970-10-13,Other,10,13,6,2016-02-09,full_time,Córdoba,active
+443,EMP-00443,María,,maría.pérez443@company.com,+54 9 11 9103-3420,1996-12-23,F,4,100005,7,2019-02-15,full_time,Mendoza,active
+444,EMP-00444,,Ramírez,pedro.ramírez444@company.com,+54 9 11 8171-7815,1971-03-03,M,5,6,4,2018-04-21,contractor,Córdoba,active
+445,EMP-00445,Lucía,PéREZ,lucía.pérez445@company.com,+54 9 11 4700-4996,1981-02-27,M,8,8,,2018-07-16,full_time,Rosario,
+446,EMP-00446,Juan,López,juan.lópez446@company.com,+54 9 11 4891-7854,1990-06-06,M,,1,10,,contractor,Mendoza,active
+447,EMP-00447,Pedro,Rodríguez,pedro.rodríguez447@company.com,+54 9 11 7477-3515,1988-12-02,M,4,3,7,2016-11-27,Contractor,Córdoba,active
+448,EMP-00448,PEDRO,López,pedro.lópez448@company.com,+54 9 11 1777-2231,1989-06-06,F,10,12,8,2018-12-31,,Mendoza,active
+449,EMP-00449,Mateo,García,mateo.garcía449@company.com,,1987-10-30,F,1,19,19,,full_time,Córdoba,on_levae
+450,,Martín,Pérez,martín.pérez450@company.com,  +54 9 11 1392-4279  ,1993-12-23,Other,10,6,6,2020-06-23,full_time,Rosario,terminated
+451,EMP-00451,Sofía,Pérez,sofía.pérez451@company.com,+54 9 11 8266-2067,1996-01-13,Other,6,8,15,2021-12-11,contractor,Rosario,active
+452,EMP-00452,Diego,Pérez,diego.pérez452@company.com,+54 9 11 3531-3367,1978-06-23,F,10,8,16,2018-10-08,full_time,Buenos Aires,
+453,,Juan,Torres,juan.torres453@company.com,+54 9 11 6923-5785,1970-06-06,F,,100005,16,2016-11-10,full_time,Buenos Aires,active
+454,EMP-00454,Valentina,MARTíNEZ,valentina.martínez454@company.com,+54 9 11 6240-5291,1997-07-14,Other,2,1,15,2020-01-30,full_time,Rosario,on_leave
+455,EMP-00455,Lucas,Ramírez,lucas.ramírez455@company.com,+54 9 11 6559-4570,1999-08-01,M,7,1,13,2017-04-14,full_time,Rosario,active
+456,EMP-00456,Juan,Martínez,,+54 9 11 5518-1841,1983-02-21,Other,7,11,4,2023-10-19,contractor,,
+457,EMP-00457,Lucas,Ramírez,lucas.ramírez457@company.com,+54 9 11 9972-7745,1996-11-01,Other,10,18,3,2022-09-17,full_time,Buenos Aires,active
+458,EMP-00458,Pedro,Sánchez,  pedro.sánchez458@company.com  ,+54 9 11 4284-8700,,Other,4,5,,,full_time,Mendoza,active
+459,EMP-00459,Gabriel,García,gabriel.garcía459@company.com,+54 9 11 2890-4784,1994-10-26,"F
+",6,11,1,2022-08-01,part_time,Buenos Aires,active
+460,EMP-00460,Camila,Pérez,camila.pérez460@company.com,,1971-11-26,Other,100009,11,3,"Aug 15, 2016",,Buenos Aires,active
+461,EMP-00461,Sofía,Martínez,sofía.martínez461@company.com,+54 9 11 8908-8160,1990-06-30,Other,,,2,2020-07-14,part_time,Córdoba,on_leave
+462,EMP-00462,Juan,Torres,juan.torres462@company.com,,1977-05-26,F,1,16,8,2018-06-20,full_time,Córdoba,active
+463,EMP-00463,Lucas,Rodríguez,,+54 9 11 4369-6772,1995-06-22,F,8,16,1,2018-11-08,full_time,Buenos Aires,on_leave
+464,EMP-00464,Ana,Fernández,ana.fernández464@company.com,+54 9 11 6174-5876,1985-02-28,M,8,12,16,2019-02-14,part_time,Córdoba,terminated
+465,EMP-00465,  Carlos  ,  Fernández  ,carlos.fernández465@company.com,,1998-12-17,Other,7,100019,10,2020-01-23,part_time,Buenos Aires,terminated
+466,EMP-00466,Lucas,Martínez,lucas.martínez466@company.com,,1973-06-01,M,7,11,14,2019-08-05,full_time,Mendoza,active
+467,,Sofía,González,sofía.gonzález467@company.com,,1976-08-16,,3,,,2020-07-03,contractor,Mendoza,active
+468,EMP-00468,  Sofía  ,Martínez,sofía.martínez468@company.com,+54 9 11 1277-8178,1983-11-06,F,,,20,2024-03-06,Full_time,BUENOS AIRES,active
+469,EMP-00469,Diego,Rodríguez,diego.rodríguez469@company.com,+54 9 11 8760-4439,1975-05-02,Other,5,2,11,2015-10-31,full_time,Rosario,on_leave
+470,EMP-00470,Camila,Torres,,+54 9 11 8525-7990,1986-11-16,Other,5,,4,2018-01-17,full_time,Mendoza,active
+471,EMP-00471,Ana,Martínez,ana.martínez471@company.com,+54 9 11 4058-6959,1991-01-03,F,4,14,9,2019-03-23,full_time,Buenos Aires,on_leave
+472,EMP-00472,Diego,Martínez,diego.martínez472@company.com,+54 9 11 6357-3612,,F,2,15,10,,full_time,Mendoza,active
+473,EMP-00473,Lucas,González,lucas.gonzález473@company.com,,1980-08-09,F,3,4,18,2022-12-31,full_time,Buenos Aires,active
+474,EMP-00474,Martín,ramírez,martín.ramírez474@company.com,,1971-01-09,M,6,9,19,2015-03-31,contractor,Córdoba,terminated
+475,"EMP-00475
+",Sofía,Sánchez,sofía.sánchez475@company.com,+54 9 11 7952-9089,1980-12-18,M,6,3,12,,full_time,Rosario,active
+476,EMP-00476,Juan,Rodríguez,juan.rodríguez476@company.com,+54 9 11 1491-2890,1998-12-16,Other,7,15,10,2016-03-19,full_time,Buenos Aires,terminated
+477,EMP-00477,Lucas,López,lucas.lópez477@company.com,+54 9 11 5923-8593,1985-06-28,M,1,3,11,2018-08-07,full_time,Mendoza,active
+478,  EMP-00478  ,María,González,maría.gonzález478@company.com,+54 9 11 8450-3948,1979-08-31,Other,4,1,6,2023-04-19,contractor,Buenos Aires,terminated
+479,EMP-00479,Mateo,López,  mateo.lópez479@company.com  ,+54 9 11 8238-9885,2027-06-22,Other,2,20,,2016-04-11,part_time,Rosario,active
+480,EMP-00480,María,García,maría.garcía480@company.com,+54 9 11 3979-8468,09/01/1991,other,10,20,12,2024-03-05,contractor,Mendoza,active
+481,EMP-00481,Ana,Torres,ana.torres481@company.com,+54 9 11 2285-8982,1998-07-25,F,4,6,7,"Jul 28, 2017",full_time,Mendoza,on_leave
+482,EMP-00482,,,diego.pérez482@company.com,+54 9 11 8167-6906,1987-08-18,F,,11,3,2020-11-22,full_time,Mendoza,active
+483,EMP-00483,Laura,Pérez,,+54 9 11 5354-7886,1992-10-18,Other,6,20,12,,part_time,Rosario,
+484,EMP-00484,Martín,Ramírez,martín.ramírez484@company.com,+54 9 11 5081-5523,1972-01-17,Other,1,14,12,2015-04-30,full_time,Mendoza,active
+485,emp-00485,,,carlos.sánchez485@company.com,+54 9 11 4282-3293,1988-12-19,Other,4,3,7,2019-11-04,full_time,Mendoza,on_leave
+486,EMP-00486,,,maría.lópez486@company.com,+54 9 11 3922-1198,1971-09-22,Other,4,16,6,2024-02-13,contractor,Rosario,
+487,EMP-00487,Lucía,Pérez,lucía.pérez487@company.com,+54 9 11 4472-4418,23-11-1991,M,10,1,17,2021-03-21,contractor,Mendoza,on_leave
+488,emp-00488,Valentina,Fernández,valentina.fernández488@company.com,+54 9 11 3901-4084,1984-05-01,"F
+",2,4,3,"Feb 16, 2021",full_time,Córdoba,active
+489,EMP-00489,Mateo,Martínez,mateo.martínez489@company.com,,1987-01-05,,9,17,,2020-11-25,,Rosario,active
+490,EMP-00490,Diego,Martínez,diego.martínez490@company.com,+54 9 11 8940-9277,1986-10-14,F,3,3,12,2020-02-11,full_time,Mendoza,on_leave
+491,EMP-00491,Valentina,Rodríguez,valentina.rodríguez491@company.com,+54 9 11 1818-4569,1992-03-30,F,5,16,5,2027-05-11,full_time,"Rosario
+",active
+492,EMP-00492,Valentina,Sánchez,valentina.sánchez492@company.com,+54 9 11 1026-5231,1986-12-28,M,9,9,18,2022-10-26,full_time,rosario,active
+493,EMP-00493,,García,diego.garcía493@company.com,+54 9 11 1314-5165,1979-05-17,M,4,100010,18,2023-08-02,part_time,Rosario,active
+494,EMP-00494,María,ramírez,maría.ramírez494@company.com,+54 9 11 5514-1511,1974-12-16,"M
+",3,19,4,2015-11-25,contractor,Rosario,on_leave
+495,EMP-00495,Laura,"López
+",laura.lópez495@company.com,  +54 9 11 8640-1451  ,1993-02-23,M,7,2,4,2021-03-05,full_time,Mendoza,on_leave
+496,EMP-00496,Laura,Sánchez,laura.sánchez496@company.com,+54 9 11 1945-1057,1998-03-27,Other,,14,16,2020-08-09,part_time,Buenos Aires,active
+497,EMP-00497,Lucas,Ramírez,,+54 9 11 2042-2610,2000-07-06,M,6,4,6,2019-08-14,part_time,,active
+498,EMP-00498,Gabriel,García,gabriel.garcía498@company.com,+54 9 11 1327-1956,2000-09-28,M,6,18,7,2016-04-29,full_time,Córdoba,terminated
+499,,Carlos,Fernández,carlos.fernández499@company.com,+54 9 11 5670-2192,1993-06-06,Other,6,17,2,2024-04-26,full_time,Rosario,Active
+500,,María,González,maría.gonzález500@company.com,+54 9 11 4036-4186,1985-05-08,Other,6,7,15,2016-06-29,contractor,Córdoba,terminated
+448,EMP-00448,Pedro,López,pedro.lópez448@company.com,+54 9 11 1777-2231,06 Jun 1989,F,10,12,8,2018-12-31,,Mendoza,active
+127,EMP-00127,Martín,Rodríguez,martín.rodríguez127@company.com,+54 9 11 2359-2045,1997-10-24,F,9,3,100016,2019-09-22 00:46:29,contractor,Córdoba,active
+405,EMP-00405,Valentina,Pérez,valentina.pérez405@company.com,+54 9 11 3809-3631,1987-07-29,,3,14,100000,2018-12-06,full_time,Buenos Aires,on_leave
+256,,"Valentina
+",García,valentina.garcía256@company.com,+54 9 11 5861-5253,14 Apr 1985,  M  ,4,100001,16,2021-05-21,contractor,Buenos Aires,active
+349,EMP-00349,"Sofía
+",González,sofía.gonzález349@company.com,+54 9 11 7459-3328,1988-08-18,F,7,9,3,2018-01-15,contractor,Córdoba,
+271,EMP-00271,Juan,Torres,,+54 9 11 9800-5954,1979-12-20,Other,5,7,20,2017-05-19 00:58:54,part_time,Mendoza,on_leave
+338,EMP-00338,Gabriel,Torres,GABRIEL.TORRES338@COMPANY.COM,+54 9 11 2198-1725,1980-06-29,F,1,6,16,2017-09-20,part_time,Mendoza,
+282,EMP-00282,Lucía,,,+54 9 11 2939-2493,1976-04-18,F,2,7,3,2019-04-16,full_time,Córdoba,active
+402,  EMP-00402  ,Lucas,Torres,lucas.torres402@company.com,+54 9 11 4060-7849,1972-11-21,F,1,,7,2019-06-18,full_time,Córdoba,actiev
+405,EMP-00405,Valentina,Pérez,valentina.pérez405@company.com,+54 9 11 3809-3631,1987-07-29 00:08:27,,3,14,1,2018-12-06,full_time,Buenos Aires,on_leave
+282,EMP-00282,Lucía,,,+54 9 11 2939-2493,"Apr 18, 1976",F,2,7,3,2019-04-16,full_time,Córdoba,active
+59,EMP-00059,Mateo,rodríguez,mateo.rodríguez59@company.com,+54 9 11 7302-5906,1973-06-25,F,7,10,8,2023-07-08,full_time_v2,Rosario,active
+415,EMP-00415,Juan,Ramírez,juan.ramírez415@company.com,,1998-05-25,M,8,14,15,2021-03-20,full_time,Buenos Aires,terminated
+293,EMP-00293,,Rodríguez,,+54 9 11 1371-3603,1992-05-29,Other,6,5,1,2016-03-29,full_time,Rosario,on_leave
+215,EMP-00215,Lucas,Pérez,lucas.pérez215@company.com,+54 9 11 9012-4020,19 Sep 1997,F,,7,1,2021-01-12 00:47:02,contractor,Córdoba,active

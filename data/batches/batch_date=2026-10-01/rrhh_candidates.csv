@@ -1,0 +1,115 @@
+candidate_id,posting_id,first_name,last_name,email,phone,resume_url,source,applied_date,status
+1,4,Martín,Rodríguez,candidate1@email.com,+54 9 11 2268-8710,https://storage.company.com/resumes/1.pdf,Recruiter,2024-01-25,offer
+2,8,Ana,Martínez,candidate2@email.com,+54 9 11 7419-9986,https://storage.company.com/resumes/2.pdf,LinkedIn,2024-02-11,rejected
+3,9,Martín,Torres,candidate3@email.com,+54 9 11 3178-9290,https://storage.company.com/resumes/3.pdf,LinkedIn,2024-05-22,offer
+4,10,Lucía,González,candidate4@email.com,+54 9 11 7569-2309,https://storage.company.com/resumes/4.pdf,Referral,2024-01-09,applied
+5,10,Camila,Rodríguez,candidate5@email.com,+54 9 11 1023-3026,https://storage.company.com/resumes/5.pdf,Recruiter,12-02-2024,applied
+6,6,Laura,Fernández,candidate6@email.com,+54 9 11 5688-3187,,Recruiter,2024-01-12,screening
+7,7,Valentina,Rodríguez,candidate7@email.com,+54 9 11 9715-9746,,,04/03/2024,
+8,1,Mateo,Fernández,candidate8@email.com,+54 9 11 6439-8503,https://storage.company.com/resumes/8.pdf,LinkedIn,2024-03-22,rejected
+9,9,Sofía,Pérez,candidate9@email.com,+54 9 11 3599-8908,https://storage.company.com/resumes/9.pdf,,2024-03-22,offer
+10,5,Valentina,Torres,candidate10@email.com,+54 9 11 8402-5402,https://storage.company.com/resumes/10.pdf,Indeed,2024-04-13,rejected
+11,6,Lucas,Fernández,candidate11@email.com,+54 9 11 5964-6263,https://storage.company.com/resumes/11.pdf,Company Website,2024-01-16,hired
+12,1,Pedro,Sánchez,candidate12@email.com,+54 9 11 8452-4516,https://storage.company.com/resumes/12.pdf,LinkedIn,2024-03-02,hired
+13,6,Pedro,Martínez,candidate13@email.com,+54 9 11 5833-6888,https://storage.company.com/resumes/13.pdf,  Referral  ,2024-02-19,screening
+14,7,Diego,Ramírez,candidate14@email.com,+54 9 11 7136-6793,https://storage.company.com/resumes/14.pdf,LinkedIn,,interview
+15,4,Valentina,Martínez,,,https://storage.company.com/resumes/15.pdf,Referral,2024-04-21,hired
+16,7,Valentina,López,candidate16@email.com,+54 9 11 2201-6993,https://storage.company.com/resumes/16.pdf,Indeed,2024-02-08,offer
+17,7,Sofía,Torres,candidate17@email.com,+54 9 11 7080-3443,https://storage.company.com/resumes/17.pdf,Recruiter,2024-03-25,
+18,,,Pérez,candidate18@email.com,+54 9 11 8068-6126,https://storage.company.com/resumes/18.pdf,Recruiter,01/03/2024,rejected
+19,12,Mateo,Rodríguez,CANDIDATE19@EMAIL.COM,+54 9 11 4661-6767,https://storage.company.com/resumes/19.pdf,Recruiter,2024-03-27,applied
+20,11,Pedro,Fernández,candidate20@email.com,+54 9 11 9832-8677,https://storage.company.com/resumes/20.pdf,,2024-04-04,hired
+21,6,Carlos,sánchez,candidate21@email.com,+54 9 11 7964-6250,https://storage.company.com/resumes/21.pdf,LINKEDIN,2024-05-04,hired
+22,10,Lucas,Martínez,,+54 9 11 3616-8122,https://storage.company.com/resumes/22.pdf,Recruiter,2024-01-28,rejected
+23,3,,Torres,candidate23@email.com,+54 9 11 2479-6673,https://storage.company.com/resumes/23.pdf,Company Website,2024-04-10,hired
+24,,Ana,Fernández,  candidate24@email.com  ,+54 9 11 4710-2390,https://storage.company.com/resumes/24.pdf,Indeed,2024-01-08,screening
+25,3,Laura,,candidate25@email.com,+54 9 11 5785-5670,https://storage.company.com/resumes/25.pdf,Company Website,2024-05-20,
+26,12,Gabriel,González,candidate26@email.com,+54 9 11 4695-1214,https://storage.company.com/resumes/26.pdf,LinkedIn,2024-02-13,hired
+27,11,Diego,González,candidate27@email.com,+54 9 11 9951-7007,https://storage.company.com/resumes/27.pdf,Company Website,2024-02-23,screening
+28,6,Mateo,García,candidate28@email.com,+54 9 11 5989-6081,https://storage.company.com/resumes/28.pdf,Referral,2024-03-29,applied
+29,100006,Diego,Rodríguez,candidate29@email.com,+54 9 11 9618-3447,https://storage.company.com/resumes/29.pdf,Company Website,2024-01-25,interview
+30,6,Lucas,Sánchez,,+54 9 11 2934-3043,,Referral,2024-03-22,applied
+31,5,Mateo,,candidate31@email.com,+54 9 11 6116-6395,https://storage.company.com/resumes/31.pdf,Indeed,2024/04/16,applied
+32,1,Lucas,Fernández,candidate32@email.com,+54 9 11 5982-8997,,Recruiter,2024-01-09,screening
+33,4,Ana,Pérez,candidate33@email.com,+54 9 11 5817-3518,https://storage.company.com/resumes/33.pdf,Referral,2024-04-19,interview
+34,3,Lucía,González,candidate34@email.com,+54 9 11 8256-1227,https://storage.company.com/resumes/34.pdf,,2024-03-30,
+35,10,Camila,Sánchez,candidate35@email.com,+54 9 11 4380-8274,https://storage.company.com/resumes/35.pdf,Indeed,2024-05-03,interview
+36,11,Laura,López,candidate36@email.com,+54 9 11 9630-2485,https://storage.company.com/resumes/36.pdf,Referral,2024-02-05,screening
+37,6,Martín,Fernández,,+54 9 11 8236-1577,https://storage.company.com/resumes/37.pdf,Recruiter,24-05-2024,
+38,6,Lucía,López,candidate38@email.com,+54 9 11 5382-7287,https://storage.company.com/resumes/38.pdf,Referral,2024-05-17,rejected
+39,4,María,Rodríguez,candidate39@email.com,+54 9 11 2541-4933,https://storage.company.com/resumes/39.pdf,Company Website,2024-05-24,interview
+40,1,Camila,Martínez,candidate40@email.com,+54 9 11 2978-9826,https://storage.company.com/resumes/40.pdf,Company Website,2024-02-25,hired
+41,10,Gabriel,Ramírez,candidate41@email.com,+54 9 11 5037-8417,https://storage.company.com/resumes/41.pdf,Indeed,2024-04-24,rejected
+42,11,Ana,Sánchez,candidate42@email.com,+54 9 11 6988-5390,,Indeed,2024-05-07,offer
+43,9,Gabriel,Sánchez,candidate43@email.com,,https://storage.company.com/resumes/43.pdf,Recruiter,2024-05-26,offer
+44,4,Lucas,Ramírez,candidate44@email.com,,https://storage.company.com/resumes/44.pdf,  LinkedIn  ,2024-05-20,applied
+45,,Pedro,García,candidate45@email.com,+54 9 11 7171-8481,https://storage.company.com/resumes/45.pdf,LinkedIn,2024-01-02,hired
+46,5,Martín,González,candidate46@email.com,+54 9 11 1750-1812,https://storage.company.com/resumes/46.pdf,LinkedIn,2024-01-26,applied
+47,10,Juan,Fernández,candidate47@email.com,+54 9 11 5093-9209,https://storage.company.com/resumes/47.pdf,referral,2024-01-11,interview
+48,6,Martín,Martínez,candidate48@email.com,+54 9 11 4831-7618,https://storage.company.com/resumes/48.pdf,Company Website,2024-03-21,interview
+49,100002,Lucía,  García  ,candidate49@email.com,+54 9 11 9981-1889,https://storage.company.com/resumes/49.pdf,Indeed,2024-02-06,rejected
+50,1,Pedro,  López  ,"candidate50@email.com
+",+54 9 11 8784-2962,https://storage.company.com/resumes/50.pdf,Indeed,2024-02-24,applied
+51,1,Gabriel,Ramírez,candidate51@email.com,,https://storage.company.com/resumes/51.pdf,Recruiter,2024-03-31,interview
+52,1,Pedro,Fernández,candidate52@email.com,+54 9 11 3609-1619,https://storage.company.com/resumes/52.pdf,,2024-02-25,
+53,2,,Sánchez,candidate53@email.com,+54 9 11 8880-1973,https://storage.company.com/resumes/53.pdf,Indeed,2024-01-01,rejected
+54,9,Sofía,MARTíNEZ,candidate54@email.com,+54 9 11 9942-7668,https://storage.company.com/resumes/54.pdf,LinkedIn,2024-05-05,hired
+55,4,Diego,García,candidate55@email.com,+54 9 11 6191-8960,https://storage.company.com/resumes/55.pdf,Indeed,2024-02-24,ofefr
+56,9,Carlos,López,candidate56@email.com,+54 9 11 6253-7340,HTTPS://STORAGE.COMPANY.COM/RESUMES/56.PDF,Indeed,2024-01-15,screening
+57,12,María,Rodríguez,candidate57@email.com,+54 9 11 8590-4381,https://storage.company.com/resumes/57.pdf,Recruiter,2024-01-25,offer
+58,3,,,,+54 9 11 7510-7563,https://storage.company.com/resumes/58.pdf,Referral,2024-05-12,interview
+59,4,Gabriel,Ramírez,candidate59@email.com,+54 9 11 5718-4177,https://storage.company.com/resumes/59.pdf,Indeed,2024-02-17,applied
+60,10,Valentina,López,candidate60@email.com,+54 9 11 7957-1706,https://storage.company.com/resumes/60.pdf,LinkedIn,2024-02-17,hired
+61,10,Juan,García,"candidate61@email.com
+",,https://storage.company.com/resumes/61.pdf,Recruiter,2024-02-23,hired_v2
+62,1,Mateo,Fernández,candidate62@email.com,,https://storage.company.com/resumes/62.pdf,Recruiter,2024-05-10,offer
+63,11,Carlos,Ramírez,candidate63@email.com,+54 9 11 8520-8747,https://storage.company.com/resumes/63.pdf,  Referral  ,2024-03-27,offer
+64,5,María,rodríguez,candidate64@email.com,+54 9 11 6559-1976,https://storage.company.com/resumes/64.pdf,Company Website,2024-01-26,applied
+65,2,Lucas,García,candidate65@email.com,+54 9 11 4594-3539,https://storage.company.com/resumes/65.pdf,Referral,2024-04-24,offer
+66,11,Lucas,García,candidate66@email.com,+54 9 11 4681-7140,https://storage.company.com/resumes/66.pdf,Indeed,2024-04-18,applied
+67,4,Camila,Pérez,candidate67@email.com,+54 9 11 9148-5359,https://storage.company.com/resumes/67.pdf,LinkedIn,2024-01-05,
+68,6,Laura,Ramírez,candidate68@email.com,+54 9 11 3119-3819,https://storage.company.com/resumes/68.pdf,Company Website,2024-02-14,appleid
+69,6,  Ana  ,,candidate69@email.com,+54 9 11 2662-3084,https://storage.company.com/resumes/69.pdf,Indeed,2026-10-03,screening
+70,5,Mateo,Rodríguez,candidate70@email.com,+54 9 11 1735-8521,https://storage.company.com/resumes/70.pdf,LinkedIn,2024-03-31,rejected
+71,2,Lucas,López,candidate71@email.com,+54 9 11 7172-1531,https://storage.company.com/resumes/71.pdf,Recruiter,2024-02-10,offer
+72,5,Lucas,Rodríguez,candidate72@email.com,+54 9 11 4637-8960,https://storage.company.com/resumes/72.pdf,,2024-03-23,rejected
+73,9,Lucía,Sánchez,candidate73@email.com,+54 9 11 6414-6129,https://storage.company.com/resumes/73.pdf,"LinkedIn
+",2024-02-24,applied
+74,10,,López,candidate74@email.com,+54 9 11 5015-4571,https://storage.company.com/resumes/74.pdf,Indeed,2024-01-30,rejected
+75,,Laura,Rodríguez,candidate75@email.com,+54 9 11 9880-8117,https://storage.company.com/resumes/75.pdf,,2024-02-27,rejected
+76,9,Pedro,Sánchez,candidate76@email.com,+54 9 11 2363-3390,https://storage.company.com/resumes/76.pdf,Recruiter,2024-04-06,hired
+77,7,Diego,Torres,candidate77@email.com,,https://storage.company.com/resumes/77.pdf,Indeed,2024-01-02,applied
+78,9,María,Pérez,,+54 9 11 5106-4412,https://storage.company.com/resumes/78.pdf,Referral,2024-02-05,interview
+79,1,María,Ramírez,,+54 9 11 9714-6772,https://storage.company.com/resumes/79.pdf,LinkedIn,2024-01-17,screening
+80,,Pedro,Torres,candidate80@email.com,+54 9 11 9372-9820,,LinkedIn,2024-02-02,rejected
+81,9,,Torres,candidate81@email.com,+54 9 11 1511-5818,https://storage.company.com/resumes/81.pdf,Company Website,2024-04-24,interview
+82,7,Juan,García,candidate82@email.com,+54 9 11 8832-8604,,LinkedIn,2024-03-25,rejected
+83,7,Lucas,,candidate83@email.com,+54 9 11 6457-1453,https://storage.company.com/resumes/83.pdf,,2024-02-18,applied
+84,9,Camila,Sánchez,candidate84@email.com,+54 9 11 6310-9316,https://storage.company.com/resumes/84.pdf,Indeed,2024-03-31,rejected
+85,7,"Gabriel
+",Sánchez,candidate85@email.com,+54 9 11 6602-4160,https://storage.company.com/resumes/85.pdf,LinkedIn,2024-05-19,screening
+86,6,Laura,Pérez,candidate86@email.com,+54 9 11 4622-3499,https://storage.company.com/resumes/86.pdf,Indeed,2024-02-01,applied
+87,100007,Lucía,Torres,candidate87@email.com,+54 9 11 4102-3303,https://storage.company.com/resumes/87.pdf,Referral,2024-02-25,rejected
+88,,,Martínez,candidate88@email.com,+54 9 11 2227-6005,https://storage.company.com/resumes/88.pdf,Referral,2024-02-19,rejected
+89,2,Martín,Pérez,candidate89@email.com,+54 9 11 5556-2707,https://storage.company.com/resumes/89.pdf,Indeed,2024-03-22,hired
+90,9,Pedro,Ramírez,candidate90@email.com,+54 9 11 8071-1335,https://storage.company.com/resumes/90.pdf,Company Website,2024-04-03,applied
+91,5,Camila,Pérez,candidate91@email.com,+54 9 11 4992-2245,https://storage.company.com/resumes/91.pdf,LinkedIn,2024-03-13,offer
+92,8,Ana,González,candidate92@email.com,  +54 9 11 1665-3747  ,https://storage.company.com/resumes/92.pdf,"LinkedIn
+",2024-02-16,applied
+93,11,María,González,candidate93@email.com,+54 9 11 3800-6120,https://storage.company.com/resumes/93.pdf,Referral,2024-03-16,rejected
+94,12,Sofía,Ramírez,candidate94@email.com,+54 9 11 3068-3325,https://storage.company.com/resumes/94.pdf,Referral,2024-02-21,rejected
+95,3,Ana,Rodríguez,candidate95@email.com,+54 9 11 4531-1881,https://storage.company.com/resumes/95.pdf,Recruiter,2026-12-02,screening
+96,11,Pedro,Martínez,,+54 9 11 7947-3642,https://storage.company.com/resumes/96.pdf,Company Website,2024-02-07,
+97,3,Carlos,González,candidate97@email.com,+54 9 11 9092-8756,https://storage.company.com/resumes/97.pdf,,2024-05-06,hired
+98,3,Lucía,Fernández,candidate98@email.com,+54 9 11 2422-8227,https://storage.company.com/resumes/98.pdf,LinkedIn,,rejected
+99,7,Diego,Sánchez,candidate99@email.com,+54 9 11 1103-2218,https://storage.company.com/resumes/99.pdf,Company Website,2026-10-13,screening
+100,1,Gabriel,Sánchez,candidate100@email.com,+54 9 11 4614-6479,https://storage.company.com/resumes/100.pdf,Company Website,2024-02-22,interview
+100,1,Gabriel,Sánchez,candidate100@email.com,+54 9 11 4614-6479,https://storage.company.com/resumes/100.pdf,Company Website,2024-02-22,interview
+5,10,Camila,Rodríguez,candidate5@email.com,+54 9 11 1023-3026,https://storage.company.com/resumes/5.pdf,Recruiter,2024-02-12,applied
+49,3,Lucía,García,candidate49@email.com,+54 9 11 9981-1889,"https://storage.company.com/resumes/49.pdf
+",Indeed,2024-02-06,rejected
+101,13,Valentina,Gómez,candidate101@email.com,+54 9 11 4410-2381,https://storage.company.com/resumes/101.pdf,LinkedIn,2026-08-12,hired
+102,13,Joaquín,Díaz,candidate102@email.com,+54 9 11 5532-9104,https://storage.company.com/resumes/102.pdf,Referral,2026-08-14,rejected
+103,13,Camila,Romero,candidate103@email.com,+54 9 11 6120-4478,https://storage.company.com/resumes/103.pdf,Indeed,2026-08-18,rejected
+104,13,Tomás,Álvarez,candidate104@email.com,+54 9 11 3398-7712,https://storage.company.com/resumes/104.pdf,Company Website,2026-08-20,rejected
+105,13,Julieta,Torres,candidate105@email.com,+54 9 11 7765-0293,https://storage.company.com/resumes/105.pdf,LinkedIn,2026-08-22,rejected

@@ -1,0 +1,24 @@
+position_id,position_title,level,department_name,min_salary,max_salary,is_remote_eligible,requires_travel
+1,  Junior Developer  ,Junior,Ingeniería,35000,,1,false
+2,Senior Developer,Senior,Ingeniería,,100000,0,false
+3,Tech Lead,Lead,"Ingeniería
+",90000,140000,1,true
+4,Engineering Manager,Manager,Ingeniería,120000,180000,0,false
+5,Data Engineer,Senior,Data,70000,120000,1,false
+6,Data Analyst,,Data,40000,70000,0,false
+7,Sales Representative,Junior,Ventas,30000,50000,1,true
+8,Sales Manager,Manager,Ventas,80000,130000,1,false
+9,Marketing Analyst,Junior,Marketing,35000,55000,0,true
+10,Marketing Manager,Manager,Marketing,75000,120000,1,false
+11,HR Specialist,Junior,Recursos Humanos,35000,55000,0,
+12,HR Business Partner,Senior,RECURSOS HUMANOS,60000,95000,0,true
+13,  Accountant  ,Junior,Finanzas,40000,65000,1,true
+14,Financial Analyst,Senior,Finanzas,65000,,0,false
+15,Operations Coordinator,Junior,Operaciones,35000,55000,1,
+16,Product Manager,Senior,Producto,80000,130000,1,false
+17,Support Agent,Junior,"Soporte
+",25000,40000,1,false
+18,Support Lead,Lead,Soporte,50000,75000,0,true
+19,legal counsel,Senior,Legal,90000,150000,0,false
+20,CEO,,Ejecutivo,200000,500000,0,false
+15,Operations Coordinator,Junior,Operaciones,35000,55000,1,

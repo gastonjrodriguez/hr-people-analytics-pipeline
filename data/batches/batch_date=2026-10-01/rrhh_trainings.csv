@@ -1,0 +1,17 @@
+training_id,training_name,provider,duration_hours,cost_per_person,is_mandatory,category
+1,Leadership Fundamentals,LinkedIn Learning,20,373,false,Compliance
+2,  AWS Certification Prep  ,External Vendor,23,82,false,Soft Skills
+3,Project Management,Udemy,9,38,false,Compliance
+4,Communication Skills,Internal,11,139,true,Leadership
+5,Data Analytics,Coursera,13,82,false,Leadership
+6,Security Awareness,Coursera,,98,,Soft Skills
+7,Agile Methodology,External Vendor,32,450,false,Soft Skills
+8,Python for Data,Coursera,17,4,false,Compliance
+9,SQL Advanced,Coursera,6,242,false,
+10,Public Speaking,LinkedIn Learning,,76,false,
+11,,External Vendor,28,484,true,Leadership
+12,Time Management,Coursera,4,258,false,Compliance
+13,Excel Advanced,LinkedIn Learning,11,122,false,Technical
+14,Presentation Skills,  External Vendor  ,N/A,208,false,
+15,Negotiation,Internal,9,216,false,Technical
+8,Python for Data,Coursera,17,4,false,Compliance

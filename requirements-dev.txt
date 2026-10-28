@@ -1,0 +1,4 @@
+# Local test environment (the notebooks themselves run on Databricks)
+pyspark==4.0.1
+delta-spark==4.0.1  # only used in Delta mode (HR_TESTS_DELTA=1)
+pytest==8.3.3

@@ -1,0 +1,10 @@
+benefit_type_id,benefit_name,description,monthly_cost,is_taxable
+1,Health Insurance,Company Health Insurance benefit,416,1
+2,Dental,Company Dental benefit,301,0
+3,Vision,Company Vision benefit,190,0
+4,Life Insurance,Company Life Insurance benefit,238,1
+5,401k Match,Company 401k Match benefit,303,0
+6,,Company Gym Membership benefit,118,0
+7,Education Stipend,Company Education Stipend benefit,248,0
+8,Remote Work Allowance,company remote work allowance benefit,463,0
+8,Remote Work Allowance,Company Remote Work Allowance benefit,463,0

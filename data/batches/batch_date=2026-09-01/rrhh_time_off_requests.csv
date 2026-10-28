@@ -1,0 +1,315 @@
+request_id,employee_id,request_type,start_date,end_date,days_requested,reason,status,approved_by,requested_at
+1,100076,personal,2024-12-30,2025-01-01,6,Personal matters,rejected,7,2025-10-27 01:29:27
+2,71,unpaid,,2024-08-01,4,Family vacation,approved,10,2025-01-14 20:34:39
+3,425,personal,2024-02-27,2024-03-01,,  Family vacation  ,,6,2024-12-18 08:59:29
+4,126,unpaid,2024-09-01,"Sep 05, 2024",8,Personal matters,approved,20,2026-03-10 16:17:10
+5,417,sick,,2024-02-29,6,Personal matters,,2,2024-01-21 09:33:42
+6,483,sick,2024-11-09,2024-11-14,6,Travel,approved,7,2025-11-04 11:09:35
+7,100343,personal_v2,,2024-05-29,9,Personal matters,approved,6,2025-10-26 15:19:50
+8,377,unpaid,2024-09-04,2024-09-09,10,Medical appointment,rejected,6,2024-06-18 13:35:45
+9,99,vacation,2024-11-22,,6,Travel,approved,19,2025-02-08 05:09:21
+10,339,sick,2024-10-05,2024-10-09,6,  Family vacation  ,approved,16,2024-05-07 14:48:00
+11,473,vacation,2024-03-25,2024-03-27,7,Medical appointment,rejected,9,2025-11-13 15:36:31
+12,322,personal,2024-02-18,2024-02-27,3,Travel,approved,12,2024-05-23 05:47:33
+13,119,personal,2024-10-03,2024-10-04,9,Family vacation,pendnig,,
+14,325,unpaid,,2024-08-16,7,Personal matters,pending,5,2024-03-27 12:13:45
+15,11,personal,2024-07-29,2024-08-06,10,Personal matters,approved,16,2024-01-26 00:35:14
+16,271,unpaid,2024-05-17,2024-05-19,3,Medical appointment,approved,16,2024-05-22 20:22:09
+,182,vacation,2024-02-01,2024-02-06,0,Travel,rejected,8,2025-12-05 12:22:45
+18,,unpaid,2024-03-31,2024-04-08,2,,pending,1,2025-05-03 11:56:39
+19,,vacation,2024-10-05,2024-10-14,2,Family vacation,rejected,16,2026-02-07 16:06:17
+20,,vacation,2024-11-11,2024-11-13,6,Family vacation,approved,,2025-10-18 14:41:36
+21,327,personal,2024-06-06,2024-06-14,6,Travel,approved,13,
+22,312,unpaid,2024-10-22,2024-10-28,9,Travel,approved,15,2025-08-28 17:32:09
+23,100449,sick,2024-01-08,2024-01-18,2,Family vacation,pending,20,2024-01-11 06:55:23
+24,413,personal,2024-03-14,2024-03-16,10,Medical appointment,approved,,2025-01-26 06:53:14
+100024,490,vacation_v2,,2024-04-15,1,Personal matters,approved,12,2025-07-30 12:00:05
+26,278,vacation,2024-05-07,2024-05-10,,Family vacation,rejected,6,2024-01-25 12:50:11
+27,327,vacation,2024-03-21,2024-03-31,,Personal matters,pending,9,2024-09-28 23:59:42
+28,312,vacation,2027-05-31,2024-03-21,10,"Medical appointment
+",approved,,2025-12-02 02:11:28
+29,319,vacation,,2024-08-27,10,Family vacation,pending,10,2025-04-14 15:40:31
+30,488,Vacation,2024-12-27,2024-12-31,6,Personal matters,,7,2026-05-02 02:39:07
+31,41,vacation,2024-03-01,2024-03-05,2,Personal matters,,11,2024-07-10 11:38:26
+32,100477,sick,,2024-11-23,8,Travel,pending,4,2026-05-14 14:24:22
+33,,personal,2024-04-28,2024-05-01,4,Family vacation,rejected,13,2025-04-09 03:42:39
+,323,sick,17 Feb 2024,,2,Medical appointment,approved,11,2024-09-03 07:12:44
+35,250,,2024-08-26,2024-09-05,9,Family vacation,pending,,2024-07-10 02:04:32
+36,295,personal,2024-07-16,2024-07-19,3330,Medical appointment,approved,10,2026-01-01 02:22:44
+37,416,unpaid,2024-09-30,2024-10-09,5,Family vacation,rejected,15,2025-11-25 23:20:34
+38,75,vacation,2024-11-11,2024-11-19,,Family vacation,approved,18,2025-11-10 04:12:43
+39,285,vacation,2024-12-25,2024-12-28,2,Medical appointment,pending,1,
+40,378,sick,2024-07-06,2024-07-16,9,Family vacation,pending,15,2025-07-09 03:39:15
+41,100389,sick,2024-01-12,01/21/2024,7,Personal matters,rejected,11,2024-11-13 08:38:41
+42,138,personal_v2,2024-12-24,2024-12-25,10,Travel,rejected,4,"Jul 03, 2025"
+43,244,personal,2024-11-12,2024-11-15,1,Medical appointment,pending,18,
+44,357,,2024-05-22,2024-05-26,2,Family vacation,pending,7,
+,235,vacation,2024-02-22,2024-02-23,5,Medical appointment,approved,9,2026-07-20 03:00:08
+46,314,vacation,2024-01-23,2024-01-28,7,Family vacation,approved,19,2025-03-09 04:10:34
+,27,unpaid,2024-10-06,2024-10-11,4,Family vacation,approved,1,2025-10-08 18:58:31
+48,99,sick,2024-04-02,2024-04-07,2,Family vacation,rejected,17,2024-07-19 05:26:18
+49,58,personal,2024-11-18,2024-11-24,7,Family vacation,rejected,19,2025-03-26 11:51:51
+50,228,sick,19 Jul 2024,2024-07-24,,Personal matters,approved,,2024-02-02 11:17:28
+100050,374,unpaid,2024-07-03,2024-07-04,6,Medical appointment,approved,1,2025-05-28 12:58:48
+52,64,personal,2024-07-08,2024-07-18,2,Personal matters,approved,7,2026-02-13 20:43:11
+53,420,sick,2024-02-06,2024-02-12,N/A,Travel,approved,10,2024-05-12 01:12:38
+54,229,vacation,2024-09-14,2024-09-20,5,Personal matters,rejected,16,2025-09-19 15:50:11
+55,265,vacation,2024-02-09,2024-02-10,,Personal matters,rejected,17,2025-10-26 06:09:01
+56,494,,2024-04-26,2024-05-01,9,Medical appointment,,2,
+57,309,personal,2024-05-23,2024-06-02,7,Personal matters,approved,,2025-10-12 21:56:52
+58,327,unpaid,2024-08-15,2024-08-19,9,Travel,rejected,10,2027-06-09
+,159,vacation,2024-03-31,2024-04-04,1,Family vacation,pending,8,2026-05-13 14:49:11
+60,372,,2027-04-03,2027-06-21,0,Family vacation,rejected,9,2024-08-11 18:43:18
+61,307,personal,2024-03-10,2024-03-20,5,Medical appointment,,20,2026-03-10 00:44:47
+62,55,personal,2024-06-02,03-06-2024,2,Family vacation,approved,12,2024-01-11 20:39:32
+63,275,sick,2024-08-02,2024-08-04,9,Personal matters,pending,9,2025-05-20 10:58:51
+64,140,sick,2024-10-08,2024-10-17,10,Medical appointment,approved,11,2024-06-03 22:16:56
+65,415,unpaid,2027-06-06,2024-01-15,1,Medical appointment,approved,,2025-07-09 20:18:48
+66,270,sick,,2024-08-29,3,Travel,approved,1,2024-12-05 07:48:53
+67,363,personal,2024-10-02,,2,Medical appointment,rejected,4,"Mar 14, 2026"
+68,246,unpaid_v2,2024-02-23,2024-02-25,9,Family vacation,pending,18,2024-12-22 19:02:57
+100068,333,unpaid,2024-01-20,2024-01-23,1,,pending,2,05/28/2025
+70,281,personal,2024-04-12,2024-04-17,4,Medical appointment,approved,19,2025-04-21 21:50:29
+71,236,personal,2024-05-11,2024-05-15,7,Personal matters,approved,7,2025-09-27 03:22:24
+72,290,sick,2024-05-24,2024-06-01,9,,approved,12,2025-06-13 10:04:03
+,174,personal,2024-05-11,,3,travel,,2,2026-03-16 10:19:51
+74,262,unpaid,2024-10-27,,4,Family vacation,pending,20,2025-05-13 01:05:44
+75,9,vacation,2024-02-17,2024-02-24,7,Medical appointment,approved,2,2026-02-20 13:42:01
+76,123,unpaid,2024-04-26,2024-05-04,7,  Personal matters  ,pending,8,2026-02-07 05:32:49
+77,,vacation,2024-09-07,2024-09-15,9,Family vacation,rejected,2,2025-11-22 21:45:49
+78,55,sick,2024-07-15,2024-07-25,,Family vacation,approved,1,2027-04-19
+79,61,vacation,,"Dec 23, 2024",3,Travel,rejected,17,07/18/2026
+80,,,2024-12-10,,8,Travel,approved,7,2027-07-14
+81,,vacation,2024-10-29,2024-11-04,9,Medical appointment,pending,11,2025-03-29 03:55:50
+,488,personal,2024-05-11,2024-05-21,4,Medical appointment,approved,8,2025-05-20 16:25:49
+83,,vacation,2026-08-05,2024-09-05,9,Personal matters,rejected,17,2025-11-15 18:08:22
+84,173,,2024-06-13,2024-06-16,10,Personal matters,approved,3,
+85,,sick,2024-08-14,2024-08-22,2230,  Personal matters  ,rejected,,2025-11-10 03:53:04
+86,406,sick,2024-08-03,2024-08-06,,  Personal matters  ,approved,3,2026-02-14 18:41:55
+87,38,personal,2024-06-03,,3,Medical appointment,Approved,18,2026-07-17 14:56:32
+88,202,unpaid,2024-05-03,2024-05-12,1,Medical appointment,rejected,5,
+,205,sick,2024-02-09,02/14/2024,3,Family vacation,approved,6,2026-06-05 21:26:34
+90,455,unpaid,2024-04-01,2024-04-07,3,Personal matters,approved,,2025-01-22 09:03:25
+91,490,persoanl,2024-02-09,2027-02-11,3,Personal matters,,15,2025-11-13 14:03:03
+92,149,unpaid,2024-07-22,2024-07-28,1296,Travel,approved,15,2027-07-03
+93,100392,vacation,,2024-03-21,7,Family vacation,approved,9,2024-03-18 08:25:29
+94,,sick,2024-01-10,2024-01-19,10,Family vacation,approved,1,
+95,,unpaid,2024-05-13,2024-05-20,3,Family vacation,approved,4,2026-04-21 06:43:58
+96,343,Unpaid,2024-07-30,2024-08-04,4,FAMILY VACATION,pending,9,2025-01-31 03:44:31
+97,149,unpaid,2024-11-12,2024-11-13,5,Personal matters,approved,5,2025-03-04 09:33:20
+98,96,personal,2024-06-06,2024-06-13,2,Medical appointment,approved,,2024-11-22 20:03:18
+,60,sick,2024-04-11,"Apr 21, 2024",5,,approved,5,2026-07-12 01:13:17
+100,289,personal,2024-11-10,2024-11-18,9,Family vacation,approved,7,2025-11-02 11:57:56
+101,373,vacation,2024-11-23,2024/11/27,6,Personal matters,approved,1,2025-10-29 10:05:31
+102,160,sick,2024-10-26,30 Oct 2024,2,Medical appointment,pending,6,2025-07-24 06:31:00
+,465,vacation,2024-05-11,,9,Personal matters,approved,,2025-10-16 01:56:35
+104,198,sick,2024-01-04,2024-01-08,,Family vacation,pending,,2024-12-28 13:36:19
+105,260,unpaid,2024-07-19,2024-07-26,7,Travel,approved,4,2024-08-28 11:35:04
+106,195,sick,2024-04-05,2024-04-10,1,Family vacation,,5,
+107,450,personal,2024-03-06,2024-03-07,7,Travel,pending,14,2025-08-15 04:12:28
+108,266,vacation,2024-05-17,2024-05-23,9,Family vacation,approved,3,2026-03-09 04:12:11
+109,236,,2024-08-29,2024-09-05,9,,pending,14,2024-10-28 15:48:22
+110,111,personal,2024-05-31,2024-06-08,4,Medical appointment,approved,1,2024-01-06 09:40:12
+111,33,vacation,2024-10-23,2024-10-30,6,Travel,rejected,14,2024-10-31 23:32:22
+112,184,sick,2024-03-06,2024-03-10,10,Personal matters,pending,14,2024-08-29 22:33:31
+113,275,unpaid,2024-10-01,2024-10-11,4,Travel,approved,7,2026-04-01 00:16:16
+114,251,sick,2024-05-19,2024-05-23,6,PERSONAL MATTERS,approved,11,2024-06-02 15:39:45
+115,65,vacation,2024-09-17,2024-09-18,10,Medical appointment,approved,8,2026-07-10 10:56:34
+116,132,vacation,2024-04-11,2024-04-17,4,Family vacation,approved,13,2025-06-11 20:39:18
+117,489,sick,2024-04-25,2024-04-27,9,Family vacation,,17,2026-01-14 12:40:42
+,142,unpaid,2024-06-02,,3,Family vacation,pending,18,2024-12-16 04:46:05
+119,414,vacation,2024/09/28,2024-10-06,10,Travel,pending,17,2024/10/29
+120,6,unpaid,2024-02-21,2024-02-29,4,"Personal matters
+",pending,4,2026-04-09 22:28:18
+121,344,unpaid,2024-07-31,2024-08-04,5,Family vacation,pending,4,2026-03-04 23:03:36
+122,310,vacation,2024-11-05,12-11-2024,10,Medical appointment,approved,13,2024-07-09 00:13:14
+123,253,unpaid,2024-10-03,2024-10-05,9,Medical appointment,pending,4,2025-09-06 20:56:28
+124,17,personal,2024-11-24,2024-12-04,6,,approved,10,2026-03-02 19:10:52
+125,100013,sick,2024-04-03,2024-04-10,7,,pending,20,2024-04-04 09:20:56
+126,162,unpaid,2024-12-21,2024-12-28,9,Family vacation,approved,2,2026-12-06
+127,421,unpaid,2024-04-15,2027-01-05,,Family vacation,approved,10,2025-02-28 20:52:52
+128,207,personal,2024-12-14,2024-12-17,1,Family vacation,,17,2024-06-26 17:44:34
+129,286,unpaid,2024-07-27,2024-08-01,5,Personal matters,rejected,16,2026-04-12 02:32:21
+,378,sick,2024-05-12,2024-05-22,,Travel,pending,,2024-10-22 10:23:21
+131,368,vacation,2024-05-21,2024-05-22,3,Travel,aprpoved,5,2024-01-06 21:06:11
+132,100473,unpaid,2024-04-04,11 Apr 2024,7,Medical appointment,approved,14,2025-04-20 14:50:03
+133,169,unpaid,2024-02-06,2024-02-09,4,Medical appointment,rejected,4,2024-08-10 20:22:29
+134,169,sick,2024-09-09,,10,Family vacation,pending,13,2025-02-28 18:58:44
+135,132,vacation,2024-11-04,2024-11-08,10,Personal matters,approved,2,
+136,431,unpaid,2024-09-22,2024-10-02,8,Family vacation,approved,11,2024-05-20 15:03:29
+137,446,personal,2024-08-22,2024-08-24,10,Travel,rejected,20,2024-08-30 11:16:12
+100137,,vacation,28 Jul 2024,,9,Family vacation,approved,17,2025-09-28 13:08:33
+139,213,sick,2024-05-03,2024-05-04,7,,pending,19,2025-03-25 06:01:01
+,255,unpaid,2024-09-25,2024-10-03,8,Personal matters,pending,20,2024-06-06 08:52:09
+141,229,sick,2024-06-15,2024-06-23,9,Personal matters,approved,12,2025-08-22 23:33:20
+142,354,vacation,2024-07-25,2024-07-29,9,,approved,19,2025-12-24 11:27:01
+143,,vacation,2024-01-15,2024-01-24,4,Personal matters,approved,10,2026-01-07 07:09:09
+144,,sick,,2024-11-05,7,Personal matters,pending,20,2024-08-11 08:44:42
+145,279,sick,2024-06-21,2024-06-23,1,Personal matters,rejected,8,2024-11-24 03:55:14
+146,322,sick,2024-07-08,2024-07-09,10,Medical appointment,pending,12,2024-02-01 06:05:50
+147,218,sick,03-03-2024,2024-03-09,9,Medical appointment,approved,,2026-02-06 07:43:48
+148,131,personal,2024-03-05,2024-03-11,9,Personal matters,approved,16,2025-06-26 18:19:37
+149,78,sick,2024-07-04,2024-07-05,1,  Personal matters  ,approved,13,2026-03-31 11:53:43
+150,258,personal,,2024-06-15,4,Family vacation,pending,,2025-07-20 10:09:57
+151,336,vacation,2024-07-21,2027-04-29,3,Travel,approved,11,2026-05-17 18:23:02
+152,34,unpaid,2024-02-20,2024-02-26,9,Personal matters,pending,3,2024-11-13 10:10:51
+153,437,personal,2024-01-07,2024-01-10,10,Medical appointment,rejected,19,2024-10-08 00:05:30
+154,292,unpaid,2024-03-08,2024-03-17,,Personal matters,approved,,2026-01-15 18:21:34
+155,26,personal,2024-11-30,2024-12-09,3,"Medical appointment
+",approved,16,2025-03-25 04:18:00
+156,59,vacation,2024-02-06,,4,Medical appointment,approved,9,2024-07-09 15:23:23
+157,389,unpaid,2024-05-23,"May 27, 2024",9,,rejected,14,2024-05-06 05:08:01
+158,113,vacation,2024-03-18,2024-03-20,9,,approved,15,2024-08-14 00:19:55
+159,,sick,2024-06-05,2024-06-07,2,TRAVEL,approved,9,2026-06-02 19:50:02
+160,,sick,2024-07-11,2024-07-20,7,Travel,approved,13,
+161,493,sick,2024-11-27,2024-12-06,2,Personal matters,approved,3,2026-05-31 06:45:08
+,36,sick,2024-02-27,2024-03-02,3,Family vacation,rejected,15,2026-05-14 12:09:39
+163,7,unpaid,2024-05-15,2024-05-22,2,,rejected,10,
+164,339,unpaid,2024-08-26,2024-09-05,8,Personal matters,approved,15,2025-08-13 22:24:14
+165,255,sick,2024-03-22,2024-03-23,1,Medical appointment,approved,13,2024-01-18 19:12:59
+166,405,unpaid,2024-01-28,2024-02-03,9,Medical appointment,,14,2025-02-26 22:57:46
+167,286,,2024-04-25,2024-04-29,,Medical appointment,approved,4,2024-05-29 21:00:18
+168,408,sick,2024-01-26,2024-01-27,4,Family vacation,,,
+169,275,Sick,2024/10/20,2024-10-22,8,Personal matters,rejected,4,2026-05-26 22:59:57
+,,sick_v2,2024-12-23,,10,Personal matters,approved,19,"Mar 16, 2024"
+171,329,vacation,2024-07-14,2024-07-21,,Family vacation,approved,12,2026-05-18 19:35:28
+172,257,unpaid,2024-04-05,2024-04-10,7,Family vacation,approved,7,2025-06-14 09:04:24
+173,312,personal,2024-07-10,2024-07-15,,Travel,approved,4,2024-01-17 02:49:19
+174,245,sick,2024-10-27,,8,Medical appointment,approved,20,20-10-2025
+,468,vacation,2024-01-12,2024-01-20,1,,approved,4,2026-06-29 19:57:04
+176,459,,2024-06-28,2024-07-05,N/A,Travel,approved,8,2025-04-23 20:13:08
+177,80,sick,2024-01-13,2024-01-17,9,Personal matters,apprvoed,19,2026-01-12 00:26:02
+178,116,unpaid,2024-10-26,2024-10-27,1,Travel,rejected,,2024-06-04 10:25:26
+179,298,sikc,2024-04-26,2024-05-04,8,Family vacation,approved,16,2024-09-18 11:12:27
+180,323,vacation,,2024-05-11,2,Travel,approved,4,2026-05-05 02:53:06
+181,25,personal,2024-04-10,2024-04-13,4,Medical appointment,Approved,18,2025-03-17 17:18:50
+182,,sick,"Aug 26, 2024",2024-08-29,6,Medical appointment,approved,18,2024-01-16 21:59:18
+183,465,sick,2024-10-05,2024-10-10,2,Personal matters,rejected,13,2025-03-04 06:21:13
+184,353,,2024-06-30,2024-07-09,3,Travel,approved,14,2024-09-24 12:42:12
+185,386,personal,2024-02-24,2024-03-01,9,Medical appointment,rejected,16,2024-06-05 02:54:30
+186,50,,2024-03-03,2024-03-09,8,Personal matters,approved,11,2024-10-31 13:00:49
+187,406,unpaid,2024-11-10,2024-11-14,9,,approved,17,
+188,78,,2024-10-27,2024-10-30,10,Personal matters,rejected,4,2024-06-17 06:07:57
+189,497,Sick,2024-09-21,2024-10-01,9,Medical appointment,pending,20,2025-11-13 18:42:31
+190,,unpaid,2024-01-06,2024-01-12,3,Medical appointment,rejected,17,2024-04-21 10:47:26
+191,299,personal,2024-12-04,2024-12-10,1,Personal matters,approved,17,2025-01-26 12:15:05
+192,249,sick,2024-12-25,2024-12-31,5,,approved,17,
+193,135,personal,2024-05-07,2024-05-08,8,Travel,rejected,,2025-06-27 02:14:35
+194,46,sick,2024-12-22,2024-12-24,,Medical appointment,pending,5,2025-12-18 17:04:19
+195,271,vacation,,2024-01-07,8,Personal matters,rejected,5,2024-10-06 11:11:01
+196,461,vacation,2024-10-21,2024-10-31,3,Travel,approved,8,2026-05-20 02:49:10
+197,350,personal,2024-05-13,2024-05-16,2,Medical appointment,pending,6,2026-02-22 07:45:44
+198,422,Personal,2024-08-17,2024-08-26,10,Travel,rejected,,10/14/2025
+199,482,,,2024-06-30,7,Family vacation,approved,,2024-07-04 02:21:21
+100199,100073,personal,2024-01-23,2024-01-29,7,Medical appointment,Approved,6,2024-07-15 19:12:45
+201,234,unpaid,2024-10-22,,7,Medical appointment,approved,7,2024-09-04 06:07:12
+202,230,personal,2024-01-19,2024-01-25,10,Medical appointment,,14,2025-06-14 14:01:30
+203,206,vacation,2024-09-19,2024-09-24,10,Travel,approved_v2,9,2024-04-12 05:50:46
+204,201,,2024-11-02,2024-11-12,2,FAMILY VACATION,pending,16,2026-06-29 05:19:07
+100204,478,personal,2024-10-11,2024-10-14,1,Personal matters,approved,,2024-09-11 20:48:53
+206,19,unpaid,,2024-11-18,9,Family vacation,approved,5,"May 19, 2025"
+207,425,personal,2024-05-12,2024-05-15,7,Travel,approved,N/A,29 Jul 2024
+208,278,unpaid,,2024-11-23,7,Medical appointment,rejected,12,19-01-2026
+209,188,personal,2024-04-27,,4,Family vacation,approved,6,2026-04-09 14:15:54
+210,147,personal,,2024-01-26,2,Personal matters,approved,1,2026-07-01 14:00:31
+211,100122,personal,2024-02-04,2024-02-12,6,Travel,approved,9,2025-06-11 00:13:55
+212,,unpaid,2024-06-06,2024-06-11,10,Medical appointment,approved,12,
+213,122,sick,2024-01-13,2024-01-18,10,Family vacation,pending,1,2024-05-08 20:57:06
+214,402,personal,2026-10-30,2024-10-29,4,Personal matters,pending,11,2025-06-05 17:37:28
+215,407,Vacation,2024-12-16,2024-12-23,6,Travel,approved,18,2025-09-24 11:07:48
+216,259,personal,2024-06-16,2024-06-25,1,Family vacation,approved,9,2024-03-10 15:48:20
+217,156,sick,2024-02-23,2024-03-04,9,Travel,rejected,9,2025-10-15 17:36:41
+218,147,sick,2024-04-30,,4,Medical appointment,approved,4,2024-09-17 15:48:54
+219,,sick,2024-08-29,,9,Family vacation,pending,6,2026-04-05 08:47:19
+220,383,personal,,,5,Travel,rejected,11,2026-03-11 10:47:40
+,79,Unpaid,2024-08-21,2024-08-23,3,Travel,approved,18,2025-02-10 08:49:09
+222,323,,2024-10-24,2024-10-31,6,Family vacation,pending,19,2026-04-29 16:47:38
+223,365,vacation,2024-11-06,2024-11-13,2,Travel,rejected,15,2024-04-09 05:00:59
+224,64,vacation,2024-12-29,2025-01-01,6,Travel,pending,10,2025-06-10 05:32:20
+100224,285,,2024-11-19,2024-11-25,8,Travel,pending,5,2025-04-14 20:33:24
+226,199,vacation,2024-03-05,2024-03-13,1,Medical appointment,approved,5,2025-03-07 20:26:02
+227,103,sick,2024-02-14,2024-02-18,,Medical appointment,approved,1,
+228,114,vacation,2024-02-25,,1204,Family vacation,rejected,17,2026-06-18 07:52:37
+229,360,vacation,2024-12-16,2024-12-23,8,Personal matters,approved,7,2024-10-09 07:28:13
+230,,sick,,2024-02-17,6,Medical appointment,approved,15,
+231,22,sick,2024-09-30,2024-10-03,,Medical appointment,approved,14,
+232,86,vacation,2024-03-07,2024-03-16,6,Travel,approved,5,2026-05-11 19:09:21
+233,413,vacation,2024-10-26,2024-11-01,5,Personal matters,rejected,17,2025-10-21 03:15:50
+234,245,sick,2024-04-27,2024-04-29,2,Family vacation,pending,12,2024-05-23 14:39:35
+235,,unpaid,2024-01-25,2024-01-30,2,Travel,rejected,16,03-02-2025
+100235,416,sick,2024-06-04,2024-06-08,5,Medical appointment,approved,17,2024-01-09 14:11:54
+237,337,sick,2024-06-22,2024-06-24,2,Travel,rejected,1,2024-06-13 13:33:47
+,226,unpaid,2024-06-06,,4,Medical appointment,approved,10,2026-03-20 23:57:24
+239,313,personal,2024-09-07,2024-09-13,7,Family vacation,approved,,12-02-2026
+240,244,sick,,2024-11-18,7,"Personal matters
+",approved,2,2025-02-21 10:38:32
+100240,326,sick,2024/04/08,2024-04-10,3,,rejected,4,
+242,249,vacation,2027-04-18,2024-07-06,,Personal matters,,16,2024-07-07 12:50:21
+243,,unpaid,2024-12-16,2024-12-21,9,Personal matters,,1,
+244,489,personal,2024-10-06,2024-10-13,2,Travel,approved,4,2026-05-04 21:18:34
+245,328,unpaid,2024-10-04,2024-10-07,5,Medical appointment,rejected,1,"Mar 19, 2025"
+246,195,sick,2024-07-29,2024-08-06,5,Family vacation,rejected,17,2027-02-13
+247,32,unpaid,2024-09-18,2024-09-25,2,Travel,pending,10,2026-02-04 22:08:41
+248,20,,2024-02-05,2024-02-07,1,Medical appointment,rejected,20,2025-07-22 21:22:20
+249,427,personal,2026-09-17,2024-04-23,4,Travel,pending,8,2026-02-27 12:27:23
+250,173,unpaid,2024-02-17,2024-02-25,0,Travel,rejected,14,2024-08-16 00:10:35
+,449,personal,2024-02-16,2024-02-21,8,Travel,rejected,10,2026-05-07 01:33:46
+252,467,,,2024-04-19,7,Family vacation,approved,5,2025-05-03 10:57:37
+253,120,unpaid,2024-08-10,08/17/2024,5,,pending,,2025-12-09 19:29:41
+254,285,sick,2024-03-10,2027-01-13,10,Personal matters,rejected,20,2024-07-04 17:50:53
+255,78,sick,2024-05-27,2024-05-31,8,Medical appointment,rejected,12,2025-05-25 14:53:50
+256,295,,2024-06-28,2024-07-02,6,MEDICAL APPOINTMENT,Pending,7,2025-03-08 20:25:30
+100256,102,vacation,2024-03-24,2024-03-26,10,Personal matters,rejected,5,2024-08-24 23:08:59
+258,322,sick,2024-08-26,2024-08-27,2,"Medical appointment
+",rejected,5,2025-08-04 16:28:32
+259,65,,2024-10-27,31 Oct 2024,4,Personal matters,pending,5,2025-06-06 18:52:57
+260,388,vacation,2024-06-18,2024-06-22,2,Family vacation,approved,7,26-09-2024
+261,414,vacation,2024-02-15,2024-02-19,4,Travel,approved,5,2026-01-24 19:36:51
+262,,vacation,2024-06-18,2024-06-26,9,Personal matters,rejected,16,2025-05-28 07:09:39
+263,344,Vacation,2024-03-17,,6,Medical appointment,pending,20,2026-06-24 12:50:05
+264,,personal,2024-10-21,2024-10-27,8,Travel,rejected,8,2025-09-08 01:16:41
+265,411,sick,2024-12-20,2024-12-23,3,Travel,approved,15,2026-05-25 19:00:35
+,303,personal,2024-08-02,2024-08-03,10,Medical appointment,approved,4,2025-05-23 19:42:12
+,414,vacation,2024-09-09,2024-09-14,8,Travel,approved,2,2024-06-07 11:58:42
+,439,vacation,,2024-09-05,1,,approved,2,2026-06-03 06:39:22
+269,444,unpaid,2024-04-19,2024-04-29,6,Family vacation,pending,14,
+270,227,vacation,2024-04-27,2024-05-05,2910,,Rejected,9,
+271,377,unpaid,2024-04-24,2024-04-28,,Family vacation,approved,4,
+272,323,unpaid,2024-01-04,2024-01-06,10,Travel,approved,7,
+273,156,vacation,2024-12-07,2024-12-14,4,Travel,,7,2025-09-04 21:24:26
+274,331,unpaid,2024-04-03,2024-04-06,6,Medical appointment,approved,1,2024-04-15 14:49:50
+,60,personal,2024-04-24,2024-05-01,2,Medical appointment,rejected,5,2024-05-04 20:53:07
+100275,498,personal,2024-03-14,2024-03-20,4,Travel,pending,15,2025-01-08 01:57:23
+277,245,vacation,2024-05-29,2024-06-01,5,Medical appointment,,12,2025-05-28 13:00:19
+278,146,sick,2024-09-02,2024-09-10,7,Personal matters,pending,10,2026-05-11 23:37:15
+,409,vacation,2024-11-14,2024-11-22,1,Medical appointment,approved,12,2026-03-14 09:06:05
+280,282,personal,2024-04-09,2024-04-10,9,MEDICAL APPOINTMENT,approved,7,
+,343,sick,2024-10-21,"Oct 23, 2024",1,Travel,approved,13,2025-09-26 19:50:05
+282,358,sick,2024-04-03,2024-04-07,7,travel,rejected,-15,2026-06-02 07:59:27
+283,277,unpaid,2024-07-10,2024-07-14,0,Travel,approved,16,2026-02-24 16:13:48
+284,376,,,2024-08-31,2,,pending,14,2025-12-21 09:18:17
+285,219,unpaid,2024-08-11,2024-08-14,5,Travel,pending,9,2025-02-22 13:34:02
+286,30,sick,2024-02-11,2024-02-18,8,Family vacation,approved,19,2024-05-31 23:52:33
+287,330,,2024-01-30,,9,Travel,rejected,18,2026-01-01 19:59:53
+288,409,,2024-07-22,2024-07-28,8,Family vacation,rejected,4,2024-10-16 07:14:52
+289,4,sick_v2,2024-10-31,2024-11-02,1,Family vacation,approved,5,2025-02-27 17:15:21
+290,472,personal,2024-09-15,2024-09-23,9,Medical appointment,pending,7,2026-05-17 13:51:04
+291,328,unpaid,2024-03-29,2024-04-01,3,Family vacation,rejected,12,2025-03-08 09:15:14
+292,153,sick,2024-10-26,2024-10-27,6,Family vacation,rejected,9,2025-01-07 05:20:22
+293,131,sick,2024-01-24,2024-02-03,6,Personal matters,pending,18,2024-06-23 11:40:57
+294,428,vacation,2024-10-29,2024-10-31,9,Travel,rejected,2,2024-04-16 10:31:10
+295,,unpaid,,2024-06-28,8,Medical appointment,approved,3,2025-11-09 16:25:59
+296,266,vacation,2024-06-17,2024-06-24,6,Travel,,1,2025-02-20 14:58:19
+297,353,,2027-02-25,20 May 2024,2,Medical appointment,approved,10,2025-06-22 21:50:35
+298,,personal,2024-01-02,2024-01-04,6,Family vacation,approved,17,2026-07-08 05:33:55
+100298,415,unpaid,,2025-01-05,8,Medical appointment,rejected,19,2024-03-11 14:45:41
+300,288,vacation,2024-10-09,2024-10-16,5,Travel,pending,13,2026-01-18 20:44:20
+94,,sick,2024-01-10,2024-01-19,10,Family vacation,approved,1,
+157,389,unpaid,2026-11-19,2024-05-27 00:35:10,9,,rejected,14,2024-05-06 05:08:01
+5,417,sick,,2024-02-29,6,Personal matters,,2,2024-01-21 09:33:42
+70,281,personal,2024-04-12,2024-04-17 00:11:54,4,Medical appointment,approved,19,2025-04-21 21:50:29
+272,323,unpaid,2024-01-04,2024-01-06,10,Travel,approved,7,
+210,147,persoanl,,2024-01-26,2,Personal matters,approved,1,2026-07-01 14:00:31
+283,277,unpaid,2024-07-10,2026-08-23,3,Travel,approved,16,2026-02-24 16:13:48
+185,386,personal,2024-02-24 00:08:43,2024-03-01,9,Medical appointment,rejected,16,2024-06-05 02:54:30
+252,467,,,2024-04-19,7,Family vacation,approved,5,2025-05-03 11:41:03
